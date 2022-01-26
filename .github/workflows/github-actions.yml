@@ -19,3 +19,8 @@ jobs:
         uses: scacap/action-surefire-report@v1
         with:
           fail_if_no_tests: false
+      - name: Build Analysis
+        run: mvn --batch-mode --update-snapshots -DskipTests site
+      - uses: jwgmeligmeyling/spotbugs-github-action@master
+          with:
+            path: '**/findbugsXml.xml'
