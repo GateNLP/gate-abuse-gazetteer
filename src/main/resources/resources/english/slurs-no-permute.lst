@@ -1,0 +1,137 @@
+bite me	origin=farrell	pos=youphrase
+fuck off	strength=strongest	type=general
+piss off	type=general
+sod off	type=general
+bugger off	type=general
+bore off	type=general
+fuck you	strength=strongest	pos=youphrase	type=general
+fuck u	strength=strongest	pos=youphrase	type=general
+FU	pos=youphrase	type=general
+fuckyou	strength=strongest	pos=youphrase	type=general
+get fucked	pos=youphrase	type=sexual
+GFY	pos=youphrase	type=general
+go fuck yourself	pos=youphrase	type=general
+you are dumb	pos=youphrase	type=reputation
+you are so dumb	pos=youphrase
+u are dumb	pos=youphrase	type=reputation
+u are so dumb	pos=youphrase	type=reputation
+how dumb you are	pos=youphrase	type=reputation
+how dumb u are	pos=youphrase	type=reputation
+you are so stupid	pos=youphrase	type=reputation
+how stupid you are	pos=youphrase	type=reputation
+u are stupid	pos=youphrase	type=reputation
+u are so stupid	pos=youphrase	type=reputation
+how stupid u are	pos=youphrase	type=reputation
+you are stupid	pos=youphrase	type=reputation
+eat pussy	origin=farrell	pos=youphrase	type=sexual
+go back to wherever you came from	type=racist	pos=youphrase
+go back to where you came from	type=racist	pos=youphrase
+go back wherever you came from	type=racist	pos=youphrase
+go back where you came from	type=racist	pos=youphrase
+go back to wherever u came from	type=racist	pos=youphrase
+go back to where u came from	type=racist	pos=youphrase
+go back wherever u came from	type=racist	pos=youphrase
+go back where u came from	type=racist	pos=youphrase
+shut the fuck up	pos=youphrase	type=general
+shut da fuck up	pos=youphrase	type=general
+shut your mouth	pos=youphrase	type=general
+shut your fucking mouth	pos=youphrase	type=general
+STFU	pos=youphrase	type=general
+you cock	strength=strong	pos=youphrase	type=sexual	anatomy=male	gender=male
+u cock	strength=strong	pos=youphrase	type=sexual	anatomy=male	gender=male
+touch of the tar brush	type=racist	origin=farrell	pos=phrase
+touch of the tar brushes	type=racist	origin=farrell	pos=phrase
+dickless	origin=farrell	pos=phrase	anatomy=male	gender=male
+a cock	strength=strong	pos=phrase	type=sexual	anatomy=male	gender=male
+dick for brains	origin=farrell	pos=phrase	anatomy=male	gender=male
+a-hole	type=sexual
+a-holes	plural=true
+aunt jemima	type=racist	origin=farrell
+aunt jemimas	type=racist	origin=farrell	plural=true
+african forklift	type=racist	origin=farrell
+alligator bait	type=racist	origin=farrell
+bitch tits	type=sexist	anatomy=female	gender=female
+bitch-tits	type=sexist	anatomy=female	gender=female
+bitchtits	type=sexist	anatomy=female	gender=female
+black barbie	type=racist	origin=farrell
+black barbies	type=racist	origin=farrell	plural=true
+black dago	type=racist	origin=farrell
+black dagos	type=racist	origin=farrell	plural=true
+cheese eating surrender monkey	origin=farrell	type=racist
+cheese eating surrender monkeys	origin=farrell	type=racist	plural=true
+cheese eating surrender monkies	origin=farrell	type=racist	plural=true
+cheese-eating surrender monkey	origin=farrell	type=racist
+cheese-eating surrender monkeys	origin=farrell	type=racist	plural=true
+cheese-eating surrender monkies	origin=farrell	type=racist	plural=true
+cheese eating surrender-monkey	origin=farrell	type=racist
+cheese eating surrender-monkeys	origin=farrell	type=racist	plural=true
+cheese eating surrender-monkies	origin=farrell	type=racist	plural=true
+cheese-eating surrender-monkey	origin=farrell	type=racist
+cheese-eating surrender-monkeys	origin=farrell	type=racist	plural=true
+cheese-eating surrender-monkies	origin=farrell	type=racist	plural=true
+dumbshit	type=reputation
+dumshit	type=reputation
+dumbsh1t	type=reputation
+dumsh1t	type=reputation
+dumbsh!t	type=reputation
+dumsh!t	type=reputation
+dumbshits	plural=true	type=reputation
+dumshits	plural=true	type=reputation
+dumbsh1ts	plural=true	type=reputation
+dumsh1ts	plural=true	type=reputation
+dumbsh!ts	plural=true	type=reputation
+dumsh!ts	plural=true	type=reputation
+fanny flaps	origin=farrell	type=sexual	anatomy=female	gender=female
+fanny-flaps	origin=farrell	type=sexual	anatomy=female	gender=female
+fannyflaps	origin=farrell	type=sexual	anatomy=female	gender=female
+fresh off the boat	type=racist	origin=farrell
+piece of feces
+piece of faeces
+piece of shit	type=general
+piece of shite	type=general
+piece of excrement
+pieces of feces	plural=true
+pieces of faeces	plural=true
+pieces of shit	plural=true	type=general
+pieces of shite	plural=true	type=general
+pieces of excrement	plural=true
+piss flaps	strength=strong
+piss-flaps	strength=strong
+pissflaps	strength=strong
+poor white trash	type=racist	origin=farrell
+pussy lips	type=sexist	origin=farrell	community=women	gender=female	anatomy=women
+pussy-lips	type=sexist	origin=farrell	community=women	gender=female	anatomy=women
+pussylips	type=sexist	origin=farrell	community=women	gender=female	anatomy=women
+redlegs	type=racist	origin=farrell
+scum	type=general
+shanty irish	type=racist	origin=farrell
+son of a bitch	strength=medium
+son-of-a-bitch	origin=farrell
+sons of bitches	plural=true
+sons-of-bitches	plural=true
+sooties	plural=true	type=racist	origin=farrell
+thick lips	type=racist	origin=farrell
+twat lips	strength=strong	anatomy=female	gender=female
+thick-lips	type=racist	origin=farrell
+twat-lips	strength=strong	anatomy=female	gender=female
+thicklips	type=racist	origin=farrell
+twatlips	strength=strong	anatomy=female	gender=female
+whore from fife	origin=farrell	type=sexist
+whores from fife	origin=farrell	plural=true	type=sexist
+your arse	strength=mild	type=sexual
+your ass	strength=mild	type=sexual
+banjo lips	type=racist	origin=farrell
+bans and cans	type=racist	origin=farrell
+zogs	plural=true	type=racist	origin=farrell
+stupid man	type=gendered reputation
+stupid boy	type=gendered reputation
+fucking stupid	type=reputation
+bloody stupid	type=reputation
+dumb fuck	type=reputation
+fucking prick	type=sexual	anatomy=male	gender=male
+stupid woman	type=gendered reputation
+fat arse	type=sexual	strength=mild
+fat ass	type=sexual	strength=mild
+lying bastard	type=reputation
+lying piece of shit	type=reputation
+lying scumbag	type=reputation

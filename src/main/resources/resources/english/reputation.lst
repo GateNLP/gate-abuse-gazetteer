@@ -1,0 +1,27 @@
+liar	type=reputation
+liars	type=reputation
+liar liar	type=reputation
+spreading lies	type=reputation
+telling lies	type=reputation
+lying machine	type=reputation
+giving them lies	type=reputation
+pornstar	type=reputation
+imbecile	type=reputation
+liars go to hell	type=reputation
+moron	type=reputation
+retarded	type=reputation
+buffoon	type=reputation
+morons	type=reputation	plural=true
+buffoons	type=reputation	plural=true
+retard	type=reputation
+retards	type=reputation	plural=true
+psycho	type=reputation
+psychos	type=reputation	plural=true
+snowflake	type=reputation
+idiot	type=reputation
+idiots	type=reputation	plural=true
+codswallop	type=reputation
+mentally disturbed	type=reputation
+joke of a journalist	type=reputation
+your inept brain	type=reputation
+halfwit	type=reputation

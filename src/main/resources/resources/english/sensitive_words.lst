@@ -1,0 +1,474 @@
+gay	type=homophobic	community=men	gender=male
+queer	type=homophobic
+homo	type=homophobic	community=men	gender=male
+homosexual	type=homophobic	community=men	gender=male
+lesbian	type=homophobic	community=women	gender=female
+dyke	type=homophobic	community=women	gender=female
+gays	type=homophobic	community=men	gender=male
+queers	type=homophobic
+homos	type=homophobic	community=men	gender=male
+homosexuals	type=homophobic	community=men	gender=male
+lesbians	type=homophobic	community=women	gender=female
+butch	type=homophobic	community=women	gender=female
+lez	type=homophobic	origin=farrell	community=women	gender=female
+poof	type=homophobic	community=men	gender=male
+poofs	type=homophobic	community=men	gender=male
+dykes	type=homophobic	community=women	gender=female
+transexual	community=gendernonconforming	type=homophobic
+trans	community=gendernonconforming	type=homophobic
+bisexual	community=gendernonconforming	type=homophobic
+non-binary	community=gendernonconforming	type=homophobic
+intersex	community=gendernonconforming	type=homophobic
+intergender	community=gendernonconforming	type=homophobic
+asexual	community=gendernonconforming	type=homophobic
+black	type=racist	subtype=skincolour
+white	type=racist	subtype=skincolour
+colored	type=racist	subtype=skincolour
+coloured	type=racist	subtype=skincolour
+coloreds	type=racist	subtype=skincolour
+coloureds	type=racist	subtype=skincolour
+blacks	type=racist	subtype=skincolour
+whites	type=racist	subtype=skincolour
+african	type=racist	subtype=continent
+asian	type=racist	subtype=continent
+european	type=racist	subtype=continent
+central american	type=racist	subtype=continent
+middle eastern	type=racist	subtype=continent
+north african	type=racist	subtype=continent
+south american	type=racist	subtype=continent
+southeast asian	type=racist	subtype=continent
+africans	type=racist	subtype=continent
+asians	type=racist	subtype=continent
+europeans	type=racist	subtype=continent
+central americans	type=racist	subtype=continent
+middle easterns	type=racist	subtype=continent
+north africans	type=racist	subtype=continent
+south americans	type=racist	subtype=continent
+southeast asians	type=racist	subtype=continent
+native american	type=racist	subtype=race
+maori	type=racist	subtype=race
+aboriginal	type=racist	subtype=race
+gipsy	type=racist	origin=farrell	subtype=race
+gypsy	type=racist	origin=farrell	subtype=race
+pygmy	type=racist	origin=farrell	subtype=race
+Kurdish	type=racist	origin=farrell	subtype=race
+Afghan	type=racist	subtype=nationality
+Algerian	type=racist	subtype=nationality
+Angolan	type=racist	subtype=nationality
+Argentine	type=racist	subtype=nationality
+Austrian	type=racist	subtype=nationality
+Australian	type=racist	subtype=nationality
+Bangladeshi	type=racist	subtype=nationality
+Belarusian	type=racist	subtype=nationality
+Belgian	type=racist	subtype=nationality
+Bolivian	type=racist	subtype=nationality
+Bosnian/Herzegovinian	type=racist	subtype=nationality
+Brazilian	type=racist	subtype=nationality
+British	type=racist	subtype=nationality
+Brit	type=racist	subtype=nationality
+Britisher	type=racist	subtype=nationality
+Bulgarian	type=racist	subtype=nationality
+Cambodian	type=racist	subtype=nationality
+Cameroonian	type=racist	subtype=nationality
+Canadian	type=racist	subtype=nationality
+Central African	type=racist	subtype=continent
+Chadian	type=racist	subtype=nationality
+Chinese	type=racist	subtype=nationality
+Colombian	type=racist	subtype=nationality
+Costa Rican	type=racist	subtype=nationality
+Croatian	type=racist	subtype=nationality
+Czech	type=racist	subtype=nationality
+Congolese	type=racist	subtype=nationality
+Danish	type=racist	subtype=nationality
+Ecuadorian	type=racist	subtype=nationality
+Egyptian	type=racist	subtype=nationality
+Salvadoran	type=racist	subtype=nationality
+Salvadorian	type=racist	subtype=nationality
+Salvadorean	type=racist	subtype=nationality
+English	type=racist	subtype=nationality
+Estonian	type=racist	subtype=nationality
+Ethiopian	type=racist	subtype=nationality
+Finnish	type=racist	subtype=nationality
+French	type=racist	subtype=nationality
+German	type=racist	subtype=nationality
+Ghanaian	type=racist	subtype=nationality
+Greek	type=racist	subtype=nationality
+Guatemalan	type=racist	subtype=nationality
+Dutch	type=racist	subtype=nationality
+Honduran	type=racist	subtype=nationality
+Hungarian	type=racist	subtype=nationality
+Icelandic	type=racist	subtype=nationality
+Indian	type=racist	subtype=nationality
+Indonesian	type=racist	subtype=nationality
+Iranian	type=racist	subtype=nationality
+Iraqi	type=racist	subtype=nationality
+Irish	type=racist	subtype=nationality
+Israeli	type=racist	subtype=nationality
+Italian	type=racist	subtype=nationality
+Ivorian	type=racist	subtype=nationality
+Jamaican	type=racist	subtype=nationality
+Japanese	type=racist	subtype=nationality
+Jordanian	type=racist	subtype=nationality
+Kazakh	type=racist	subtype=nationality
+Kenyan	type=racist	subtype=nationality
+Lao	type=racist	subtype=nationality
+Latvian	type=racist	subtype=nationality
+Libyan	type=racist	subtype=nationality
+Lithuanian	type=racist	subtype=nationality
+Malagasy	type=racist	subtype=nationality
+Malaysian	type=racist	subtype=nationality
+Malian	type=racist	subtype=nationality
+Mauritanian	type=racist	subtype=nationality
+Mexican	type=racist	subtype=nationality
+Moroccan	type=racist	subtype=nationality
+Namibian	type=racist	subtype=nationality
+New Zealander	type=racist	subtype=nationality
+Nicaraguan	type=racist	subtype=nationality
+Nigerien	type=racist	subtype=nationality
+Nigerian	type=racist	subtype=nationality
+Norwegian	type=racist	subtype=nationality
+Omani	type=racist	subtype=nationality
+Pakistani	type=racist	subtype=nationality
+Panamanian	type=racist	subtype=nationality
+Paraguayan	type=racist	subtype=nationality
+Peruvian	type=racist	subtype=nationality
+Philippine	type=racist	subtype=nationality
+Polish	type=racist	subtype=nationality
+Portuguese	type=racist	subtype=nationality
+Congolese	type=racist	subtype=nationality
+Romanian	type=racist	subtype=nationality
+Russian	type=racist	subtype=nationality
+Saudi	type=racist	subtype=nationality
+Saudi Arabian	type=racist	subtype=nationality
+Scottish	type=racist	subtype=nationality
+Senegalese	type=racist	subtype=nationality
+Serbian	type=racist	subtype=nationality
+Serb	type=racist	subtype=nationality
+Singaporean	type=racist	subtype=nationality
+Slovak	type=racist	subtype=nationality
+Somalian	type=racist	subtype=nationality
+South African	type=racist	subtype=nationality
+Spanish	type=racist	subtype=nationality
+Sudanese	type=racist	subtype=nationality
+Swedish	type=racist	subtype=nationality
+Swiss	type=racist	subtype=nationality
+Syrian	type=racist	subtype=nationality
+Thai	type=racist	subtype=nationality
+Tunisian	type=racist	subtype=nationality
+Turkish	type=racist	subtype=nationality
+Turkmen	type=racist	subtype=nationality
+Ukranian	type=racist	subtype=nationality
+Emirati	type=racist	subtype=nationality
+American	type=racist	subtype=nationality
+Uruguayan	type=racist	subtype=nationality
+Vietnamese	type=racist	subtype=nationality
+Welsh	type=racist	subtype=nationality
+Zambian	type=racist	subtype=nationality
+Zimbabwean	type=racist	subtype=nationality
+Afghans	type=racist	subtype=nationality
+Algerians	type=racist	subtype=nationality
+Angolans	type=racist	subtype=nationality
+Argentines	type=racist	subtype=nationality
+Austrians	type=racist	subtype=nationality
+Australians	type=racist	subtype=nationality
+Bangladeshis	type=racist	subtype=nationality
+Belarusians	type=racist	subtype=nationality
+Belgians	type=racist	subtype=nationality
+Bolivians	type=racist	subtype=nationality
+Bosnian/Herzegovinians	type=racist	subtype=nationality
+Brazilians	type=racist	subtype=nationality
+Britishs	type=racist	subtype=nationality
+Brits	type=racist	subtype=nationality
+Bulgarians	type=racist	subtype=nationality
+Cambodians	type=racist	subtype=nationality
+Cameroonians	type=racist	subtype=nationality
+Canadians	type=racist	subtype=nationality
+Central Africans	type=racist	subtype=nationality
+Chadians	type=racist	subtype=nationality
+Chinese	type=racist	subtype=nationality
+Colombians	type=racist	subtype=nationality
+Costa Ricans	type=racist	subtype=nationality
+Croatians	type=racist	subtype=nationality
+Czechs	type=racist	subtype=nationality
+Congolese	type=racist	subtype=nationality
+Danish	type=racist	subtype=nationality
+Ecuadorians	type=racist	subtype=nationality
+Egyptians	type=racist	subtype=nationality
+Salvadorans	type=racist	subtype=nationality
+Salvadorians	type=racist	subtype=nationality
+Salvadoreans	type=racist	subtype=nationality
+English	type=racist	subtype=nationality
+Estonians	type=racist	subtype=nationality
+Ethiopians	type=racist	subtype=nationality
+Finnish	type=racist	subtype=nationality
+French	type=racist	subtype=nationality
+Germans	type=racist	subtype=nationality
+Ghanaians	type=racist	subtype=nationality
+Greeks	type=racist	subtype=nationality
+Guatemalans	type=racist	subtype=nationality
+Dutch	type=racist	subtype=nationality
+Hondurans	type=racist	subtype=nationality
+Hungarians	type=racist	subtype=nationality
+Icelandic	type=racist	subtype=nationality
+Indians	type=racist	subtype=nationality
+Indonesians	type=racist	subtype=nationality
+Iranians	type=racist	subtype=nationality
+Iraqis	type=racist	subtype=nationality
+Irish	type=racist	subtype=nationality
+Israelis	type=racist	subtype=nationality
+Italians	type=racist	subtype=nationality
+Ivorians	type=racist	subtype=nationality
+Jamaicans	type=racist	subtype=nationality
+Japanese	type=racist	subtype=nationality
+Jordanians	type=racist	subtype=nationality
+Kazakhs	type=racist	subtype=nationality
+Kenyans	type=racist	subtype=nationality
+Laos	type=racist	subtype=nationality
+Latvians	type=racist	subtype=nationality
+Libyans	type=racist	subtype=nationality
+Lithuanians	type=racist	subtype=nationality
+Malagasys	type=racist	subtype=nationality
+Malaysians	type=racist	subtype=nationality
+Malians	type=racist	subtype=nationality
+Mauritanians	type=racist	subtype=nationality
+Mexicans	type=racist	subtype=nationality
+Moroccans	type=racist	subtype=nationality
+Namibians	type=racist	subtype=nationality
+New Zealanders	type=racist	subtype=nationality
+Nicaraguans	type=racist	subtype=nationality
+Nigeriens	type=racist	subtype=nationality
+Nigerians	type=racist	subtype=nationality
+Norwegians	type=racist	subtype=nationality
+Omanis	type=racist	subtype=nationality
+Pakistanis	type=racist	subtype=nationality
+Panamanians	type=racist	subtype=nationality
+Paraguayans	type=racist	subtype=nationality
+Peruvians	type=racist	subtype=nationality
+Philippines	type=racist	subtype=nationality
+Polish	type=racist	subtype=nationality
+Portuguese	type=racist	subtype=nationality
+Congolese	type=racist	subtype=nationality
+Romanians	type=racist	subtype=nationality
+Russians	type=racist	subtype=nationality
+Saudis	type=racist	subtype=nationality
+Saudi Arabians	type=racist	subtype=nationality
+Scottish	type=racist	subtype=nationality
+Senegalese	type=racist	subtype=nationality
+Serbians	type=racist	subtype=nationality
+Serbs	type=racist	subtype=nationality
+Singaporeans	type=racist	subtype=nationality
+Slovaks	type=racist	subtype=nationality
+Somalians	type=racist	subtype=nationality
+South Africans	type=racist	subtype=nationality
+Spanish	type=racist	subtype=nationality
+Sudanese	type=racist	subtype=nationality
+Swedish	type=racist	subtype=nationality
+Swiss	type=racist	subtype=nationality
+Syrians	type=racist	subtype=nationality
+Thais	type=racist	subtype=nationality
+Tunisians	type=racist	subtype=nationality
+Turkish	type=racist	subtype=nationality
+Turkmens	type=racist	subtype=nationality
+Ukranians	type=racist	subtype=nationality
+Emiratis	type=racist	subtype=nationality
+Americans	type=racist	subtype=nationality
+Uruguayans	type=racist	subtype=nationality
+Vietnamese	type=racist	subtype=nationality
+Welsh	type=racist	subtype=nationality
+Zambians	type=racist	subtype=nationality
+Zimbabweans	type=racist	subtype=nationality
+christian	type=religious	community=christian
+jewish	type=religious	community=jewish
+jew	type=religious	community=jewish
+muslim	type=religious	community=muslim
+jihadi	type=religious	community=muslim
+jihadis	type=religious	community=muslim
+jihadist	type=religious	community=muslim
+jihadists	type=religious	community=muslim
+sikh	type=religious	community=sikh
+scientologist	type=religious	community=scientologist
+protestant	type=religious	community=protestant
+catholic	type=religious	community=catholic
+quaker	type=religious	community=quaker
+mormon	type=religious	community=mormon
+shiite	type=religious	community=shiite
+sunni	type=religious	community=sunni
+buddhist	type=religious	community=buddhist
+pagan	type=religious	community=pagan
+semite	type=religious	community=semite
+confucian	type=religious	community=confucian
+druid	type=religious	community=druid
+hare krishna	type=religious	community=hare krishna
+hindu	type=religious	community=hindu
+humanist	type=religious	community=humanist
+mennonite	type=religious	community=malenonite
+jedi	type=religious	community=jedi
+new age	type=religious	community=new age
+pantheist	type=religious	community=pantheist
+polytheist	type=religious	community=polytheist
+rastafarian	type=religious	community=rastafarian
+satanist	type=religious	community=satanist
+shaman	type=religious	community=shaman
+shinto	type=religious	community=shinto
+taoist	type=religious	community=taoist
+theist	type=religious	community=theist
+unitarianist	type=religious	community=unitarian
+voodoo	type=religious	community=voodoo
+wiccan	type=religious	community=wiccan
+zoroastrian	type=religious	community=zoroastrian
+christians	type=religious	community=christian
+jews	type=religious	community=jewish
+muslims	type=religious	community=muslim
+sikhs	type=religious	community=sikh
+scientologists	type=religious	community=scientologist
+protestants	type=religious	community=protestant
+catholics	type=religious	community=catholic
+quakers	type=religious	community=quaker
+mormons	type=religious	community=mormon
+shiites	type=religious	community=shiite
+sunnis	type=religious	community=sunni
+buddhists	type=religious	community=buddhist
+pagans	type=religious	community=pagan
+semites	type=religious	community=semite
+confucians	type=religious	community=confucian
+druids	type=religious	community=druid
+hare krishnaites	type=religious	community=hare krishna
+hindus	type=religious	community=hindu
+humanist	type=religious	community=humanist
+mennonites	type=religious	community=mennonite
+jedis	type=religious	community=jedi
+new ageists	type=religious	community=new age
+pantheists	type=religious	community=pantheist
+polytheists	type=religious	community=polytheist
+rastafarians	type=religious	community=rastafarian
+satanists	type=religious	community=satanist
+shamans	type=religious	community=shaman
+taoists	type=religious	community=taoist
+theists	type=religious	community=theist
+unitarianists	type=religious	community=unitarian
+wiccans	type=religious	community=wiccan
+zoroastrians	type=religious	community=zoroastrian
+zionist	type=religious	community=jewish
+zionists	type=religious	community=jewish
+female	type=sexist	community=women	gender=female
+male	type=sexist	community=men	gender=male
+man	type=sexist	community=men	gender=male
+woman	type=sexist	community=women	gender=female
+boy	type=sexist	community=men	gender=male
+girl	type=sexist	community=women	gender=female
+females	type=sexist	community=women	gender=female
+males	type=sexist	community=men	gender=male
+men	type=sexist	community=men	gender=male
+women	type=sexist	community=women	gender=female
+boys	type=sexist	community=men	gender=male
+girls	type=sexist	community=women	gender=female
+feminists	type=sexist	community=women	gender=female
+feminist	type=sexist	community=women	gender=female
+masculinist	type=sexist	community=men	gender=male
+masculinists	type=sexist	community=men	gender=male
+liberal	type=political	subtype=left
+conservative	type=political	subtype=right
+anarchist	type=political
+anarchistic	type=political
+democrat	type=political	subtype=left
+democratic	type=political	subtype=left
+communist	type=political	subtype=left
+authoritarian	type=political
+libertarian	type=political
+corporate	type=political
+green	type=political	subtype=left
+fascist	type=political
+nazi	type=political
+separatist	type=political
+nationalist	type=political
+nationalistic	type=political
+populist	type=political
+progressivist	type=political	subtype=left
+socialist	type=political	subtype=left
+lefty	type=political	subtype=left
+leftist	type=political	subtype=left
+liberals	type=political	subtype=left
+conservatives	type=political	subtype=right
+anarchists	type=political
+democrats	type=political	subtype=left
+democratic	type=political	subtype=left
+communists	type=political	subtype=left
+authoritarians	type=political
+libertarians	type=political
+corporates	type=political
+greens	type=political	subtype=left
+fascists	type=political
+nazis	type=political
+separatists	type=political
+liberals	type=political	subtype=left
+nationalists	type=political
+populists	type=political
+progressivists	type=political	subtype=left
+socialists	type=political	subtype=left
+lefties	type=political	subtype=left
+leftists	type=political	subtype=left
+marxist	type=political	subtype=left
+marxists	type=political	subtype=left	plural=true
+globalist	type=political
+globalists	type=political
+stalinist	type=political
+stalinists	type=political
+commie	type=political	subtype=left
+commy	type=political	subtype=left
+commies	type=political	subtype=left
+patriot	type=political
+patriots	type=political
+traitor	type=political
+traitors	type=political
+elitist	type=political
+elitists	type=political
+imperialist	type=political	subtype=right
+imperialists	type=political	subtype=right
+imperialistic	type=political	subtype=right
+left leaning	type=political	subtype=left
+left-wing	type=political	subtype=left
+left wing	type=political	subtype=left
+leftwing	type=political	subtype=left
+loony left	type=political	subtype=left
+right leaning	type=political	subtype=right
+right-wing	type=political	subtype=right
+right wing	type=political	subtype=right
+rightwing	type=political	subtype=right
+KKK	type=political
+leaver	type=political	subtype=leave
+leavers	type=political	subtype=leave
+remainer	type=political	subtype=remain
+remainers	type=political	subtype=remain
+brexiteer	type=political	subtype=leave
+brexiteers	type=political	subtype=leave
+pro european	type=political	subtype=remain
+anti european	type=political	subtype=leave
+pro europe	type=political	subtype=remain
+anti europe	type=political	subtype=leave
+centrist	type=political
+centrists	type=political
+champagne socialist	type=political	subtype=left
+champagne socialists	type=political	subtype=left
+neoliberal	type=political	subtype=left
+neoliberals	type=political	subtype=left
+tory	type=political	subtype=right
+tories	type=political	subtype=right
+colonial	type=political
+colonialist	type=political
+colonialists	type=political
+jingoistic	type=political
+dwarf	type=personal
+midget	type=personal
+cripple	type=personal
+nutcase	type=personal
+paki	type=racist	subtype=nationality
+cat lady	type=personal
+catlady	type=personal
+kh4z4r	type=racist	origin=farrell
+kh4z4rs	plural=true	type=racist	origin=farrell
+kh4zar	type=racist	origin=farrell
+kh4zars	plural=true	type=racist	origin=farrell
+khaz4r	type=racist	origin=farrell
+khaz4rs	plural=true	type=racist	origin=farrell
+khazar	type=racist	origin=farrell
+khazars	plural=true	type=racist	origin=farrell

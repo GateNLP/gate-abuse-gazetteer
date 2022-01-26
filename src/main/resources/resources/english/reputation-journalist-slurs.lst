@@ -1,0 +1,23 @@
+fake news queen	type=reputation
+queen of fake news	type=reputation
+useless journalist	type=reputation
+useless journalists	type=reputation
+you are a criminal	type=reputation	pos=youphrase
+whorenalist	type=reputation
+presstitute	type=reputation
+presstitutes	type=reputation
+fakenewsmaker	type=reputation
+fakenews maker	type=reputation
+fake news maker	type=reputation
+fake newsmaker	type=reputation
+fake news peddler	type=reputation
+journalistic rubbish	type=reputation
+your fake news	type=reputation	pos=youphrase
+your spreading lies	type=reputation	pos=youphrase
+you are stupid	type=reputation	pos=youphrase
+you are lying	type=reputation	pos=youphrase
+you are a liar	type=reputation	pos=youphrase
+Embarrassment to your profession	type=reputation	pos=youphrase
+codswallop you spout	type=reputation	pos=youphrase
+joke ofa journalist	type=reputation
+making up crap	type=reputation

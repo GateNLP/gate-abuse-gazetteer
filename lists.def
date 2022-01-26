@@ -1,3 +1,0 @@
-swear_nouns.lst:abuse:swear::AbuseLookup
-insults.lst:abuse:insult::AbuseLookup
-offensive_words.lst:offensive:::OffensiveLookup
