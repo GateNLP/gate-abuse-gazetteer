@@ -17,4 +17,5 @@ jobs:
         run: mvn --batch-mode --update-snapshots install
       - name: Publish Test Report
         uses: scacap/action-surefire-report@v1
-        fail_if_no_tests: false
+        with:
+          fail_if_no_tests: false
