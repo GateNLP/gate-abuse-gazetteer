@@ -14,13 +14,14 @@ jobs:
           java-version: '8'
           distribution: 'adopt'
       - name: Build with Maven
-        run: mvn --batch-mode --update-snapshots install
+        run: mvn -e clean install
       - name: Publish Test Report
         uses: scacap/action-surefire-report@v1
         with:
           fail_if_no_tests: false
       - name: Build Analysis
-        run: mvn --batch-mode --update-snapshots -DskipTests site
-      - uses: jwgmeligmeyling/spotbugs-github-action@master
+        run: mvn -e -DskipTests site
+      - name: Publish FindBugs Report
+        uses: jwgmeligmeyling/spotbugs-github-action@master
         with:
           path: '**/findbugsXml.xml'
