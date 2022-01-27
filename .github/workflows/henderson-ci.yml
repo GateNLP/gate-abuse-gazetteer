@@ -36,6 +36,13 @@ jobs:
         uses: scacap/action-surefire-report@v1
         with:
           fail_if_no_tests: false
+      
+      - name: Publish Jacoco Code Coverage Report
+        uses: codecov/codecov-action@v1
+        with:
+          file: ./**/target/site/jacoco/jacoco.xml
+          name: codecov
+          dry_run: true
 
       - name: Deploy to repo.gate.ac.uk
         run: mvn -e -Dmaven.test.skip=true source:jar javadoc:jar deploy
