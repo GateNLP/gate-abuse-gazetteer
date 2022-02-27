@@ -1,14 +1,3 @@
-a Karen	category=adjective	strength=mild	origin=ofcom
-boomer	category=adjective	strength=mild	origin=ofcom
-gammon	category=adjective	strength=mild	origin=ofcom
-libtard	category=adjective	strength=mild	origin=ofcom
-remoaner	category=adjective	strength=mild	origin=ofcom
-snowflake	category=adjective	strength=mild	origin=ofcom
-TERF	category=adjective	strength=mild	origin=ofcom
-yoon	category=adjective	strength=mild	origin=ofcom
-femi-nazi	category=adjective	strength=mild	origin=ofcom
-feminazi	category=adjective	strength=mild	origin=ofcom
-femi nazi	category=adjective	strength=mild	origin=ofcom
 anal	category=adjective	type=sexual
 anus	strength=mild	type=sexual
 arse	strength=mild	type=sexual
@@ -16,9 +5,9 @@ arsing	category=adjective	strength=mild	type=sexual
 ass	strength=mild	type=sexual
 bitch ass	category=adjective	type=sexual
 bitchass	category=adjective	type=sexual
-blasted	category=adjective	strength=mild
-bloody	strength=mild
-blooming	category=adjective	strength=mild
+blasted	category=adjective	strength=mild	type=general
+bloody	strength=mild	type=general
+blooming	category=adjective	strength=mild	type=general
 bollocks	strength=medium	type=sexual
 bollox	strength=medium	type=sexual
 boner	type=sexual
@@ -33,100 +22,98 @@ booobs	type=sexist	origin=farrell
 boooobs	type=sexist	origin=farrell
 booooobs	type=sexist	origin=farrell
 booooooobs	type=sexist	origin=farrell
-brain dead	category=adjective
-braindead	category=adjective
-bugger 	strength=mild
-bullshit	strength=medium
+brain dead	category=adjective	type=reputation
+braindead	category=adjective	type=reputation
+bugger 	strength=mild	type=general
+bullshit	strength=medium	type=general
 bumblefuck	type=general
 bum	strength=mild	type=sexual
-butt	strength=mild
+butt	strength=mild	type=sexual
 cock	strength=strong	type=sexual
-cowardly	category=adjective
+cowardly	category=adjective	type=general
 crappy	category=adjective	strength=mild
-crap	strength=mild
-cretinous	category=adjective
-daft
-damn	category=adjective	strength=mild
+crap	strength=mild	type=general
+cretinous	category=adjective	type=reputation
+daft	type=reputation
+damn	category=adjective	strength=mild	type=general
 dick	type=sexual
 dicks	type=sexual
 dicksucking	category=adjective strength=strong	type=sexual
-dirty
-dozy	category=adjective	strength=mild
-dumb	category=adjective
-effing	category=adjective	strength=mild	origin=ofcom
-fat
-f*ckin	category=adjective
-f*cking	category=adjective
-fcuk
-fcuken	category=adjective
-fcuking	category=adjective
+dirty	type=general
+dozy	category=adjective	strength=mild	type=general
+dumb	category=adjective	type=reputation
+fat	type=general
+f*ckin	category=adjective	type=general
+f*cking	category=adjective	type=general
+fcuk	type=general
+fcuken	category=adjective	type=general
+fcuking	category=adjective	type=general
 feck	strength=medium
 fken	category=adjective
-f**kin	category=adjective
-f**king	category=adjective
-fool
-friggin	category=adjective
-frigging	category=adjective
-fuc*ing	category=adjective
-fucked	category=adjective	strength=strong
-fucked up	category=adjective	strength=strong
-fucken	category=adjective
-fuckin	category=adjective	strength=strong
-fucking	category=adjective	strength=strong
-fucks	strength=strong
-f u c k	strength=strong
-fuck	strength=strong
-fuc**ng	category=adjective
-fu**in	category=adjective
-fu**ing	category=adjective
-fu*kin	category=adjective
-fu*king	category=adjective
-goddam	category=adjective	strength=mild
-gormless	category=adjective
-go to hell
-humping	category=adjective strength=medium
-ignorant	category=adjective
-minging	category=adjective	 strength=strong
+f**kin	category=adjective	type=general
+f**king	category=adjective	type=general
+fool	type=reputation
+friggin	category=adjective	type=general
+frigging	category=adjective	type=general
+fuc*ing	category=adjective	type=general
+fucked	category=adjective	strength=strong	type=general
+fucked up	category=adjective	strength=strong	type=general
+fucken	category=adjective	type=general
+fuckin	category=adjective	strength=strong	type=general
+fucking	category=adjective	strength=strong	type=general
+fucks	strength=strong	type=general
+f u c k	strength=strong	type=general
+fuck	strength=strong	type=general
+fuc**ng	category=adjective	type=general
+fu**in	category=adjective	type=general
+fu**ing	category=adjective	type=general
+fu*kin	category=adjective	type=general
+fu*king	category=adjective	type=general
+goddam	category=adjective	strength=mild	type=general
+gormless	category=adjective	type=reputation
+go to hell	type=general
+humping	category=adjective	strength=medium
+ignorant	category=adjective	type=reputation
+minging	category=adjective	strength=strong	type=general
 moronic	category=adjective	type=reputation
-motha fuckin	category=adjective
-mothafuckin	category=adjective	 strength=strong
-motha fucking	category=adjective
-mothafucking	category=adjective	 strength=strong
-mother fcken	category=adjective
-motherfcken	category=adjective
-mother fucken	category=adjective
-motherfucken	category=adjective
-mother fuckin	category=adjective
-motherfuckin	category=adjective
-motherfucking	category=adjective	 strength=strong
-munging	category=adjective	 strength=strong
-pathetic	category=adjective
+motha fuckin	category=adjective	type=general
+mothafuckin	category=adjective	strength=strong	type=general
+motha fucking	category=adjective	type=general
+mothafucking	category=adjective	strength=strong	type=general
+mother fcken	category=adjective	type=general
+motherfcken	category=adjective	type=general
+mother fucken	category=adjective	type=general
+motherfucken	category=adjective	type=general
+mother fuckin	category=adjective	type=general
+motherfuckin	category=adjective	type=general
+motherfucking	category=adjective	strength=strong	type=general
+munging	category=adjective	strength=strong	type=general
+pathetic	category=adjective	type=general
 penis	type=sexual
-phriggin	category=adjective
-phrigging	category=adjective
-phucken	category=adjective
-phuckin	category=adjective
-phucking	category=adjective
-po-faced	category=adjective
-poxy	category=adjective
+phriggin	category=adjective	type=general
+phrigging	category=adjective	type=general
+phucken	category=adjective	type=general
+phuckin	category=adjective	type=general
+phucking	category=adjective	type=general
+po-faced	category=adjective	type=general
+poxy	category=adjective	type=general
 prick	type=sexual
 pricks	type=sexual
-puke
-screwed	category=adjective	type=sexual
+puke	type=general
 shag	strength=medium	type=sexual
-sheister	origin=farrell
-shite	strength=medium
-shit	strength=medium
-shittiest	category=adjective	strength=medium
-shitting	category=adjective	strength=medium
-shitty	category=adjective	strength=medium
-shut up
-silly
-snowflake
+sheister	origin=farrell	type=general
+shite	strength=medium	type=general
+shit	strength=medium	type=general
+shittiest	category=adjective	strength=medium	type=general
+shitting	category=adjective	strength=medium	type=general
+shitty	category=adjective	strength=medium	type=general
+shut up	type=general
+silly	type=general
+snowflake	type=general
 stupid	category=adjective	type=reputation
 tits	plural=true	type=sexist
 tit	strength=medium	type=sexist
 titties	type=sexist	origin=farrell
 tittie	type=sexist	origin=farrell
 titty	type=sexist	origin=farrell
-ugly
+ugly	type=general

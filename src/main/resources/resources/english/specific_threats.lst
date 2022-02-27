@@ -1,6 +1,6 @@
-fucking kill you	physical=yes
-you top yourself	physical=yes
-eat shit and die	physical=yes
-i'll kill you	physical=yes
-blow your brains out	physical=yes
-blow ur brains out	physical=yes
+fucking kill you	physical=yes	threat=death	type=general
+you top yourself	physical=yes	threat=death	type=general
+eat shit and die	physical=yes	threat=death	type=general
+i'll kill you	physical=yes	threat=death	type=general
+blow your brains out	physical=yes	threat=death	type=general
+blow ur brains out	physical=yes	threat=death	type=general

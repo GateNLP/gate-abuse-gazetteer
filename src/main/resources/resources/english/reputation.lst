@@ -23,5 +23,14 @@ idiots	type=reputation	plural=true
 codswallop	type=reputation
 mentally disturbed	type=reputation
 joke of a journalist	type=reputation
-your inept brain	type=reputation
+your inept brain	type=reputation	pos=youphrase
 halfwit	type=reputation
+hypocrite	type=reputation
+thief	type=reputation
+scammer	type=reputation
+cheating	type=reputation
+scamming	type=reputation
+you are a criminal	type=reputation	pos=youphrase
+criminal	type=reputation
+thieving	type=reputation	category=adjective
+stealing	type=reputation	category=adjective

@@ -1,19 +1,19 @@
-gay	type=homophobic	community=men	gender=male
+gay	type=homophobic	community=men
 queer	type=homophobic
-homo	type=homophobic	community=men	gender=male
-homosexual	type=homophobic	community=men	gender=male
-lesbian	type=homophobic	community=women	gender=female
-dyke	type=homophobic	community=women	gender=female
-gays	type=homophobic	community=men	gender=male
+homo	type=homophobic	community=men
+homosexual	type=homophobic	community=men
+lesbian	type=homophobic	community=women
+dyke	type=homophobic	community=women
+gays	type=homophobic	community=men
 queers	type=homophobic
-homos	type=homophobic	community=men	gender=male
-homosexuals	type=homophobic	community=men	gender=male
-lesbians	type=homophobic	community=women	gender=female
-butch	type=homophobic	community=women	gender=female
-lez	type=homophobic	origin=farrell	community=women	gender=female
-poof	type=homophobic	community=men	gender=male
-poofs	type=homophobic	community=men	gender=male
-dykes	type=homophobic	community=women	gender=female
+homos	type=homophobic	community=men
+homosexuals	type=homophobic	community=men
+lesbians	type=homophobic	community=women
+butch	type=homophobic	community=women
+lez	type=homophobic	origin=farrell	community=women
+poof	type=homophobic	community=men
+poofs	type=homophobic	community=men
+dykes	type=homophobic	community=women
 transexual	community=gendernonconforming	type=homophobic
 trans	community=gendernonconforming	type=homophobic
 bisexual	community=gendernonconforming	type=homophobic
@@ -73,41 +73,31 @@ Cameroonian	type=racist	subtype=nationality
 Canadian	type=racist	subtype=nationality
 Central African	type=racist	subtype=continent
 Chadian	type=racist	subtype=nationality
-Chinese	type=racist	subtype=nationality
 Colombian	type=racist	subtype=nationality
 Costa Rican	type=racist	subtype=nationality
 Croatian	type=racist	subtype=nationality
 Czech	type=racist	subtype=nationality
-Congolese	type=racist	subtype=nationality
-Danish	type=racist	subtype=nationality
 Ecuadorian	type=racist	subtype=nationality
 Egyptian	type=racist	subtype=nationality
 Salvadoran	type=racist	subtype=nationality
 Salvadorian	type=racist	subtype=nationality
 Salvadorean	type=racist	subtype=nationality
-English	type=racist	subtype=nationality
 Estonian	type=racist	subtype=nationality
 Ethiopian	type=racist	subtype=nationality
-Finnish	type=racist	subtype=nationality
-French	type=racist	subtype=nationality
 German	type=racist	subtype=nationality
 Ghanaian	type=racist	subtype=nationality
 Greek	type=racist	subtype=nationality
 Guatemalan	type=racist	subtype=nationality
-Dutch	type=racist	subtype=nationality
 Honduran	type=racist	subtype=nationality
 Hungarian	type=racist	subtype=nationality
-Icelandic	type=racist	subtype=nationality
 Indian	type=racist	subtype=nationality
 Indonesian	type=racist	subtype=nationality
 Iranian	type=racist	subtype=nationality
 Iraqi	type=racist	subtype=nationality
-Irish	type=racist	subtype=nationality
 Israeli	type=racist	subtype=nationality
 Italian	type=racist	subtype=nationality
 Ivorian	type=racist	subtype=nationality
 Jamaican	type=racist	subtype=nationality
-Japanese	type=racist	subtype=nationality
 Jordanian	type=racist	subtype=nationality
 Kazakh	type=racist	subtype=nationality
 Kenyan	type=racist	subtype=nationality
@@ -133,36 +123,24 @@ Panamanian	type=racist	subtype=nationality
 Paraguayan	type=racist	subtype=nationality
 Peruvian	type=racist	subtype=nationality
 Philippine	type=racist	subtype=nationality
-Polish	type=racist	subtype=nationality
-Portuguese	type=racist	subtype=nationality
-Congolese	type=racist	subtype=nationality
 Romanian	type=racist	subtype=nationality
 Russian	type=racist	subtype=nationality
 Saudi	type=racist	subtype=nationality
 Saudi Arabian	type=racist	subtype=nationality
-Scottish	type=racist	subtype=nationality
-Senegalese	type=racist	subtype=nationality
 Serbian	type=racist	subtype=nationality
 Serb	type=racist	subtype=nationality
 Singaporean	type=racist	subtype=nationality
 Slovak	type=racist	subtype=nationality
 Somalian	type=racist	subtype=nationality
 South African	type=racist	subtype=nationality
-Spanish	type=racist	subtype=nationality
-Sudanese	type=racist	subtype=nationality
-Swedish	type=racist	subtype=nationality
-Swiss	type=racist	subtype=nationality
 Syrian	type=racist	subtype=nationality
 Thai	type=racist	subtype=nationality
 Tunisian	type=racist	subtype=nationality
-Turkish	type=racist	subtype=nationality
 Turkmen	type=racist	subtype=nationality
 Ukranian	type=racist	subtype=nationality
 Emirati	type=racist	subtype=nationality
 American	type=racist	subtype=nationality
 Uruguayan	type=racist	subtype=nationality
-Vietnamese	type=racist	subtype=nationality
-Welsh	type=racist	subtype=nationality
 Zambian	type=racist	subtype=nationality
 Zimbabwean	type=racist	subtype=nationality
 Afghans	type=racist	subtype=nationality
@@ -300,8 +278,7 @@ confucian	type=religious	community=confucian
 druid	type=religious	community=druid
 hare krishna	type=religious	community=hare krishna
 hindu	type=religious	community=hindu
-humanist	type=religious	community=humanist
-mennonite	type=religious	community=malenonite
+mennonite	type=religious	community=mennonite
 jedi	type=religious	community=jedi
 new age	type=religious	community=new age
 pantheist	type=religious	community=pantheist
@@ -350,28 +327,27 @@ wiccans	type=religious	community=wiccan
 zoroastrians	type=religious	community=zoroastrian
 zionist	type=religious	community=jewish
 zionists	type=religious	community=jewish
-female	type=sexist	community=women	gender=female
-male	type=sexist	community=men	gender=male
-man	type=sexist	community=men	gender=male
-woman	type=sexist	community=women	gender=female
-boy	type=sexist	community=men	gender=male
-girl	type=sexist	community=women	gender=female
-females	type=sexist	community=women	gender=female
-males	type=sexist	community=men	gender=male
-men	type=sexist	community=men	gender=male
-women	type=sexist	community=women	gender=female
-boys	type=sexist	community=men	gender=male
-girls	type=sexist	community=women	gender=female
-feminists	type=sexist	community=women	gender=female
-feminist	type=sexist	community=women	gender=female
-masculinist	type=sexist	community=men	gender=male
-masculinists	type=sexist	community=men	gender=male
+female	type=sexist	community=women
+male	type=sexist	community=men
+man	type=sexist	community=men
+woman	type=sexist	community=women
+boy	type=sexist	community=men
+girl	type=sexist	community=women
+females	type=sexist	community=women
+males	type=sexist	community=men
+men	type=sexist	community=men
+women	type=sexist	community=women
+boys	type=sexist	community=men
+girls	type=sexist	community=women
+feminists	type=sexist	community=women
+feminist	type=sexist	community=women
+masculinist	type=sexist	community=men
+masculinists	type=sexist	community=men
 liberal	type=political	subtype=left
 conservative	type=political	subtype=right
 anarchist	type=political
 anarchistic	type=political
 democrat	type=political	subtype=left
-democratic	type=political	subtype=left
 communist	type=political	subtype=left
 authoritarian	type=political
 libertarian	type=political
@@ -387,7 +363,6 @@ progressivist	type=political	subtype=left
 socialist	type=political	subtype=left
 lefty	type=political	subtype=left
 leftist	type=political	subtype=left
-liberals	type=political	subtype=left
 conservatives	type=political	subtype=right
 anarchists	type=political
 democrats	type=political	subtype=left
@@ -464,11 +439,3 @@ nutcase	type=personal
 paki	type=racist	subtype=nationality
 cat lady	type=personal
 catlady	type=personal
-kh4z4r	type=racist	origin=farrell
-kh4z4rs	plural=true	type=racist	origin=farrell
-kh4zar	type=racist	origin=farrell
-kh4zars	plural=true	type=racist	origin=farrell
-khaz4r	type=racist	origin=farrell
-khaz4rs	plural=true	type=racist	origin=farrell
-khazar	type=racist	origin=farrell
-khazars	plural=true	type=racist	origin=farrell

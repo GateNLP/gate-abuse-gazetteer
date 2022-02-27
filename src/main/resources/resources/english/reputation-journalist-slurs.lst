@@ -1,11 +1,11 @@
-fake news queen	type=reputation
-queen of fake news	type=reputation
+fake news queen	type=gendered reputation
+queen of fake news	type=gendered reputation
 useless journalist	type=reputation
 useless journalists	type=reputation
 you are a criminal	type=reputation	pos=youphrase
-whorenalist	type=reputation
-presstitute	type=reputation
-presstitutes	type=reputation
+whorenalist	type=gendered reputation
+presstitute	type=gendered reputation
+presstitutes	type=gendered reputation
 fakenewsmaker	type=reputation
 fakenews maker	type=reputation
 fake news maker	type=reputation
@@ -21,3 +21,4 @@ Embarrassment to your profession	type=reputation	pos=youphrase
 codswallop you spout	type=reputation	pos=youphrase
 joke ofa journalist	type=reputation
 making up crap	type=reputation
+joke of a journalist	type=reputation
