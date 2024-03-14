@@ -1,0 +1,10 @@
+slurs-expanded.lst:abuse:slur::SlurLookup
+slurs-no-permute.lst:abuse:slur::SlurLookup
+offensive_words.lst:offensive:::OffensiveLookup
+sensitive_words.lst:sensitive:::SensitiveLookup
+specific_threats.lst:threat:::OffensiveLookup
+not-abuse.lst:notabuse:::NotAbuseLookup
+sexual-threat-phrases.lst:threat:::OffensiveLookup
+reputation.lst:offensive:::OffensiveLookup
+reputation-journalist-slurs.lst:abuse:slur::SlurLookup
+you-are-phrases.lst:you-are-phrase:::YouAreLookup

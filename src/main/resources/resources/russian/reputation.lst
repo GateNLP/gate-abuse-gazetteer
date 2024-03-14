@@ -1,0 +1,66 @@
+брехло	english=liar	type=reputation
+брехун	english=liar	type=reputation
+врун	english=liar	type=reputation
+лгун	english=liar	type=reputation
+лжец	english=liar	type=reputation
+лжецы	english=liars	type=reputation
+обманщики	english=liars	type=reputation
+обманщики	english=liars	type=reputation
+вруны	english=liars	type=reputation
+брехуны	english=liars	type=reputation
+Лжец, лжец	english=liar liar	type=reputation
+распространять ложь	english=spreading lies	type=reputation
+говорить неправду	english=telling lies	type=reputation
+лгать	english=telling lies	type=reputation
+лжец	english=lying machine	type=reputation
+обмануть	english=giving them lies	type=reputation
+обманывать	english=giving them lies	type=reputation
+рассказать им всю ложь	english=giving them lies	type=reputation
+порнозвезда	english=pornstar	type=reputation
+имбецил	english=imbecile	type=reputation
+слабоумный	english=imbecile	type=reputation
+идиот	english=imbecile	type=reputation
+лжецы отправятся к черту	english=liars go to hell	type=reputation
+лжецы пойдут в ад	english=liars go to hell	type=reputation
+дебилы	english=moron	type=reputation
+неадекватный	english=moron	type=reputation
+придурок	english=moron	type=reputation
+умственно отсталый	english=retarded	type=reputation
+отсталый	english=retarded	type=reputation
+шут	english=buffoon	type=reputation
+дебилы	english=morons	type=reputation	plural=true
+придурки	english=morons	type=reputation	plural=true
+шуты	english=buffoons	type=reputation	plural=true
+тупица	english=retard	type=reputation
+тормоз	english=retard	type=reputation
+умственно отсатлый	english=retard	type=reputation
+тормоза	english=retards	type=reputation	plural=true
+умственно отсатлые	english=retards	type=reputation	plural=true
+тупицы	english=retards	type=reputation	plural=true
+психопат	english=psycho	type=reputation
+псих	english=psycho	type=reputation
+психи	english=psychos	type=reputation	plural=true
+психопаты	english=psychos	type=reputation	plural=true
+снежинка	english=snowflake	type=reputation
+дебилы	english=idiot	type=reputation
+придурок	english=idiot	type=reputation
+идиот	english=idiot	type=reputation
+дебилы	english=idiots	type=reputation	plural=true
+придурки	english=idiots	type=reputation	plural=true
+идиоты	english=idiots	type=reputation	plural=true
+вздор	english=codswallop	type=reputation
+душевнобольной	english=mentally disturbed	type=reputation
+шутка, а не журналист	english=joke of a journalist	type=reputation
+шутка журналиста	english=joke of a journalist	type=reputation
+твой неумелый мозг	english=your inept brain	type=reputation	pos=youphrase
+слабоумный	english=halfwit	type=reputation
+
+	english=hypocrite	type=reputation
+	english=thief	type=reputation
+	english=scammer	type=reputation
+	english=cheating	type=reputation
+	english=scamming	type=reputation
+	english=you are a criminal	type=reputation	pos=youphrase
+	english=criminal	type=reputation
+	english=thieving	type=reputation	category=adjective
+	english=stealing	type=reputation	category=adjective

@@ -1,0 +1,167 @@
+соси хуй	english=bite me	origin=farrell	pos=youphrase
+откуси меня	english=bite me	origin=farrell	pos=youphrase
+укусить меня	english=bite me	origin=farrell	pos=youphrase
+отъебись	english=fuck off	strength=strongest	type=general
+отвали	english=fuck off	strength=strongest	type=general
+отъебаться	english=fuck off	strength=strongest	type=general
+отвалить	english=fuck off	strength=strongest	type=general
+разозлить	english=piss off	type=general
+злить	english=piss off	type=general
+проваливай	english=sod off	type=general
+сгинь	english=sod off	type=general
+вали отсюда	english=bugger off	type=general
+отвали	english=bugger off	type=general
+вали отсюда	english=bore off	type=general
+Иди нахуй	english=fuck you	strength=strongest	pos=youphrase	type=general
+пошел нахуй	english=fuck you	strength=strongest	pos=youphrase	type=general
+ебать	english=fuck u	strength=strongest	pos=youphrase	type=general
+ебать	english=fuckyou	strength=strongest	pos=youphrase	type=general
+проебаться	english=get fucked	pos=youphrase	type=sexual
+потрахаться	english=get fucked	pos=youphrase	type=sexual
+трахаться	english=get fucked	pos=youphrase	type=sexual
+трахаться	english=go fuck yourself	pos=youphrase	type=general
+такой глупый	english=u are dumb	pos=youphrase	type=reputation
+совсем глупа	english=u are so dumb	pos=youphrase	type=reputation
+какие вы тупые	english=how dumb you are	pos=youphrase	type=reputation
+насколько вы тупы	english=how dumb u are	pos=youphrase	type=reputation
+Ты такой тупой	english=you are so stupid	pos=youphrase	type=reputation
+ты настолько глуп	english=how stupid you are	pos=youphrase	type=reputation
+ты так ничтожен	english=u are stupid	pos=youphrase	type=reputation
+ты дурак	english=u are so stupid	pos=youphrase	type=reputation
+ты дурак	english=how stupid u are	pos=youphrase	type=reputation
+ты дурак	english=you are stupid	pos=youphrase	type=reputation
+съесть киску	english=eat pussy	origin=farrell	pos=youphrase	type=sexual
+лижу пизду	english=eat pussy	origin=farrell	pos=youphrase	type=sexual
+Возвращайся туда, откуда ты пришел	english=go back to wherever you came from	type=racist	pos=youphrase
+возвращайтесь туда, откуда вы пришли	english=go back to where you came from	type=racist	pos=youphrase
+Возвращайтесь туда, откуда пришли	english=go back wherever you came from	type=racist	pos=youphrase
+Вернитесь туда, откуда пришли	english=go back where you came from	type=racist	pos=youphrase
+Вернитесь туда, откуда вы пришли	english=go back to wherever u came from	type=racist	pos=youphrase
+Вернуться туда, откуда вы пришли	english=go back to where u came from	type=racist	pos=youphrase
+Возвращайся туда, откуда ты пришел	english=go back wherever u came from	type=racist	pos=youphrase
+Вернитесь туда, откуда вы пришли	english=go back where u came from	type=racist	pos=youphrase
+заткнись	english=shut the fuck up	pos=youphrase	type=general
+ебало завали	english=shut the fuck up	pos=youphrase	type=general
+завали ебало	english=shut the fuck up	pos=youphrase	type=general
+заткнуться	english=shut the fuck up	pos=youphrase	type=general
+заткнись	english=shut da fuck up	pos=youphrase	type=general
+закрой рот	english=shut your mouth	pos=youphrase	type=general
+заткнуться	english=shut your mouth	pos=youphrase	type=general
+Закрой свой рот	english=shut your mouth	pos=youphrase	type=general
+Закрой свой чертов рот	english=shut your fucking mouth	pos=youphrase	type=general
+Закрой свой чертов рот	english=STFU	pos=youphrase	type=general
+член	english=you cock	strength=strong	pos=youphrase	type=sexual	anatomy=male
+член	english=u cock	strength=strong	pos=youphrase	type=sexual	anatomy=male
+безстручковый	english=dickless	origin=farrell	pos=phrase	anatomy=male	type=sexual
+член	english=a cock	strength=strong	pos=phrase	type=sexual	anatomy=male
+член вместо мозгов	english=dick for brains	origin=farrell	pos=phrase	anatomy=male	type=reputation
+кретин	english=a-hole	type=sexual
+кретин	english=a-holes	plural=true	type=sexual
+Тетя Джемайма	english=aunt jemima	type=racist	origin=farrell
+Тетя Джемаймы	english=aunt jemimas	type=racist	origin=farrell	plural=true
+африканский вилочный погрузчик	english=african forklift	type=racist	origin=farrell
+приманка для аллигатора	english=alligator bait	type=racist	origin=farrell
+сучьи сиськи	english=bitch tits	type=sexist	anatomy=female
+сучьи сиськи	english=bitch-tits	type=sexist	anatomy=female
+сучьи сиськи	english=bitchtits	type=sexist	anatomy=female
+черная барби	english=black barbie	type=racist	origin=farrell
+черная барби	english=black barbies	type=racist	origin=farrell	plural=true
+сдается, поедающая сыр, обезьяна	english=cheese eating surrender monkey	origin=farrell	type=racist
+сдается, поедающая сыр, обезьяна	english=cheese eating surrender monkeys	origin=farrell	type=racist	plural=true
+сдается, поедающая сыр, обезьяна	english=cheese eating surrender monkies	origin=farrell	type=racist	plural=true
+сдается, поедающая сыр, обезьяна	english=cheese-eating surrender monkey	origin=farrell	type=racist
+сдается, поедающая сыр, обезьяна	english=cheese-eating surrender monkeys	origin=farrell	type=racist	plural=true
+сдается, поедающая сыр, обезьяна	english=cheese-eating surrender monkies	origin=farrell	type=racist	plural=true
+сдается, поедающая сыр, обезьяна	english=cheese eating surrender-monkey	origin=farrell	type=racist
+сдается, поедающая сыр, обезьяна	english=cheese eating surrender-monkeys	origin=farrell	type=racist	plural=true
+сдается, поедающая сыр, обезьяна	english=cheese eating surrender-monkies	origin=farrell	type=racist	plural=true
+сдается, поедающая сыр, обезьяна	english=cheese-eating surrender-monkey	origin=farrell	type=racist
+сдается, поедающая сыр, обезьяна	english=cheese-eating surrender-monkeys	origin=farrell	type=racist	plural=true
+сдается, поедающая сыр, обезьяна	english=cheese-eating surrender-monkies	origin=farrell	type=racist	plural=true
+тупица	english=dumbshit	type=reputation
+тупица	english=dumshit	type=reputation
+тупица	english=dumbsh1t	type=reputation
+тупица	english=dumsh1t	type=reputation
+тупица	english=dumbsh!t	type=reputation
+тупица	english=dumsh!t	type=reputation
+тупица	english=dumbshits	plural=true	type=reputation
+тупица	english=dumshits	plural=true	type=reputation
+тупица	english=dumbsh1ts	plural=true	type=reputation
+тупица	english=dumsh1ts	plural=true	type=reputation
+тупица	english=dumbsh!ts	plural=true	type=reputation
+тупица	english=dumsh!ts	plural=true	type=reputation
+половые губы	english=fanny flaps	origin=farrell	type=sexual	anatomy=female
+половые губы	english=fanny-flaps	origin=farrell	type=sexual	anatomy=female
+половые губы	english=fannyflaps	origin=farrell	type=sexual	anatomy=female
+только что с корабля	english=fresh off the boat	type=racist	origin=farrell
+кусок дерьма	english=piece of feces	type=general
+куски дерьма	english=piece of faeces	type=general
+кусок дерьма	english=piece of shit	type=general
+кусок дерьма	english=piece of shite	type=general
+кусок экскрементов	english=piece of excrement	type=general
+какашка	english=pieces of feces	plural=true	type=general
+кака	english=pieces of faeces	plural=true	type=general
+кусочки дерьма	english=pieces of shit	plural=true	type=general
+кусочки дерьма	english=pieces of shite	plural=true	type=general
+куски экскрементов	english=pieces of excrement	plural=true
+Пизда	english=piss flaps	strength=strong	type=general
+Пизда	english=piss-flaps	strength=strong	type=general
+Пизда	english=pissflaps	strength=strong	type=general
+бедные белые отбросы	english=poor white trash	type=racist	origin=farrell
+половые губы	english=pussy lips	type=sexist	origin=farrell	anatomy=women
+половые губы	english=pussy-lips	type=sexist	origin=farrell	anatomy=women
+половые губы	english=pussylips	type=sexist	origin=farrell	anatomy=women
+отбросы	english=scum	type=general
+сукин сын	english=son of a bitch	strength=medium	type=general
+сукин сын	english=son-of-a-bitch	origin=farrell	type=general
+су́кины сыны́	english=sons of bitches	plural=true	type=general
+су́кины сыны́	english=sons-of-bitches	plural=true	type=general
+чернокожий	english=sooties	plural=true	type=racist	origin=farrell
+негр	english=sooties	plural=true	type=racist	origin=farrell
+толстые губы	english=thick lips	type=racist	origin=farrell
+половые губы	english=twat lips	strength=strong	anatomy=female	type=sexual
+толстые губы	english=thick-lips	type=racist	origin=farrell
+толстые губы	english=twat-lips	strength=strong	anatomy=female	type=sexual
+толстые губы	english=thicklips	type=racist	origin=farrell
+толстые губы	english=twatlips	strength=strong	anatomy=female	type=sexual
+шлюха	english=whore from fife	origin=farrell	type=sexist
+шлюxа	english=whores from fife	origin=farrell	plural=true	type=sexist
+свой зад	english=your arse	strength=mild	type=sexual
+твою задница	english=your ass	strength=mild	type=sexual
+глупый человек	english=stupid man	type=gendered reputation
+глупый мальчишка	english=stupid boy	type=gendered reputation
+тупая блядь	english=fucking stupid	type=reputation
+Ты чертовски тупой	english=bloody stupid	type=reputation
+dumb fuck	english=dumb fuck	type=reputation
+dumb fuck	english=dumb fuck	type=reputation
+dumb fuck	english=dumb fuck	type=reputation
+мудак	english=fucking prick	type=sexual	anatomy=male
+глупая женщина	english=stupid woman	type=gendered reputation
+жирная жопа	english=fat arse	type=sexual	strength=mild
+жирную задницу	english=fat arse	type=sexual	strength=mild
+тучный человек	english=fat ass	type=sexual	strength=mild
+толстый	english=fat ass	type=sexual	strength=mild
+жиртрест	english=fat ass	type=sexual	strength=mild
+толстая задницa	english=fat ass	type=sexual	strength=mild
+Лживый ублюдок	english=lying bastard	type=reputation
+лживый кусок говнa	english=lying piece of shit	type=reputation
+лживый кусок дерьма	english=lying piece of shit	type=reputation
+лживый подонок	english=lying scumbag	type=reputation
+отморозок	english=lying scumbag	type=reputation
+подонок	english=lying scumbag	type=reputation
+
+
+	
+	english=FU	pos=youphrase	type=general
+	english=GFY	pos=youphrase	type=general
+	english=you are dumb	pos=youphrase	type=reputation
+	english=you are so dumb	pos=youphrase	type=reputation
+	english=touch of the tar brush	type=racist	origin=farrell	pos=phrase
+	english=touch of the tar brushes	type=racist	origin=farrell	pos=phrase
+	english=black dago	type=racist	origin=farrell
+	english=black dagos	type=racist	origin=farrell	plural=true
+	english=redlegs	type=racist	origin=farrell
+	english=shanty irish	type=racist	origin=farrell
+	english=banjo lips	type=racist	origin=farrell
+	english=bans and cans	type=racist	origin=farrel
+	english=zogs	plural=true	type=racist	origin=farrell

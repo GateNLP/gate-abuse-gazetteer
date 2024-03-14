@@ -1,0 +1,456 @@
+Aзиат	english=asian	type=racist	subtype=continent
+абориген	english=aboriginal	type=racist	subtype=race
+афганцы	english=Afghans	type=racist	subtype=nationality
+афганец	english=Afghan	type=racist	subtype=nationality
+алжирцы	english=Algerians	type=racist	subtype=nationality
+алжирский 	english=Algerian	type=racist	subtype=nationality
+американцы	english=Americans	type=racist	subtype=nationality
+aмериканец	english=American	type=racist	subtype=nationality
+анархическая	english=anarchistic	type=political
+анархисты	english=anarchists	type=political
+анархист	english=anarchist	type=political
+ангольцы	english=Angolans	type=racist	subtype=nationality
+анголец 	english=Angolan	type=racist	subtype=nationality
+антиевропейском	english=anti european	type=political	subtype=leave
+противник европы	english=anti europe	type=political	subtype=leave
+аргентинцы	english=Argentines	type=racist	subtype=nationality
+аргентинец	english=Argentine	type=racist	subtype=nationality
+австралийцы	english=Australians	type=racist	subtype=nationality
+австралиец	english=Australian	type=racist	subtype=nationality
+австрийцев	english=Austrians	type=racist	subtype=nationality
+Австриец	english=Austrian	type=racist	subtype=nationality
+авторитаристы	english=authoritarians	type=political
+авторитарный	english=authoritarian	type=political
+бангладешцы	english=Bangladeshis	type=racist	subtype=nationality
+бангладешец	english=Bangladeshi	type=racist	subtype=nationality
+белорусы	english=Belarusians	type=racist	subtype=nationality
+белорус	english=Belarusian	type=racist	subtype=nationality
+бельгийцы	english=Belgians	type=racist	subtype=nationality
+бельгиец	english=Belgian	type=racist	subtype=nationality
+боливийцев	english=Bolivians	type=racist	subtype=nationality
+боливиец	english=Bolivian	type=racist	subtype=nationality
+Босняки	english=Bosnian/Herzegovinians	type=racist	subtype=nationality
+Босняк	english=Bosnian/Herzegovinian	type=racist	subtype=nationality
+мальчишки	english=boys	type=sexist	community=men
+ребята	english=boys	type=sexist	community=men
+мальчики	english=boys	type=sexist	community=men
+мальчик	english=boy	type=sexist	community=men
+бразильцы	english=Brazilians	type=racist	subtype=nationality
+бразилец	english=Brazilian	type=racist	subtype=nationality
+брекситеры 	english=brexiteers	type=political	subtype=leave
+брекситер	english=brexiteer	type=political	subtype=leave
+британец	english=Britisher	type=racist	subtype=nationality
+британцы	english=Britishs	type=racist	subtype=nationality
+британец	english=British	type=racist	subtype=nationality
+британцы	english=Brits	type=racist	subtype=nationality
+британец	english=Brit	type=racist	subtype=nationality
+буддисты	english=buddhists	type=religious	community=buddhist
+буддист	english=buddhist	type=religious	community=buddhist
+болгары	english=Bulgarians	type=racist	subtype=nationality
+болгар	english=Bulgarian	type=racist	subtype=nationality
+кхмеры	english=Cambodians	type=racist	subtype=nationality
+кхмер	english=Cambodian	type=racist	subtype=nationality
+камерунцы	english=Cameroonians	type=racist	subtype=nationality
+камерунец	english=Cameroonian	type=racist	subtype=nationality
+канадцы	english=Canadians	type=racist	subtype=nationality
+канадец	english=Canadian	type=racist	subtype=nationality
+католики	english=catholics	type=religious	community=catholic
+католик	english=catholic	type=religious	community=catholic
+центристы	english=centrists	type=political
+центрист	english=centrist	type=political
+чадцев	english=Chadians	type=racist	subtype=nationality
+чадец	english=Chadian	type=racist	subtype=nationality
+шампанские социалисты	english=champagne socialists	type=political	subtype=left
+шампанский социалист	english=champagne socialist	type=political	subtype=left
+китаец	english=Chinese	type=racist	subtype=nationality
+христиане	english=christians	type=religious	community=christian
+христианин	english=christian	type=religious	community=christian
+колумбийцы	english=Colombians	type=racist	subtype=nationality
+колумбиец	english=Colombian	type=racist	subtype=nationality
+колонизаторы	english=colonialists	type=political
+колонизатор	english=colonialist	type=political
+колониальный	english=colonial	type=political
+комми	english=commies	type=political	subtype=left
+комми	english=commie	type=political	subtype=left
+коммунисты	english=communists	type=political	subtype=left
+коммунист	english=communist	type=political	subtype=left
+комми	english=commy	type=political	subtype=left
+конфуцианцы	english=confucians	type=religious	community=confucian
+конфуцианец	english=confucian	type=religious	community=confucian
+конголезец	english=Congolese	type=racist	subtype=nationality
+консерваторы	english=conservatives	type=political	subtype=right
+консерватор	english=conservative	type=political	subtype=right
+корпорации	english=corporates	type=political
+корпоративных	english=corporate	type=political
+костариканцы	english=Costa Ricans	type=racist	subtype=nationality
+костариканец	english=Costa Rican	type=racist	subtype=nationality
+калека	english=cripple	type=personal
+хорваты	english=Croatians	type=racist	subtype=nationality
+хорват	english=Croatian	type=racist	subtype=nationality
+чехи	english=Czechs	type=racist	subtype=nationality
+чех	english=Czech	type=racist	subtype=nationality
+датчанин	english=Danish	type=racist	subtype=nationality
+демократический	english=democratic	type=political	subtype=left
+демократы	english=democrats	type=political	subtype=left
+демократ	english=democrat	type=political	subtype=left
+друиды	english=druids	type=religious	community=druid
+друид	english=druid	type=religious	community=druid
+голландец	english=Dutch	type=racist	subtype=nationality
+карлик	english=dwarf	type=personal
+гном	english=dwarf	type=personal
+эквадорцы	english=Ecuadorians	type=racist	subtype=nationality
+эквадорец	english=Ecuadorian	type=racist	subtype=nationality
+египтяне	english=Egyptians	type=racist	subtype=nationality
+египтянин 	english=Egyptian	type=racist	subtype=nationality
+элитарный	english=elitist	type=political
+эмиратцы	english=Emiratis	type=racist	subtype=nationality
+Эмиратец	english=Emirati	type=racist	subtype=nationality
+англичанин	english=English	type=racist	subtype=nationality
+эстонцы 	english=Estonians	type=racist	subtype=nationality
+эстонец	english=Estonian	type=racist	subtype=nationality
+эфиопы	english=Ethiopians	type=racist	subtype=nationality
+эфиоп	english=Ethiopian	type=racist	subtype=nationality
+фашисты	english=fascists	type=political
+фашист	english=fascist	type=political
+женщины	english=females	type=sexist	community=women
+женщина	english=female	type=sexist	community=women
+феминистки 	english=feminists	type=sexist	community=women
+феминистка	english=feminist	type=sexist	community=women
+фин	english=Finnish	type=racist	subtype=nationality
+француз	english=French	type=racist	subtype=nationality
+немцы 	english=Germans	type=racist	subtype=nationality
+немец	english=German	type=racist	subtype=nationality
+германец	english=German	type=racist	subtype=nationality
+ганцы	english=Ghanaians	type=racist	subtype=nationality
+ганец	english=Ghanaian	type=racist	subtype=nationality
+цыгане	english=gipsy	type=racist	origin=farrell	subtype=race
+цыган	english=gipsy	type=racist	origin=farrell	subtype=race
+девочки	english=girls	type=sexist	community=women
+девушки	english=girls	type=sexist	community=women
+девушка	english=girl	type=sexist	community=women
+девочка	english=girl	type=sexist	community=women
+глобалисты	english=globalists	type=political
+глобалист	english=globalist	type=political
+глобалист	english=Greeks	type=racist	subtype=nationality
+грек	english=Greek	type=racist	subtype=nationality
+зеленые	english=greens	type=political	subtype=left
+зелень 	english=green	type=political	subtype=left
+гватемальцы	english=Guatemalans	type=racist	subtype=nationality
+гватемалец	english=Guatemalan	type=racist	subtype=nationality
+цыган	english=gypsy	type=racist	origin=farrell	subtype=race
+кришнаиты	english=hare krishnaites	type=religious	community=hare krishna
+Харе Кришна	english=hare krishna	type=religious	community=hare krishna
+индусы	english=hindus	type=religious	community=hindu
+индуист	english=hindu	type=religious	community=hindu
+гондурасец	english=Honduran	type=racist	subtype=nationality
+гуманист	english=humanist	type=religious	community=humanist
+венгры	english=Hungarians	type=racist	subtype=nationality
+венгерец	english=Hungarian	type=racist	subtype=nationality
+исландец	english=Icelandic	type=racist	subtype=nationality
+империализма	english=imperialistic	type=political	subtype=right
+империалисты	english=imperialists	type=political	subtype=right
+империалист	english=imperialist	type=political	subtype=right
+индейцы	english=Indians	type=racist	subtype=nationality
+индеец	english=Indian	type=racist	subtype=nationality
+индонезийцы	english=Indonesians	type=racist	subtype=nationality
+индонезиец	english=Indonesian	type=racist	subtype=nationality
+иранцы	english=Iranians	type=racist	subtype=nationality
+иранец	english=Iranian	type=racist	subtype=nationality
+иракцы	english=Iraqis	type=racist	subtype=nationality
+иракец	english=Iraqi	type=racist	subtype=nationality
+Ирландцы 	english=Irish	type=racist	subtype=nationality
+израильтян	english=Israelis	type=racist	subtype=nationality
+израильтянин	english=Israeli	type=racist	subtype=nationality
+итальянцы	english=Italians	type=racist	subtype=nationality
+итальянец	english=Italian	type=racist	subtype=nationality
+ивуарийцы	english=Ivorians	type=racist	subtype=nationality
+ивуариец	english=Ivorian	type=racist	subtype=nationality
+ямайцы	english=Jamaicans	type=racist	subtype=nationality
+японцы	english=Japanese	type=racist	subtype=nationality
+джедай	english=jedis	type=religious	community=jedi
+джедай	english=jedi	type=religious	community=jedi
+еврейский	english=jewish	type=religious	community=jewish
+евреи	english=jews	type=religious	community=jewish
+еврей	english=jew	type=religious	community=jewish
+джихадисты	english=jihadists	type=religious	community=muslim
+джихад	english=jihadist	type=religious	community=muslim
+джихадисты	english=jihadis	type=religious	community=muslim
+джихад	english=jihadi	type=religious	community=muslim
+джиндоистик	english=jingoistic	type=political
+иорданцы	english=Jordanians	type=racist	subtype=nationality
+иорданец	english=Jordanian	type=racist	subtype=nationality
+казахи	english=Kazakhs	type=racist	subtype=nationality
+казашка	english=Kazakh	type=racist	subtype=nationality
+казах	english=Kazakh	type=racist	subtype=nationality
+кенийцы	english=Kenyans	type=racist	subtype=nationality
+кениец	english=Kenyan	type=racist	subtype=nationality
+ккк	english=KKK	type=political
+курд	english=Kurdish	type=racist	origin=farrell	subtype=race
+лаосцы	english=Laos	type=racist	subtype=nationality
+лаосец	english=Lao	type=racist	subtype=nationality
+латыши	english=Latvians	type=racist	subtype=nationality
+латыш	english=Latvian	type=racist	subtype=nationality
+осталши	english=leavers	type=political	subtype=leave
+осталши	english=leaver	type=political	subtype=leave
+левыми	english=lefties	type=political	subtype=left
+левые	english=leftists	type=political	subtype=left
+левак	english=leftist	type=political	subtype=left
+левого	english=left leaning	type=political	subtype=left
+левой	english=left wing	type=political	subtype=left
+левый	english=left-wing	type=political	subtype=left
+левый	english=leftwing	type=political	subtype=left
+левша	english=lefty	type=political	subtype=left
+либералы	english=liberals	type=political	subtype=left
+либеральный	english=liberals	type=political	subtype=left
+либерал	english=liberal	type=political	subtype=left
+либертарианцы	english=libertarians	type=political
+либерал	english=libertarian	type=political
+ливийцы	english=Libyans	type=racist	subtype=nationality
+ливиец	english=Libyan	type=racist	subtype=nationality
+литовцы	english=Lithuanians	type=racist	subtype=nationality
+литовец	english=Lithuanian	type=racist	subtype=nationality
+левые экстремисты	english=loony left	type=political	subtype=left
+малагасийский	english=Malagasys	type=racist	subtype=nationality
+малагасиец	english=Malagasy	type=racist	subtype=nationality
+малазийцы	english=Malaysians	type=racist	subtype=nationality
+малаец	english=Malaysian	type=racist	subtype=nationality
+мужчины	english=males	type=sexist	community=men
+мужчина	english=male	type=sexist	community=men
+малийцы	english=Malians	type=racist	subtype=nationality
+малиец	english=Malian	type=racist	subtype=nationality
+маори	english=maori	type=racist	subtype=race
+марксисты	english=marxists	type=political	subtype=left	plural=true
+марксист	english=marxist	type=political	subtype=left
+мужественный	english=masculinists	type=sexist	community=men
+мужественный	english=masculinist	type=sexist	community=men
+мавританцы	english=Mauritanians	type=racist	subtype=nationality
+мавританец	english=Mauritanian	type=racist	subtype=nationality
+меннониты	english=mennonites	type=religious	community=mennonite
+Меннонитов	english=mennonite	type=religious	community=mennonite
+мужи	english=men	type=sexist	community=men
+мужчины	english=men	type=sexist	community=men
+мексиканцы	english=Mexicans	type=racist	subtype=nationality
+Мексиканец	english=Mexican	type=racist	subtype=nationality
+карлик	english=midget	type=personal
+Мормоны	english=mormons	type=religious	community=mormon
+мормон	english=mormon	type=religious	community=mormon
+Марокканский	english=Moroccans	type=racist	subtype=nationality
+марокканец	english=Moroccan	type=racist	subtype=nationality
+мусульманами	english=muslims	type=religious	community=muslim
+Намибийцы	english=Namibians	type=racist	subtype=nationality
+Намибиец	english=Namibian	type=racist	subtype=nationality
+националистический	english=nationalistic	type=political
+Националистов	english=nationalists	type=political
+националист	english=nationalist	type=political
+Коренные американцы	english=native american	type=racist	subtype=race
+Нацисты	english=nazis	type=political
+нацист	english=nazi	type=political
+неолиберальный	english=neoliberals	type=political	subtype=left
+неолиберальный	english=neoliberal	type=political	subtype=left
+Нью-эйджисты	english=new ageists	type=religious	community=new age
+Нью-эйджист	english=new age	type=religious	community=new age
+нового века	english=new age	type=religious	community=new age
+Новозеландцы	english=New Zealanders	type=racist	subtype=nationality
+Новозеландец	english=New Zealander	type=racist	subtype=nationality
+никарагуанцы	english=Nicaraguans	type=racist	subtype=nationality
+никарагуанец	english=Nicaraguan	type=racist	subtype=nationality
+Нигерийцев	english=Nigerians	type=racist	subtype=nationality
+нигериец	english=Nigerian	type=racist	subtype=nationality
+нигерийский	english=Nigeriens	type=racist	subtype=nationality
+нигерийский	english=Nigerien	type=racist	subtype=nationality
+североафриканцы	english=north africans	type=racist	subtype=continent
+Норвежцы	english=Norwegians	type=racist	subtype=nationality
+норвежец	english=Norwegian	type=racist	subtype=nationality
+Оманцы	english=Omanis	type=racist	subtype=nationality
+Оманцы	english=Omani	type=racist	subtype=nationality
+язычники	english=pagans	type=religious	community=pagan
+язычник	english=pagan	type=religious	community=pagan
+Пакистанцы	english=Pakistanis	type=racist	subtype=nationality
+пакистанец	english=Pakistani	type=racist	subtype=nationality
+Панамцев	english=Panamanians	type=racist	subtype=nationality
+Панамец	english=Panamanian	type=racist	subtype=nationality
+Пантеисты	english=pantheists	type=religious	community=pantheist
+пантеист	english=pantheist	type=religious	community=pantheist
+Парагвайцы	english=Paraguayans	type=racist	subtype=nationality
+Paraguayan	english=Paraguayan	type=racist	subtype=nationality
+патриоты	english=patriots	type=political
+патриот	english=patriot	type=political
+Перуанцы	english=Peruvians	type=racist	subtype=nationality
+парагваец	english=Peruvian	type=racist	subtype=nationality
+Филиппины	english=Philippines	type=racist	subtype=nationality
+филиппинец	english=Philippine	type=racist	subtype=nationality
+поляк	english=Polish	type=racist	subtype=nationality
+Политеисты	english=polytheists	type=religious	community=polytheist
+политеист	english=polytheist	type=religious	community=polytheist
+популисты	english=populists	type=political
+популист	english=populist	type=political
+Portuguese	english=Portuguese	type=racist	subtype=nationality
+по-европейски	english=pro european	type=political	subtype=remain
+по-европеец	english=pro europe	type=political	subtype=remain
+прогрессисты	english=progressivists	type=political	subtype=left
+прогрессист	english=progressivist	type=political	subtype=left
+Протестанты	english=protestants	type=religious	community=protestant
+протестант	english=protestant	type=religious	community=protestant
+пигмей	english=pygmy	type=racist	origin=farrell	subtype=race
+квакеры	english=quakers	type=religious	community=quaker
+квакер	english=quaker	type=religious	community=quaker
+растафарианцы	english=rastafarians	type=religious	community=rastafarian
+растафариан	english=rastafarian	type=religious	community=rastafarian
+ремейнеры	english=remainers	type=political	subtype=remain
+ремейнер	english=remainer	type=political	subtype=remain
+право клоняещ	english=right leaning	type=political	subtype=right
+правый	english=right wing	type=political	subtype=right
+правый	english=right-wing	type=political	subtype=right
+правый	english=rightwing	type=political	subtype=right
+румыны	english=Romanians	type=racist	subtype=nationality
+румын	english=Romanian	type=racist	subtype=nationality
+россияне	english=Russians	type=racist	subtype=nationality
+россиянин	english=Russian	type=racist	subtype=nationality
+Сальвадорцы	english=Salvadorans	type=racist	subtype=nationality
+Сальвадорец	english=Salvadoran	type=racist	subtype=nationality
+Сальвадорцы	english=Salvadoreans	type=racist	subtype=nationality
+Сальвадорец	english=Salvadorean	type=racist	subtype=nationality
+Сальвадорцы	english=Salvadorians	type=racist	subtype=nationality
+Сальвадорец	english=Salvadorian	type=racist	subtype=nationality
+Сатанисты	english=satanists	type=religious	community=satanist
+сатанист	english=satanist	type=religious	community=satanist
+Саудовцы	english=Saudi Arabians	type=racist	subtype=nationality
+сау́довцы	english=Saudis	type=racist	subtype=nationality
+сау́довец	english=Saudi	type=racist	subtype=nationality
+саентологи	english=scientologists	type=religious	community=scientologist
+саентолог	english=scientologist	type=religious	community=scientologist
+шотландец	english=Scottish	type=racist	subtype=nationality
+семиты	english=semites	type=religious	community=semite
+семит	english=semite	type=religious	community=semite
+сенегальцы	english=Senegalese	type=racist	subtype=nationality
+Сепаратистов	english=separatists	type=political
+сепаратист	english=separatist	type=political
+сербы	english=Serbians	type=racist	subtype=nationality
+Серб	english=Serbian	type=racist	subtype=nationality
+сербы	english=Serbs	type=racist	subtype=nationality
+Серб	english=Serb	type=racist	subtype=nationality
+шаманы	english=shamans	type=religious	community=shaman
+шаман	english=shaman	type=religious	community=shaman
+Шииты	english=shiites	type=religious	community=shiite
+шиит	english=shiite	type=religious	community=shiite
+синтоизм	english=shinto	type=religious	community=shinto
+сикхи	english=sikhs	type=religious	community=sikh
+сикх	english=sikh	type=religious	community=sikh
+сингапурцы	english=Singaporeans	type=racist	subtype=nationality
+сингапурец	english=Singaporean	type=racist	subtype=nationality
+словаки	english=Slovaks	type=racist	subtype=nationality
+словак	english=Slovak	type=racist	subtype=nationality
+Социалистов	english=socialists	type=political	subtype=left
+Социалист	english=socialist	type=political	subtype=left
+Сомалийцы	english=Somalians	type=racist	subtype=nationality
+сомали́ец	english=Somalian	type=racist	subtype=nationality
+Южноафриканцев	english=South Africans	type=racist	subtype=nationality
+Южноафриканец	english=South African	type=racist	subtype=nationality
+испанец	english=Spanish	type=racist	subtype=nationality
+сталинисты	english=stalinists	type=political
+сталинист	english=stalinist	type=political
+суданец	english=Sudanese	type=racist	subtype=nationality
+Сунниты	english=sunnis	type=religious	community=sunni
+суннит	english=sunni	type=religious	community=sunni
+швед	english=Swedish	type=racist	subtype=nationality
+швейцар	english=Swiss	type=racist	subtype=nationality
+сириец	english=Syrian	type=racist	subtype=nationality
+даосы	english=taoists	type=religious	community=taoist
+даос	english=taoist	type=religious	community=taoist
+Тайцы	english=Thais	type=racist	subtype=nationality
+таец	english=Thai	type=racist	subtype=nationality
+Теисты	english=theists	type=religious	community=theist
+Теист	english=theist	type=religious	community=theist
+тори	english=tories	type=political	subtype=right
+Тори	english=tory	type=political	subtype=right
+Предателей	english=traitors	type=political
+предатель	english=traitor	type=political
+Тунисцы	english=Tunisians	type=racist	subtype=nationality
+тунисец	english=Tunisian	type=racist	subtype=nationality
+турок	english=Turkish	type=racist	subtype=nationality
+Туркмены	english=Turkmens	type=racist	subtype=nationality
+туркмен	english=Turkmen	type=racist	subtype=nationality
+Украинцы	english=Ukranians	type=racist	subtype=nationality
+украинец	english=Ukranian	type=racist	subtype=nationality
+Унитаристы	english=unitarianists	type=religious	community=unitarian
+Унитарист	english=unitarianist	type=religious	community=unitarian
+уругваец	english=Uruguayans	type=racist	subtype=nationality
+Uruguayan	english=Uruguayan	type=racist	subtype=nationality
+вьетнамец	english=Vietnamese	type=racist	subtype=nationality
+вуду	english=voodoo	type=religious	community=voodoo
+валлиец	english=Welsh	type=racist	subtype=nationality
+викканы	english=wiccans	type=religious	community=wiccan
+виккан	english=wiccan	type=religious	community=wiccan
+женщина	english=woman	type=sexist	community=women
+женщины	english=women	type=sexist	community=women
+Зимбабвийцы	english=Zimbabweans	type=racist	subtype=nationality
+Зимбабвийский	english=Zimbabwean	type=racist	subtype=nationality
+сиони́сты	english=zionists	type=religious	community=jewish
+сионист	english=zionist	type=religious	community=jewish
+Зороастрийцы	english=zoroastrians	type=religious	community=zoroastrian
+Зороастриец	english=zoroastrian	type=religious	community=zoroastrian
+азиаты	english=asians	type=racist	subtype=continent
+асексуальный	english=asexual	community=gendernonconforming	type=homophobic
+африканец	english=african	type=racist	subtype=continent
+африканцы	english=africans	type=racist	subtype=continent
+Белый	english=white	type=racist	subtype=skincolour
+Белых	english=whites	type=racist	subtype=skincolour
+бисексуальный	english=bisexual	community=gendernonconforming	type=homophobic
+ближневосточный	english=middle eastern	type=racist	subtype=continent
+Ближний Восток	english=middle easterns	type=racist	subtype=continent
+геи	english=gays	type=homophobic	community=men
+гей	english=gay	type=homophobic	community=men
+гомики	english=homos	type=homophobic	community=men
+гомо	english=homo	type=homophobic	community=men
+гомосексуалист	english=gay	type=homophobic	community=men
+гомосексуалисты	english=homosexuals	type=homophobic	community=men
+гомосексуальный	english=homosexual	type=homophobic	community=men
+дайка	english=dyke	type=homophobic	community=women
+дамбы	english=dykes	type=homophobic	community=women
+европеец	english=european	type=racist	subtype=continent
+европейцы	english=europeans	type=racist	subtype=continent
+интерсекс	english=intergender	community=gendernonconforming	type=homophobic
+интерсекс	english=intersex	community=gendernonconforming	type=homophobic
+Квир	english=queer	type=homophobic
+квиров	english=queers	type=homophobic
+лесби	english=lesbian	type=homophobic	community=women
+лесбиянки	english=lesbians	type=homophobic	community=women
+лесбиянки	english=lez	type=homophobic	origin=farrell	community=women
+Небинарные	english=non-binary	community=gendernonconforming	type=homophobic
+Пуф	english=poof	type=homophobic	community=men
+пуфы	english=poofs	type=homophobic	community=men
+североафриканец	english=north african	type=racist	subtype=continent
+транс	english=trans	community=gendernonconforming	type=homophobic
+транссексуал	english=transexual	community=gendernonconforming	type=homophobic
+цветной	english=colored	type=racist	subtype=skincolour
+цветным	english=coloreds	type=racist	subtype=skincolour
+цветным	english=coloureds	type=racist	subtype=skincolour
+цветным	english=coloured	type=racist	subtype=skincolour
+чернокожих	english=blacks	type=racist	subtype=skincolour
+черный	english=black	type=racist	subtype=skincolour
+юго-восточных азиатец	english=southeast asian	type=racist	subtype=continent
+юго-восточных азиатцы	english=southeast asians	type=racist	subtype=continent
+южноамериканец	english=south american	type=racist	subtype=continent
+южноамериканцы	english=south americans	type=racist	subtype=continent
+
+
+
+	english=butch	type=homophobic	community=women
+	english=cat lady	type=personal
+	english=catlady	type=personal
+	english=Central Africans	type=racist	subtype=nationality
+	english=Central African	type=racist	subtype=continent
+	english=central americans	type=racist	subtype=continent
+	english=central american	type=racist	subtype=continent
+	english=elitists	type=political
+	english=Hondurans	type=racist	subtype=nationality
+	english=Jamaican	type=racist	subtype=nationality
+	english=man	type=sexist	community=men
+	english=muslim	type=religious	community=muslim
+	english=nutcase	type=personal
+	english=paki	type=racist	subtype=nationality
+	english=Saudi Arabian	type=racist	subtype=nationality
+	english=Syrians	type=racist	subtype=nationality
+	english=Zambians	type=racist	subtype=nationality
+	english=Zambian	type=racist	subtype=nationality
+

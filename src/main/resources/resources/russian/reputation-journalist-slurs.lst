@@ -1,0 +1,39 @@
+королева фальшивых новостей	english=queen of fake news	type=gendered reputation
+журналисты никому не нужные	english=useless journalist	type=reputation
+бесполезныe журналисты	english=useless journalists	type=reputation
+вы преступник	english=you are a criminal	type=reputation	pos=youphrase
+ты преступник	english=you are a criminal	type=reputation	pos=youphrase
+пресститутка	english=presstitute	type=gendered reputation
+пресститутские	english=presstitutes	type=gendered reputation
+производитель фейковых новостей	english=fakenewsmaker	type=reputation
+производитель фейковых новостей	englishfakenews maker	type=reputation
+распространение фейковых новостей	english=fake news maker	type=reputation
+распространение фальшивых известий	english=fake newsmaker	type=reputation
+торговец поддельными новостями	english=fake news peddler	type=reputation
+журналистская чушь	english=journalistic rubbish	type=reputation
+журналистический мусор	english=journalistic rubbish	type=reputation
+твои фейковые новости	englihs=your fake news	type=reputation	pos=youphrase
+распространяет клевету	english=your spreading lies	type=reputation	pos=youphrase
+пытаются распространить ложь	english=your spreading lies	type=reputation	pos=youphrase
+распространяете ложь	english=your spreading lies	type=reputation	pos=youphrase
+вы глупы	english=you are stupid	type=reputation	pos=youphrase
+ты дебил	english=you are stupid	type=reputation	pos=youphrase
+вы лжете	english=you are lying	type=reputation	pos=youphrase
+ты лжешь	english=you are lying	type=reputation	pos=youphrase
+ты лжец	english=you are a liar	type=reputation	pos=youphrase
+вы лжец	english=you are a liar	type=reputation	pos=youphrase
+ Позор для вашей профессии 	english=Embarrassment to your profession	type=reputation	pos=youphrase
+шутка, а не журналист	english=joke of a journalist	type=reputation
+хрени нагородил	english=making up crap	type=reputation
+выдумывать хуйню	english=making up crap	type=reputation
+выдумывают хуйню	english=making up crap	type=reputation
+выдумвают ерунду	english=making up crap	type=reputation
+выдумывают хуйню	english=making up crap	type=reputation
+выдумвают ерунду	english=making up crap	type=reputation
+выдумывать какую-то чепуху	english=making up crap	type=reputation
+шлюха журналистка	english=whorenalist	type=gendered reputation
+шлюхалистка	english=whorenalist	type=gendered reputation
+
+
+fake news queen	type=gendered reputation
+codswallop you spout	type=reputation	pos=youphrase
