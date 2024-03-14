@@ -54,13 +54,3 @@
 шутка журналиста	english=joke of a journalist	type=reputation
 твой неумелый мозг	english=your inept brain	type=reputation	pos=youphrase
 слабоумный	english=halfwit	type=reputation
-
-	english=hypocrite	type=reputation
-	english=thief	type=reputation
-	english=scammer	type=reputation
-	english=cheating	type=reputation
-	english=scamming	type=reputation
-	english=you are a criminal	type=reputation	pos=youphrase
-	english=criminal	type=reputation
-	english=thieving	type=reputation	category=adjective
-	english=stealing	type=reputation	category=adjective

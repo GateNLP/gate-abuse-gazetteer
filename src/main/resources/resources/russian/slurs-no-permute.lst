@@ -149,19 +149,3 @@ dumb fuck	english=dumb fuck	type=reputation
 лживый подонок	english=lying scumbag	type=reputation
 отморозок	english=lying scumbag	type=reputation
 подонок	english=lying scumbag	type=reputation
-
-
-	
-	english=FU	pos=youphrase	type=general
-	english=GFY	pos=youphrase	type=general
-	english=you are dumb	pos=youphrase	type=reputation
-	english=you are so dumb	pos=youphrase	type=reputation
-	english=touch of the tar brush	type=racist	origin=farrell	pos=phrase
-	english=touch of the tar brushes	type=racist	origin=farrell	pos=phrase
-	english=black dago	type=racist	origin=farrell
-	english=black dagos	type=racist	origin=farrell	plural=true
-	english=redlegs	type=racist	origin=farrell
-	english=shanty irish	type=racist	origin=farrell
-	english=banjo lips	type=racist	origin=farrell
-	english=bans and cans	type=racist	origin=farrel
-	english=zogs	plural=true	type=racist	origin=farrell

@@ -432,25 +432,3 @@ Uruguayan	english=Uruguayan	type=racist	subtype=nationality
 юго-восточных азиатцы	english=southeast asians	type=racist	subtype=continent
 южноамериканец	english=south american	type=racist	subtype=continent
 южноамериканцы	english=south americans	type=racist	subtype=continent
-
-
-
-	english=butch	type=homophobic	community=women
-	english=cat lady	type=personal
-	english=catlady	type=personal
-	english=Central Africans	type=racist	subtype=nationality
-	english=Central African	type=racist	subtype=continent
-	english=central americans	type=racist	subtype=continent
-	english=central american	type=racist	subtype=continent
-	english=elitists	type=political
-	english=Hondurans	type=racist	subtype=nationality
-	english=Jamaican	type=racist	subtype=nationality
-	english=man	type=sexist	community=men
-	english=muslim	type=religious	community=muslim
-	english=nutcase	type=personal
-	english=paki	type=racist	subtype=nationality
-	english=Saudi Arabian	type=racist	subtype=nationality
-	english=Syrians	type=racist	subtype=nationality
-	english=Zambians	type=racist	subtype=nationality
-	english=Zambian	type=racist	subtype=nationality
-

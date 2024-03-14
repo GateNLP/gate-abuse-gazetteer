@@ -1,0 +1,101 @@
+offensive_words.lst
+
+	english=f*ckin	category=adjective	type=general
+	english=f*cking	category=adjective	type=general
+	english=fcuk	type=general
+	english=fcuken	category=adjective	type=general
+	english=fcuking	category=adjective	type=general
+	english=feck	strength=medium
+	english=fken	category=adjective
+	english=f**kin	category=adjective	type=general
+	english=f**king	category=adjective	type=general
+	english=fool	type=reputation
+	english=friggin	category=adjective	type=general
+	english=frigging	category=adjective	type=general
+	english=fuc*ing	category=adjective	type=general
+	english=fucked	category=adjective	strength=strong	type=general
+	english=fucked up	category=adjective	strength=strong	type=general
+	english=fucken	category=adjective	type=general
+	english=fuckin	category=adjective	strength=strong	type=general
+	english=fucking	category=adjective	strength=strong	type=general
+	english=fucks	strength=strong	type=general
+	english=f u c k	strength=strong	type=general
+	english=fuck	strength=strong	type=general
+	english=fuc**ng	category=adjective	type=general
+	english=fu**in	category=adjective	type=general
+	english=fu**ing	category=adjective	type=general
+	english=fu*kin	category=adjective	type=general
+	english=fu*king	category=adjective	type=general
+	english=motha fuckin	category=adjective	type=general
+	english=mothafuckin	category=adjective	strength=strong	type=general
+	english=motha fucking	category=adjective	type=general
+	english=mothafucking	category=adjective	strength=strong	type=general
+	english=mother fcken	category=adjective	type=general
+	english=motherfcken	category=adjective	type=general
+	english=mother fucken	category=adjective	type=general
+	english=motherfucken	category=adjective	type=general
+	english=mother fuckin	category=adjective	type=general
+	english=motherfuckin	category=adjective	type=general
+	english=motherfucking	category=adjective	strength=strong	type=general
+	english=munging	category=adjective	strength=strong	type=general
+	english=shag	strength=medium	type=sexual
+	english=sheister	origin=farrell	type=general
+	english=shite	strength=medium	type=general
+	english=shit	strength=medium	type=general
+	english=shittiest	category=adjective	strength=medium	type=general
+	english=shitting	category=adjective	strength=medium	type=general
+	english=shitty	category=adjective	strength=medium	type=general
+
+reputation.lst
+
+	english=hypocrite	type=reputation
+	english=thief	type=reputation
+	english=scammer	type=reputation
+	english=cheating	type=reputation
+	english=scamming	type=reputation
+	english=you are a criminal	type=reputation	pos=youphrase
+	english=criminal	type=reputation
+	english=thieving	type=reputation	category=adjective
+	english=stealing	type=reputation	category=adjective
+	
+reputation-journalist-slurs.lst
+
+	english=fake news queen	type=gendered reputation
+	english=codswallop you spout	type=reputation	pos=youphrase
+	
+sensitive_words.lst
+
+	english=butch	type=homophobic	community=women
+	english=cat lady	type=personal
+	english=catlady	type=personal
+	english=Central Africans	type=racist	subtype=nationality
+	english=Central African	type=racist	subtype=continent
+	english=central americans	type=racist	subtype=continent
+	english=central american	type=racist	subtype=continent
+	english=elitists	type=political
+	english=Hondurans	type=racist	subtype=nationality
+	english=Jamaican	type=racist	subtype=nationality
+	english=man	type=sexist	community=men
+	english=muslim	type=religious	community=muslim
+	english=nutcase	type=personal
+	english=paki	type=racist	subtype=nationality
+	english=Saudi Arabian	type=racist	subtype=nationality
+	english=Syrians	type=racist	subtype=nationality
+	english=Zambians	type=racist	subtype=nationality
+	english=Zambian	type=racist	subtype=nationality
+
+slurs-no-permute.lst
+
+	english=FU	pos=youphrase	type=general
+	english=GFY	pos=youphrase	type=general
+	english=you are dumb	pos=youphrase	type=reputation
+	english=you are so dumb	pos=youphrase	type=reputation
+	english=touch of the tar brush	type=racist	origin=farrell	pos=phrase
+	english=touch of the tar brushes	type=racist	origin=farrell	pos=phrase
+	english=black dago	type=racist	origin=farrell
+	english=black dagos	type=racist	origin=farrell	plural=true
+	english=redlegs	type=racist	origin=farrell
+	english=shanty irish	type=racist	origin=farrell
+	english=banjo lips	type=racist	origin=farrell
+	english=bans and cans	type=racist	origin=farrel
+	english=zogs	plural=true	type=racist	origin=farrell
