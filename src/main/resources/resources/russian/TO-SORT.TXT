@@ -99,3 +99,7 @@ slurs-no-permute.lst
 	english=banjo lips	type=racist	origin=farrell
 	english=bans and cans	type=racist	origin=farrel
 	english=zogs	plural=true	type=racist	origin=farrell
+	english=dumb fuck	type=reputation
+	english=dumb fuck	type=reputation
+	english=dumb fuck	type=reputation
+
