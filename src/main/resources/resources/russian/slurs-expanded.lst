@@ -1,9 +1,9 @@
 a5s bags	plural=true	strength=medium
-a5s-bags	plural=true	strength=medium	type=sexual
-a5sbags	plural=true	strength=medium	type=sexual
-a5s bag	strength=medium	type=sexual
-a5s-bag	strength=medium	type=sexual
-a5sbag	strength=medium	type=sexual
+a5s-bags	plural=true	strength=medium	type=sexist	original=sexual
+a5sbags	plural=true	strength=medium	type=sexist	original=sexual
+a5s bag	strength=medium	type=sexist	original=sexual
+a5s-bag	strength=medium	type=sexist	original=sexual
+a5sbag	strength=medium	type=sexist	original=sexual
 a5s bandits	plural=true	type=homophobic	community=men
 a5s-bandits	plural=true	type=homophobic	community=men
 a5sbandits	plural=true	type=homophobic	community=men
@@ -16,30 +16,30 @@ a5sbangers	plural=true	type=homophobic	origin=farrell	community=men
 a5s banger	type=homophobic	origin=farrell	community=men
 a5s-banger	type=homophobic	origin=farrell	community=men
 a5sbanger	type=homophobic	origin=farrell	community=men
-a5s bites	plural=true	strength=medium	type=sexual
-a5s-bites	plural=true	strength=medium	type=sexual
-a5sbites	plural=true	strength=medium	type=sexual
-a5s bite	strength=medium	type=sexual
-a5s-bite	strength=medium	type=sexual
-a5sbite	strength=medium	type=sexual
+a5s bites	plural=true	strength=medium	type=sexist	original=sexual
+a5s-bites	plural=true	strength=medium	type=sexist	original=sexual
+a5sbites	plural=true	strength=medium	type=sexist	original=sexual
+a5s bite	strength=medium	type=sexist	original=sexual
+a5s-bite	strength=medium	type=sexist	original=sexual
+a5sbite	strength=medium	type=sexist	original=sexual
 a5s blasters	plural=true	type=homophobic	origin=farrell	community=men
 a5s-blasters	plural=true	type=homophobic	origin=farrell	community=men
 a5sblasters	plural=true	type=homophobic	origin=farrell	community=men
 a5s blaster	type=homophobic	origin=farrell	community=men
 a5s-blaster	type=homophobic	origin=farrell	community=men
 a5sblaster	type=homophobic	origin=farrell	community=men
-a5s clowns	plural=true	strength=mild	type=sexual
-a5s-clowns	plural=true	strength=mild	type=sexual
-a5sclowns	plural=true	strength=mild	type=sexual
-a5s clown	strength=mild	type=sexual
-a5s-clown	strength=mild	type=sexual
-a5sclown	strength=mild	type=sexual
-a5s cocks	plural=true	strength=strong	type=sexual
-a5s-cocks	plural=true	strength=strong	type=sexual
-a5scocks	plural=true	strength=strong	type=sexual
-a5s cock	strength=strong	type=sexual
-a5s-cock	strength=strong	type=sexual
-a5scock	strength=strong	type=sexual
+a5s clowns	plural=true	strength=mild	type=sexist	original=sexual
+a5s-clowns	plural=true	strength=mild	type=sexist	original=sexual
+a5sclowns	plural=true	strength=mild	type=sexist	original=sexual
+a5s clown	strength=mild	type=sexist	original=sexual
+a5s-clown	strength=mild	type=sexist	original=sexual
+a5sclown	strength=mild	type=sexist	original=sexual
+a5s cocks	plural=true	strength=strong	type=sexist	original=sexual
+a5s-cocks	plural=true	strength=strong	type=sexist	original=sexual
+a5scocks	plural=true	strength=strong	type=sexist	original=sexual
+a5s cock	strength=strong	type=sexist	original=sexual
+a5s-cock	strength=strong	type=sexist	original=sexual
+a5scock	strength=strong	type=sexist	original=sexual
 a5s cowboys	plural=true	type=homophobic	origin=farrell	community=men
 a5s-cowboys	plural=true	type=homophobic	origin=farrell	community=men
 a5scowboys	plural=true	type=homophobic	origin=farrell	community=men
@@ -52,70 +52,70 @@ a5scrackers	plural=true	type=homophobic	community=men
 a5s cracker	type=homophobic	community=men
 a5s-cracker	type=homophobic	community=men
 a5scracker	type=homophobic	community=men
-a5s faces	plural=true	strength=medium	type=sexual
-a5s-faces	plural=true	strength=medium	type=sexual
-a5sfaces	plural=true	strength=medium	type=sexual
-a5s face	strength=medium	type=sexual
-a5s-face	strength=medium	type=sexual
-a5sface	strength=medium	type=sexual
-a5s f@cks	plural=true	strength=strongest	type=sexual
-a5s f*cks	plural=true	strength=strongest	type=sexual
-a5s f#cks	plural=true	strength=strongest	type=sexual
-a5s-f@cks	plural=true	strength=strongest	type=sexual
-a5s-f*cks	plural=true	strength=strongest	type=sexual
-a5s-f#cks	plural=true	strength=strongest	type=sexual
-a5sf@cks	plural=true	strength=strongest	type=sexual
-a5sf*cks	plural=true	strength=strongest	type=sexual
-a5sf#cks	plural=true	strength=strongest	type=sexual
-a5s f@ck	strength=strongest	type=sexual
-a5s f*ck	strength=strongest	type=sexual
-a5s f#ck	strength=strongest	type=sexual
-a5s-f@ck	strength=strongest	type=sexual
-a5s-f*ck	strength=strongest	type=sexual
-a5s-f#ck	strength=strongest	type=sexual
-a5sf@ck	strength=strongest	type=sexual
-a5sf*ck	strength=strongest	type=sexual
-a5sf#ck	strength=strongest	type=sexual
-a5s f@*ks	plural=true	strength=strongest	type=sexual
-a5s f**ks	plural=true	strength=strongest	type=sexual
-a5s f#*ks	plural=true	strength=strongest	type=sexual
-a5s-f@*ks	plural=true	strength=strongest	type=sexual
-a5s-f**ks	plural=true	strength=strongest	type=sexual
-a5s-f#*ks	plural=true	strength=strongest	type=sexual
-a5sf@*ks	plural=true	strength=strongest	type=sexual
-a5sf**ks	plural=true	strength=strongest	type=sexual
-a5sf#*ks	plural=true	strength=strongest	type=sexual
-a5s f@*k	strength=strongest	type=sexual
-a5s f**k	strength=strongest	type=sexual
-a5s f#*k	strength=strongest	type=sexual
-a5s-f@*k	strength=strongest	type=sexual
-a5s-f**k	strength=strongest	type=sexual
-a5s-f#*k	strength=strongest	type=sexual
-a5sf@*k	strength=strongest	type=sexual
-a5sf**k	strength=strongest	type=sexual
-a5sf#*k	strength=strongest	type=sexual
+a5s faces	plural=true	strength=medium	type=sexist	original=sexual
+a5s-faces	plural=true	strength=medium	type=sexist	original=sexual
+a5sfaces	plural=true	strength=medium	type=sexist	original=sexual
+a5s face	strength=medium	type=sexist	original=sexual
+a5s-face	strength=medium	type=sexist	original=sexual
+a5sface	strength=medium	type=sexist	original=sexual
+a5s f@cks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s f*cks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s f#cks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s-f@cks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s-f*cks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s-f#cks	plural=true	strength=strongest	type=sexist	original=sexual
+a5sf@cks	plural=true	strength=strongest	type=sexist	original=sexual
+a5sf*cks	plural=true	strength=strongest	type=sexist	original=sexual
+a5sf#cks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s f@ck	strength=strongest	type=sexist	original=sexual
+a5s f*ck	strength=strongest	type=sexist	original=sexual
+a5s f#ck	strength=strongest	type=sexist	original=sexual
+a5s-f@ck	strength=strongest	type=sexist	original=sexual
+a5s-f*ck	strength=strongest	type=sexist	original=sexual
+a5s-f#ck	strength=strongest	type=sexist	original=sexual
+a5sf@ck	strength=strongest	type=sexist	original=sexual
+a5sf*ck	strength=strongest	type=sexist	original=sexual
+a5sf#ck	strength=strongest	type=sexist	original=sexual
+a5s f@*ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s f**ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s f#*ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s-f@*ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s-f**ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s-f#*ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5sf@*ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5sf**ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5sf#*ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s f@*k	strength=strongest	type=sexist	original=sexual
+a5s f**k	strength=strongest	type=sexist	original=sexual
+a5s f#*k	strength=strongest	type=sexist	original=sexual
+a5s-f@*k	strength=strongest	type=sexist	original=sexual
+a5s-f**k	strength=strongest	type=sexist	original=sexual
+a5s-f#*k	strength=strongest	type=sexist	original=sexual
+a5sf@*k	strength=strongest	type=sexist	original=sexual
+a5sf**k	strength=strongest	type=sexist	original=sexual
+a5sf#*k	strength=strongest	type=sexist	original=sexual
 a5s fuckers	plural=true	type=homophobic	community=men
 a5s-fuckers	plural=true	type=homophobic	community=men
 a5sfuckers	plural=true	type=homophobic	community=men
 a5s fucker	type=homophobic	community=men
 a5s-fucker	type=homophobic	community=men
 a5sfucker	type=homophobic	community=men
-a5s f u c ks	plural=true	strength=strongest	type=sexual
-a5s fucks	plural=true	strength=strongest	type=sexual
-a5s-f-u-c-ks	plural=true	strength=strongest	type=sexual
-a5s-fucks	plural=true	strength=strongest	type=sexual
-a5sfucks	plural=true	strength=strongest	type=sexual
-a5s f u c k	strength=strongest	type=sexual
-a5s fuck	strength=strongest	type=sexual
-a5s-f-u-c-k	strength=strongest	type=sexual
-a5s-fuck	strength=strongest	type=sexual
-a5sfuck	strength=strongest	type=sexual
-a5s fu*ks	plural=true	strength=strongest	type=sexual
-a5s-fu*ks	plural=true	strength=strongest	type=sexual
-a5sfu*ks	plural=true	strength=strongest	type=sexual
-a5s fu*k	strength=strongest	type=sexual
-a5s-fu*k	strength=strongest	type=sexual
-a5sfu*k	strength=strongest	type=sexual
+a5s f u c ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s fucks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s-f-u-c-ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s-fucks	plural=true	strength=strongest	type=sexist	original=sexual
+a5sfucks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s f u c k	strength=strongest	type=sexist	original=sexual
+a5s fuck	strength=strongest	type=sexist	original=sexual
+a5s-f-u-c-k	strength=strongest	type=sexist	original=sexual
+a5s-fuck	strength=strongest	type=sexist	original=sexual
+a5sfuck	strength=strongest	type=sexist	original=sexual
+a5s fu*ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s-fu*ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5sfu*ks	plural=true	strength=strongest	type=sexist	original=sexual
+a5s fu*k	strength=strongest	type=sexist	original=sexual
+a5s-fu*k	strength=strongest	type=sexist	original=sexual
+a5sfu*k	strength=strongest	type=sexist	original=sexual
 a5s goblins	plural=true	type=homophobic	community=men
 a5s-goblins	plural=true	type=homophobic	community=men
 a5sgoblins	plural=true	type=homophobic	community=men
@@ -125,21 +125,21 @@ a5sgoblin	type=homophobic	community=men
 a5s hats	plural=true	strength=medium
 a5s-hats	plural=true	strength=medium
 a5shats	plural=true	strength=medium
-a5s hat	strength=medium	type=sexual
-a5s-hat	strength=medium	type=sexual
-a5shat	strength=medium	type=sexual
-a5s heads	plural=true	strength=medium	type=sexual
-a5s-heads	plural=true	strength=medium	type=sexual
-a5sheads	plural=true	strength=medium	type=sexual
-a5s head	strength=medium	type=sexual
-a5s-head	strength=medium	type=sexual
-a5shead	strength=medium	type=sexual
-a5s holes	plural=true	strength=medium	type=sexual
-a5s-holes	plural=true	strength=medium	type=sexual
-a5sholes	plural=true	strength=medium	type=sexual
-a5s hole	strength=medium	type=sexual
-a5s-hole	strength=medium	type=sexual
-a5shole	strength=medium	type=sexual
+a5s hat	strength=medium	type=sexist	original=sexual
+a5s-hat	strength=medium	type=sexist	original=sexual
+a5shat	strength=medium	type=sexist	original=sexual
+a5s heads	plural=true	strength=medium	type=sexist	original=sexual
+a5s-heads	plural=true	strength=medium	type=sexist	original=sexual
+a5sheads	plural=true	strength=medium	type=sexist	original=sexual
+a5s head	strength=medium	type=sexist	original=sexual
+a5s-head	strength=medium	type=sexist	original=sexual
+a5shead	strength=medium	type=sexist	original=sexual
+a5s holes	plural=true	strength=medium	type=sexist	original=sexual
+a5s-holes	plural=true	strength=medium	type=sexist	original=sexual
+a5sholes	plural=true	strength=medium	type=sexist	original=sexual
+a5s hole	strength=medium	type=sexist	original=sexual
+a5s-hole	strength=medium	type=sexist	original=sexual
+a5shole	strength=medium	type=sexist	original=sexual
 a5s hoppers	plural=true	type=homophobic	community=men
 a5s-hoppers	plural=true	type=homophobic	community=men
 a5shoppers	plural=true	type=homophobic	community=men
@@ -164,18 +164,18 @@ a5sklowns	plural=true	type=homophobic	origin=farrell	community=men
 a5s klown	type=homophobic	origin=farrell	community=men
 a5s-klown	type=homophobic	origin=farrell	community=men
 a5sklown	type=homophobic	origin=farrell	community=men
-a5s lickers	plural=true	strength=medium	type=sexual
-a5s-lickers	plural=true	strength=medium	type=sexual
-a5slickers	plural=true	strength=medium	type=sexual
-a5s licker	strength=medium	type=sexual
-a5s-licker	strength=medium	type=sexual
-a5slicker	strength=medium	type=sexual
-a5s licks	plural=true	strength=medium	type=sexual
-a5s-licks	plural=true	strength=medium	type=sexual
-a5slicks	plural=true	strength=medium	type=sexual
-a5s lick	strength=medium	type=sexual
-a5s-lick	strength=medium	type=sexual
-a5slick	strength=medium	type=sexual
+a5s lickers	plural=true	strength=medium	type=sexist	original=sexual
+a5s-lickers	plural=true	strength=medium	type=sexist	original=sexual
+a5slickers	plural=true	strength=medium	type=sexist	original=sexual
+a5s licker	strength=medium	type=sexist	original=sexual
+a5s-licker	strength=medium	type=sexist	original=sexual
+a5slicker	strength=medium	type=sexist	original=sexual
+a5s licks	plural=true	strength=medium	type=sexist	original=sexual
+a5s-licks	plural=true	strength=medium	type=sexist	original=sexual
+a5slicks	plural=true	strength=medium	type=sexist	original=sexual
+a5s lick	strength=medium	type=sexist	original=sexual
+a5s-lick	strength=medium	type=sexist	original=sexual
+a5slick	strength=medium	type=sexist	original=sexual
 a5s mans	plural=true	type=homophobic	origin=farrell	community=men
 a5s-mans	plural=true	type=homophobic	origin=farrell	community=men
 a5smans	plural=true	type=homophobic	origin=farrell	community=men
@@ -550,24 +550,24 @@ a5ssuckers	plural=true	type=homophobic	community=men
 a5s sucker	type=homophobic	community=men
 a5s-sucker	type=homophobic	community=men
 a5ssucker	type=homophobic	community=men
-a5s wad	type=sexual
-a5s-wad	type=sexual
-a5swad	type=sexual
-a5s wads	plural=true	type=sexual
-a5s-wads	plural=true	type=sexual
-a5swads	plural=true	type=sexual
+a5s wad	type=sexist	original=sexual
+a5s-wad	type=sexist	original=sexual
+a5swad	type=sexist	original=sexual
+a5s wads	plural=true	type=sexist	original=sexual
+a5s-wads	plural=true	type=sexist	original=sexual
+a5swads	plural=true	type=sexist	original=sexual
 a5s whores	plural=true	type=homophobic	origin=farrell	community=men
 a5s-whores	plural=true	type=homophobic	origin=farrell	community=men
 a5swhores	plural=true	type=homophobic	origin=farrell	community=men
 a5s whore	type=homophobic	origin=farrell	community=men
 a5s-whore	type=homophobic	origin=farrell	community=men
 a5swhore	type=homophobic	origin=farrell	community=men
-a5s wipe	type=sexual
-a5s-wipe	type=sexual
-a5swipe	type=sexual
-a5s wipes	plural=true	type=sexual
-a5s-wipes	plural=true	type=sexual
-a5swipes	plural=true	type=sexual
+a5s wipe	type=sexist	original=sexual
+a5s-wipe	type=sexist	original=sexual
+a5swipe	type=sexist	original=sexual
+a5s wipes	plural=true	type=sexist	original=sexual
+a5s-wipes	plural=true	type=sexist	original=sexual
+a5swipes	plural=true	type=sexist	original=sexual
 afr1c0ons	plural=true	type=racist	origin=farrell
 afr1c0on	type=racist	origin=farrell
 Afr1c4n catfishs	plural=true	type=religious	community=muslim
@@ -816,12 +816,12 @@ ar5ebandits	plural=true	type=homophobic	community=men
 ar5e bandit	type=homophobic	community=men
 ar5e-bandit	type=homophobic	community=men
 ar5ebandit	type=homophobic	community=men
-ar5e holes	plural=true	strength=medium	type=sexual
-ar5e-holes	plural=true	strength=medium	type=sexual
-ar5eholes	plural=true	strength=medium	type=sexual
-ar5e hole	strength=medium	type=sexual
-ar5e-hole	strength=medium	type=sexual
-ar5ehole	strength=medium	type=sexual
+ar5e holes	plural=true	strength=medium	type=sexist	original=sexual
+ar5e-holes	plural=true	strength=medium	type=sexist	original=sexual
+ar5eholes	plural=true	strength=medium	type=sexist	original=sexual
+ar5e hole	strength=medium	type=sexist	original=sexual
+ar5e-hole	strength=medium	type=sexist	original=sexual
+ar5ehole	strength=medium	type=sexist	original=sexual
 armos	plural=true	type=racist	origin=farrell
 armo	type=racist	origin=farrell
 arse b4nd1ts	plural=true	type=homophobic	community=men
@@ -860,42 +860,42 @@ arseband!ts	plural=true	type=homophobic	community=men
 arse band!t	type=homophobic	community=men
 arse-band!t	type=homophobic	community=men
 arseband!t	type=homophobic	community=men
-arse h0les	plural=true	strength=medium	type=sexual
-arse-h0les	plural=true	strength=medium	type=sexual
-arseh0les	plural=true	strength=medium	type=sexual
-arse h0le	strength=medium	type=sexual
-arse-h0le	strength=medium	type=sexual
-arseh0le	strength=medium	type=sexual
-arse holes	plural=true	strength=medium	type=sexual
-arse-holes	plural=true	strength=medium	type=sexual
-arseholes	plural=true	strength=medium	type=sexual
-arse hole	strength=medium	type=sexual
-arse-hole	strength=medium	type=sexual
-arsehole	strength=medium	type=sexual
-arsepiece	strength=medium	type=sexual
-arse piece	strength=medium	type=sexual
-arse-piece	strength=medium	type=sexual
-arsep1ece	strength=medium	type=sexual
-arse p1ece	strength=medium	type=sexual
-arse-p1ece	strength=medium	type=sexual
-ar5epiece	strength=medium	type=sexual
-ar5e piece	strength=medium	type=sexual
-ar5e-piece	strength=medium	type=sexual
-ar5ep1ece	strength=medium	type=sexual
-ar5e p1ece	strength=medium	type=sexual
-ar5e-p1ece	strength=medium	type=sexual
-ass b1tes	plural=true	strength=medium	type=sexual
-ass-b1tes	plural=true	strength=medium	type=sexual
-assb1tes	plural=true	strength=medium	type=sexual
-ass b1te	strength=medium	type=sexual
-ass-b1te	strength=medium	type=sexual
-assb1te	strength=medium	type=sexual
-ass b4gs	plural=true	strength=medium	type=sexual
-ass-b4gs	plural=true	strength=medium	type=sexual
-assb4gs	plural=true	strength=medium	type=sexual
-ass b4g	strength=medium	type=sexual
-ass-b4g	strength=medium	type=sexual
-assb4g	strength=medium	type=sexual
+arse h0les	plural=true	strength=medium	type=sexist	original=sexual
+arse-h0les	plural=true	strength=medium	type=sexist	original=sexual
+arseh0les	plural=true	strength=medium	type=sexist	original=sexual
+arse h0le	strength=medium	type=sexist	original=sexual
+arse-h0le	strength=medium	type=sexist	original=sexual
+arseh0le	strength=medium	type=sexist	original=sexual
+arse holes	plural=true	strength=medium	type=sexist	original=sexual
+arse-holes	plural=true	strength=medium	type=sexist	original=sexual
+arseholes	plural=true	strength=medium	type=sexist	original=sexual
+arse hole	strength=medium	type=sexist	original=sexual
+arse-hole	strength=medium	type=sexist	original=sexual
+arsehole	strength=medium	type=sexist	original=sexual
+arsepiece	strength=medium	type=sexist	original=sexual
+arse piece	strength=medium	type=sexist	original=sexual
+arse-piece	strength=medium	type=sexist	original=sexual
+arsep1ece	strength=medium	type=sexist	original=sexual
+arse p1ece	strength=medium	type=sexist	original=sexual
+arse-p1ece	strength=medium	type=sexist	original=sexual
+ar5epiece	strength=medium	type=sexist	original=sexual
+ar5e piece	strength=medium	type=sexist	original=sexual
+ar5e-piece	strength=medium	type=sexist	original=sexual
+ar5ep1ece	strength=medium	type=sexist	original=sexual
+ar5e p1ece	strength=medium	type=sexist	original=sexual
+ar5e-p1ece	strength=medium	type=sexist	original=sexual
+ass b1tes	plural=true	strength=medium	type=sexist	original=sexual
+ass-b1tes	plural=true	strength=medium	type=sexist	original=sexual
+assb1tes	plural=true	strength=medium	type=sexist	original=sexual
+ass b1te	strength=medium	type=sexist	original=sexual
+ass-b1te	strength=medium	type=sexist	original=sexual
+assb1te	strength=medium	type=sexist	original=sexual
+ass b4gs	plural=true	strength=medium	type=sexist	original=sexual
+ass-b4gs	plural=true	strength=medium	type=sexist	original=sexual
+assb4gs	plural=true	strength=medium	type=sexist	original=sexual
+ass b4g	strength=medium	type=sexist	original=sexual
+ass-b4g	strength=medium	type=sexist	original=sexual
+assb4g	strength=medium	type=sexist	original=sexual
 ass b4nd1ts	plural=true	type=homophobic	community=men
 ass-b4nd1ts	plural=true	type=homophobic	community=men
 assb4nd1ts	plural=true	type=homophobic	community=men
@@ -926,12 +926,12 @@ assb4ngers	plural=true	type=homophobic	origin=farrell	community=men
 ass b4nger	type=homophobic	origin=farrell	community=men
 ass-b4nger	type=homophobic	origin=farrell	community=men
 assb4nger	type=homophobic	origin=farrell	community=men
-ass bags	plural=true	strength=medium	type=sexual
-ass-bags	plural=true	strength=medium	type=sexual
-assbags	plural=true	strength=medium	type=sexual
-ass bag	strength=medium	type=sexual
-ass-bag	strength=medium	type=sexual
-assbag	strength=medium	type=sexual
+ass bags	plural=true	strength=medium	type=sexist	original=sexual
+ass-bags	plural=true	strength=medium	type=sexist	original=sexual
+assbags	plural=true	strength=medium	type=sexist	original=sexual
+ass bag	strength=medium	type=sexist	original=sexual
+ass-bag	strength=medium	type=sexist	original=sexual
+assbag	strength=medium	type=sexist	original=sexual
 ass band1ts	plural=true	type=homophobic	community=men
 ass-band1ts	plural=true	type=homophobic	community=men
 assband1ts	plural=true	type=homophobic	community=men
@@ -962,24 +962,24 @@ assbangers	plural=true	type=homophobic	origin=farrell	community=men
 ass banger	type=homophobic	origin=farrell	community=men
 ass-banger	type=homophobic	origin=farrell	community=men
 assbanger	type=homophobic	origin=farrell	community=men
-ass bi7es	plural=true	strength=medium	type=sexual
-ass-bi7es	plural=true	strength=medium	type=sexual
-assbi7es	plural=true	strength=medium	type=sexual
-ass bi7e	strength=medium	type=sexual
-ass-bi7e	strength=medium	type=sexual
-assbi7e	strength=medium	type=sexual
-ass bi+es	plural=true	strength=medium	type=sexual
-ass-bi+es	plural=true	strength=medium	type=sexual
-assbi+es	plural=true	strength=medium	type=sexual
-ass bi+e	strength=medium	type=sexual
-ass-bi+e	strength=medium	type=sexual
-assbi+e	strength=medium	type=sexual
-ass bites	plural=true	strength=medium	type=sexual
-ass-bites	plural=true	strength=medium	type=sexual
-assbites	plural=true	strength=medium	type=sexual
-ass bite	strength=medium	type=sexual
-ass-bite	strength=medium	type=sexual
-assbite	strength=medium	type=sexual
+ass bi7es	plural=true	strength=medium	type=sexist	original=sexual
+ass-bi7es	plural=true	strength=medium	type=sexist	original=sexual
+assbi7es	plural=true	strength=medium	type=sexist	original=sexual
+ass bi7e	strength=medium	type=sexist	original=sexual
+ass-bi7e	strength=medium	type=sexist	original=sexual
+assbi7e	strength=medium	type=sexist	original=sexual
+ass bi+es	plural=true	strength=medium	type=sexist	original=sexual
+ass-bi+es	plural=true	strength=medium	type=sexist	original=sexual
+assbi+es	plural=true	strength=medium	type=sexist	original=sexual
+ass bi+e	strength=medium	type=sexist	original=sexual
+ass-bi+e	strength=medium	type=sexist	original=sexual
+assbi+e	strength=medium	type=sexist	original=sexual
+ass bites	plural=true	strength=medium	type=sexist	original=sexual
+ass-bites	plural=true	strength=medium	type=sexist	original=sexual
+assbites	plural=true	strength=medium	type=sexist	original=sexual
+ass bite	strength=medium	type=sexist	original=sexual
+ass-bite	strength=medium	type=sexist	original=sexual
+assbite	strength=medium	type=sexist	original=sexual
 ass bl45ters	plural=true	type=homophobic	origin=farrell	community=men
 ass-bl45ters	plural=true	type=homophobic	origin=farrell	community=men
 assbl45ters	plural=true	type=homophobic	origin=farrell	community=men
@@ -1070,18 +1070,18 @@ assblasters	plural=true	type=homophobic	origin=farrell	community=men
 ass blaster	type=homophobic	origin=farrell	community=men
 ass-blaster	type=homophobic	origin=farrell	community=men
 assblaster	type=homophobic	origin=farrell	community=men
-ass b!tes	plural=true	strength=medium	type=sexual
-ass-b!tes	plural=true	strength=medium	type=sexual
-assb!tes	plural=true	strength=medium	type=sexual
-ass b!te	strength=medium	type=sexual
-ass-b!te	strength=medium	type=sexual
-assb!te	strength=medium	type=sexual
-ass c0cks	plural=true	strength=strong	type=sexual
-ass-c0cks	plural=true	strength=strong	type=sexual
-assc0cks	plural=true	strength=strong	type=sexual
-ass c0ck	strength=strong	type=sexual
-ass-c0ck	strength=strong	type=sexual
-assc0ck	strength=strong	type=sexual
+ass b!tes	plural=true	strength=medium	type=sexist	original=sexual
+ass-b!tes	plural=true	strength=medium	type=sexist	original=sexual
+assb!tes	plural=true	strength=medium	type=sexist	original=sexual
+ass b!te	strength=medium	type=sexist	original=sexual
+ass-b!te	strength=medium	type=sexist	original=sexual
+assb!te	strength=medium	type=sexist	original=sexual
+ass c0cks	plural=true	strength=strong	type=sexist	original=sexual
+ass-c0cks	plural=true	strength=strong	type=sexist	original=sexual
+assc0cks	plural=true	strength=strong	type=sexist	original=sexual
+ass c0ck	strength=strong	type=sexist	original=sexual
+ass-c0ck	strength=strong	type=sexist	original=sexual
+assc0ck	strength=strong	type=sexist	original=sexual
 ass c0wb0ys	plural=true	type=homophobic	origin=farrell	community=men
 ass-c0wb0ys	plural=true	type=homophobic	origin=farrell	community=men
 assc0wb0ys	plural=true	type=homophobic	origin=farrell	community=men
@@ -1094,24 +1094,24 @@ assc0wboys	plural=true	type=homophobic	origin=farrell	community=men
 ass c0wboy	type=homophobic	origin=farrell	community=men
 ass-c0wboy	type=homophobic	origin=farrell	community=men
 assc0wboy	type=homophobic	origin=farrell	community=men
-ass cl0wns	plural=true	strength=mild	type=sexual
-ass-cl0wns	plural=true	strength=mild	type=sexual
-asscl0wns	plural=true	strength=mild	type=sexual
-ass cl0wn	strength=mild	type=sexual
-ass-cl0wn	strength=mild	type=sexual
-asscl0wn	strength=mild	type=sexual
-ass clowns	plural=true	strength=mild	type=sexual
-ass-clowns	plural=true	strength=mild	type=sexual
-assclowns	plural=true	strength=mild	type=sexual
-ass clown	strength=mild	type=sexual
-ass-clown	strength=mild	type=sexual
-assclown	strength=mild	type=sexual
-ass cocks	plural=true	strength=strong	type=sexual
-ass-cocks	plural=true	strength=strong	type=sexual
-asscocks	plural=true	strength=strong	type=sexual
-ass cock	strength=strong	type=sexual
-ass-cock	strength=strong	type=sexual
-asscock	strength=strong	type=sexual
+ass cl0wns	plural=true	strength=mild	type=sexist	original=sexual
+ass-cl0wns	plural=true	strength=mild	type=sexist	original=sexual
+asscl0wns	plural=true	strength=mild	type=sexist	original=sexual
+ass cl0wn	strength=mild	type=sexist	original=sexual
+ass-cl0wn	strength=mild	type=sexist	original=sexual
+asscl0wn	strength=mild	type=sexist	original=sexual
+ass clowns	plural=true	strength=mild	type=sexist	original=sexual
+ass-clowns	plural=true	strength=mild	type=sexist	original=sexual
+assclowns	plural=true	strength=mild	type=sexist	original=sexual
+ass clown	strength=mild	type=sexist	original=sexual
+ass-clown	strength=mild	type=sexist	original=sexual
+assclown	strength=mild	type=sexist	original=sexual
+ass cocks	plural=true	strength=strong	type=sexist	original=sexual
+ass-cocks	plural=true	strength=strong	type=sexist	original=sexual
+asscocks	plural=true	strength=strong	type=sexist	original=sexual
+ass cock	strength=strong	type=sexist	original=sexual
+ass-cock	strength=strong	type=sexist	original=sexual
+asscock	strength=strong	type=sexist	original=sexual
 ass cowb0ys	plural=true	type=homophobic	origin=farrell	community=men
 ass-cowb0ys	plural=true	type=homophobic	origin=farrell	community=men
 asscowb0ys	plural=true	type=homophobic	origin=farrell	community=men
@@ -1148,54 +1148,54 @@ asscrackers	plural=true	type=homophobic	community=men
 ass cracker	type=homophobic	community=men
 ass-cracker	type=homophobic	community=men
 asscracker	type=homophobic	community=men
-ass f4ces	plural=true	strength=medium	type=sexual
-ass-f4ces	plural=true	strength=medium	type=sexual
-assf4ces	plural=true	strength=medium	type=sexual
-ass f4ce	strength=medium	type=sexual
-ass-f4ce	strength=medium	type=sexual
-assf4ce	strength=medium	type=sexual
-ass faces	plural=true	strength=medium	type=sexual
-ass-faces	plural=true	strength=medium	type=sexual
-assfaces	plural=true	strength=medium	type=sexual
-ass face	strength=medium	type=sexual
-ass-face	strength=medium	type=sexual
-assface	strength=medium	type=sexual
-ass f@cks	plural=true	strength=strongest	type=sexual
-ass f*cks	plural=true	strength=strongest	type=sexual
-ass f#cks	plural=true	strength=strongest	type=sexual
-ass-f@cks	plural=true	strength=strongest	type=sexual
-ass-f*cks	plural=true	strength=strongest	type=sexual
-ass-f#cks	plural=true	strength=strongest	type=sexual
-assf@cks	plural=true	strength=strongest	type=sexual
-assf*cks	plural=true	strength=strongest	type=sexual
-assf#cks	plural=true	strength=strongest	type=sexual
-ass f@ck	strength=strongest	type=sexual
-ass f*ck	strength=strongest	type=sexual
-ass f#ck	strength=strongest	type=sexual
-ass-f@ck	strength=strongest	type=sexual
-ass-f*ck	strength=strongest	type=sexual
-ass-f#ck	strength=strongest	type=sexual
-assf@ck	strength=strongest	type=sexual
-assf*ck	strength=strongest	type=sexual
-assf#ck	strength=strongest	type=sexual
-ass f@*ks	plural=true	strength=strongest	type=sexual
-ass f**ks	plural=true	strength=strongest	type=sexual
-ass f#*ks	plural=true	strength=strongest	type=sexual
-ass-f@*ks	plural=true	strength=strongest	type=sexual
-ass-f**ks	plural=true	strength=strongest	type=sexual
-ass-f#*ks	plural=true	strength=strongest	type=sexual
-assf@*ks	plural=true	strength=strongest	type=sexual
-assf**ks	plural=true	strength=strongest	type=sexual
-assf#*ks	plural=true	strength=strongest	type=sexual
-ass f@*k	strength=strongest	type=sexual
-ass f**k	strength=strongest	type=sexual
-ass f#*k	strength=strongest	type=sexual
-ass-f@*k	strength=strongest	type=sexual
-ass-f**k	strength=strongest	type=sexual
-ass-f#*k	strength=strongest	type=sexual
-assf@*k	strength=strongest	type=sexual
-assf**k	strength=strongest	type=sexual
-assf#*k	strength=strongest	type=sexual
+ass f4ces	plural=true	strength=medium	type=sexist	original=sexual
+ass-f4ces	plural=true	strength=medium	type=sexist	original=sexual
+assf4ces	plural=true	strength=medium	type=sexist	original=sexual
+ass f4ce	strength=medium	type=sexist	original=sexual
+ass-f4ce	strength=medium	type=sexist	original=sexual
+assf4ce	strength=medium	type=sexist	original=sexual
+ass faces	plural=true	strength=medium	type=sexist	original=sexual
+ass-faces	plural=true	strength=medium	type=sexist	original=sexual
+assfaces	plural=true	strength=medium	type=sexist	original=sexual
+ass face	strength=medium	type=sexist	original=sexual
+ass-face	strength=medium	type=sexist	original=sexual
+assface	strength=medium	type=sexist	original=sexual
+ass f@cks	plural=true	strength=strongest	type=sexist	original=sexual
+ass f*cks	plural=true	strength=strongest	type=sexist	original=sexual
+ass f#cks	plural=true	strength=strongest	type=sexist	original=sexual
+ass-f@cks	plural=true	strength=strongest	type=sexist	original=sexual
+ass-f*cks	plural=true	strength=strongest	type=sexist	original=sexual
+ass-f#cks	plural=true	strength=strongest	type=sexist	original=sexual
+assf@cks	plural=true	strength=strongest	type=sexist	original=sexual
+assf*cks	plural=true	strength=strongest	type=sexist	original=sexual
+assf#cks	plural=true	strength=strongest	type=sexist	original=sexual
+ass f@ck	strength=strongest	type=sexist	original=sexual
+ass f*ck	strength=strongest	type=sexist	original=sexual
+ass f#ck	strength=strongest	type=sexist	original=sexual
+ass-f@ck	strength=strongest	type=sexist	original=sexual
+ass-f*ck	strength=strongest	type=sexist	original=sexual
+ass-f#ck	strength=strongest	type=sexist	original=sexual
+assf@ck	strength=strongest	type=sexist	original=sexual
+assf*ck	strength=strongest	type=sexist	original=sexual
+assf#ck	strength=strongest	type=sexist	original=sexual
+ass f@*ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass f**ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass f#*ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass-f@*ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass-f**ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass-f#*ks	plural=true	strength=strongest	type=sexist	original=sexual
+assf@*ks	plural=true	strength=strongest	type=sexist	original=sexual
+assf**ks	plural=true	strength=strongest	type=sexist	original=sexual
+assf#*ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass f@*k	strength=strongest	type=sexist	original=sexual
+ass f**k	strength=strongest	type=sexist	original=sexual
+ass f#*k	strength=strongest	type=sexist	original=sexual
+ass-f@*k	strength=strongest	type=sexist	original=sexual
+ass-f**k	strength=strongest	type=sexist	original=sexual
+ass-f#*k	strength=strongest	type=sexist	original=sexual
+assf@*k	strength=strongest	type=sexist	original=sexual
+assf**k	strength=strongest	type=sexist	original=sexual
+assf#*k	strength=strongest	type=sexist	original=sexual
 ass fuck3rs	plural=true	type=homophobic	community=men
 ass-fuck3rs	plural=true	type=homophobic	community=men
 assfuck3rs	plural=true	type=homophobic	community=men
@@ -1208,22 +1208,22 @@ assfuckers	plural=true	type=homophobic	community=men
 ass fucker	type=homophobic	community=men
 ass-fucker	type=homophobic	community=men
 assfucker	type=homophobic	community=men
-ass f u c ks	plural=true	strength=strongest	type=sexual
-ass fucks	plural=true	strength=strongest	type=sexual
-ass-f-u-c-ks	plural=true	strength=strongest	type=sexual
-ass-fucks	plural=true	strength=strongest	type=sexual
-assfucks	plural=true	strength=strongest	type=sexual
-ass f u c k	strength=strongest	type=sexual
-ass fuck	strength=strongest	type=sexual
-ass-f-u-c-k	strength=strongest	type=sexual
-ass-fuck	strength=strongest	type=sexual
-assfuck	strength=strongest	type=sexual
-ass fu*ks	plural=true	strength=strongest	type=sexual
-ass-fu*ks	plural=true	strength=strongest	type=sexual
-assfu*ks	plural=true	strength=strongest	type=sexual
-ass fu*k	strength=strongest	type=sexual
-ass-fu*k	strength=strongest	type=sexual
-assfu*k	strength=strongest	type=sexual
+ass f u c ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass fucks	plural=true	strength=strongest	type=sexist	original=sexual
+ass-f-u-c-ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass-fucks	plural=true	strength=strongest	type=sexist	original=sexual
+assfucks	plural=true	strength=strongest	type=sexist	original=sexual
+ass f u c k	strength=strongest	type=sexist	original=sexual
+ass fuck	strength=strongest	type=sexist	original=sexual
+ass-f-u-c-k	strength=strongest	type=sexist	original=sexual
+ass-fuck	strength=strongest	type=sexist	original=sexual
+assfuck	strength=strongest	type=sexist	original=sexual
+ass fu*ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass-fu*ks	plural=true	strength=strongest	type=sexist	original=sexual
+assfu*ks	plural=true	strength=strongest	type=sexist	original=sexual
+ass fu*k	strength=strongest	type=sexist	original=sexual
+ass-fu*k	strength=strongest	type=sexist	original=sexual
+assfu*k	strength=strongest	type=sexist	original=sexual
 ass g0bl1ns	plural=true	type=homophobic	community=men
 ass-g0bl1ns	plural=true	type=homophobic	community=men
 assg0bl1ns	plural=true	type=homophobic	community=men
@@ -1260,12 +1260,12 @@ assgobl!ns	plural=true	type=homophobic	community=men
 ass gobl!n	type=homophobic	community=men
 ass-gobl!n	type=homophobic	community=men
 assgobl!n	type=homophobic	community=men
-ass h0les	plural=true	strength=medium	type=sexual
-ass-h0les	plural=true	strength=medium	type=sexual
-assh0les	plural=true	strength=medium	type=sexual
-ass h0le	strength=medium	type=sexual
-ass-h0le	strength=medium	type=sexual
-assh0le	strength=medium	type=sexual
+ass h0les	plural=true	strength=medium	type=sexist	original=sexual
+ass-h0les	plural=true	strength=medium	type=sexist	original=sexual
+assh0les	plural=true	strength=medium	type=sexist	original=sexual
+ass h0le	strength=medium	type=sexist	original=sexual
+ass-h0le	strength=medium	type=sexist	original=sexual
+assh0le	strength=medium	type=sexist	original=sexual
 ass h0pp3rs	plural=true	type=homophobic	community=men
 ass-h0pp3rs	plural=true	type=homophobic	community=men
 assh0pp3rs	plural=true	type=homophobic	community=men
@@ -1281,39 +1281,39 @@ assh0pper	type=homophobic	community=men
 ass h3ads	plural=true	strength=medium
 ass-h3ads	plural=true	strength=medium
 assh3ads	plural=true	strength=medium
-ass h3ad	strength=medium	type=sexual
-ass-h3ad	strength=medium	type=sexual
-assh3ad	strength=medium	type=sexual
-ass h4ts	plural=true	strength=medium	type=sexual
-ass-h4ts	plural=true	strength=medium	type=sexual
-assh4ts	plural=true	strength=medium	type=sexual
-ass h4t	strength=medium	type=sexual
-ass-h4t	strength=medium	type=sexual
-assh4t	strength=medium	type=sexual
-ass hats	plural=true	strength=medium	type=sexual
-ass-hats	plural=true	strength=medium	type=sexual
-asshats	plural=true	strength=medium	type=sexual
-ass hat	strength=medium	type=sexual
-ass-hat	strength=medium	type=sexual
-asshat	strength=medium	type=sexual
-ass he4ds	plural=true	strength=medium	type=sexual
-ass-he4ds	plural=true	strength=medium	type=sexual
-asshe4ds	plural=true	strength=medium	type=sexual
-ass he4d	strength=medium	type=sexual
-ass-he4d	strength=medium	type=sexual
-asshe4d	strength=medium	type=sexual
-ass heads	plural=true	strength=medium	type=sexual
-ass-heads	plural=true	strength=medium	type=sexual
-assheads	plural=true	strength=medium	type=sexual
-ass head	strength=medium	type=sexual
-ass-head	strength=medium	type=sexual
-asshead	strength=medium	type=sexual
-ass holes	plural=true	strength=medium	type=sexual
-ass-holes	plural=true	strength=medium	type=sexual
-assholes	plural=true	strength=medium	type=sexual
-ass hole	strength=medium	type=sexual
-ass-hole	strength=medium	type=sexual
-asshole	strength=medium	type=sexual
+ass h3ad	strength=medium	type=sexist	original=sexual
+ass-h3ad	strength=medium	type=sexist	original=sexual
+assh3ad	strength=medium	type=sexist	original=sexual
+ass h4ts	plural=true	strength=medium	type=sexist	original=sexual
+ass-h4ts	plural=true	strength=medium	type=sexist	original=sexual
+assh4ts	plural=true	strength=medium	type=sexist	original=sexual
+ass h4t	strength=medium	type=sexist	original=sexual
+ass-h4t	strength=medium	type=sexist	original=sexual
+assh4t	strength=medium	type=sexist	original=sexual
+ass hats	plural=true	strength=medium	type=sexist	original=sexual
+ass-hats	plural=true	strength=medium	type=sexist	original=sexual
+asshats	plural=true	strength=medium	type=sexist	original=sexual
+ass hat	strength=medium	type=sexist	original=sexual
+ass-hat	strength=medium	type=sexist	original=sexual
+asshat	strength=medium	type=sexist	original=sexual
+ass he4ds	plural=true	strength=medium	type=sexist	original=sexual
+ass-he4ds	plural=true	strength=medium	type=sexist	original=sexual
+asshe4ds	plural=true	strength=medium	type=sexist	original=sexual
+ass he4d	strength=medium	type=sexist	original=sexual
+ass-he4d	strength=medium	type=sexist	original=sexual
+asshe4d	strength=medium	type=sexist	original=sexual
+ass heads	plural=true	strength=medium	type=sexist	original=sexual
+ass-heads	plural=true	strength=medium	type=sexist	original=sexual
+assheads	plural=true	strength=medium	type=sexist	original=sexual
+ass head	strength=medium	type=sexist	original=sexual
+ass-head	strength=medium	type=sexist	original=sexual
+asshead	strength=medium	type=sexist	original=sexual
+ass holes	plural=true	strength=medium	type=sexist	original=sexual
+ass-holes	plural=true	strength=medium	type=sexist	original=sexual
+assholes	plural=true	strength=medium	type=sexist	original=sexual
+ass hole	strength=medium	type=sexist	original=sexual
+ass-hole	strength=medium	type=sexist	original=sexual
+asshole	strength=medium	type=sexist	original=sexual
 ass hopp3rs	plural=true	type=homophobic	community=men
 ass-hopp3rs	plural=true	type=homophobic	community=men
 asshopp3rs	plural=true	type=homophobic	community=men
@@ -1386,60 +1386,60 @@ assklowns	plural=true	type=homophobic	origin=farrell	community=men
 ass klown	type=homophobic	origin=farrell	community=men
 ass-klown	type=homophobic	origin=farrell	community=men
 assklown	type=homophobic	origin=farrell	community=men
-ass l1ck3rs	plural=true	strength=medium	type=sexual
-ass-l1ck3rs	plural=true	strength=medium	type=sexual
-assl1ck3rs	plural=true	strength=medium	type=sexual
-ass l1ck3r	strength=medium	type=sexual
-ass-l1ck3r	strength=medium	type=sexual
-assl1ck3r	strength=medium	type=sexual
-ass l1ckers	plural=true	strength=medium	type=sexual
-ass-l1ckers	plural=true	strength=medium	type=sexual
-assl1ckers	plural=true	strength=medium	type=sexual
-ass l1cker	strength=medium	type=sexual
-ass-l1cker	strength=medium	type=sexual
-assl1cker	strength=medium	type=sexual
-ass l1cks	plural=true	strength=medium	type=sexual
-ass-l1cks	plural=true	strength=medium	type=sexual
-assl1cks	plural=true	strength=medium	type=sexual
-ass l1ck	strength=medium	type=sexual
-ass-l1ck	strength=medium	type=sexual
-assl1ck	strength=medium	type=sexual
+ass l1ck3rs	plural=true	strength=medium	type=sexist	original=sexual
+ass-l1ck3rs	plural=true	strength=medium	type=sexist	original=sexual
+assl1ck3rs	plural=true	strength=medium	type=sexist	original=sexual
+ass l1ck3r	strength=medium	type=sexist	original=sexual
+ass-l1ck3r	strength=medium	type=sexist	original=sexual
+assl1ck3r	strength=medium	type=sexist	original=sexual
+ass l1ckers	plural=true	strength=medium	type=sexist	original=sexual
+ass-l1ckers	plural=true	strength=medium	type=sexist	original=sexual
+assl1ckers	plural=true	strength=medium	type=sexist	original=sexual
+ass l1cker	strength=medium	type=sexist	original=sexual
+ass-l1cker	strength=medium	type=sexist	original=sexual
+assl1cker	strength=medium	type=sexist	original=sexual
+ass l1cks	plural=true	strength=medium	type=sexist	original=sexual
+ass-l1cks	plural=true	strength=medium	type=sexist	original=sexual
+assl1cks	plural=true	strength=medium	type=sexist	original=sexual
+ass l1ck	strength=medium	type=sexist	original=sexual
+ass-l1ck	strength=medium	type=sexist	original=sexual
+assl1ck	strength=medium	type=sexist	original=sexual
 ass l!ck3rs	plural=true	strength=medium
 ass-l!ck3rs	plural=true	strength=medium
 assl!ck3rs	plural=true	strength=medium
-ass l!ck3r	strength=medium	type=sexual
-ass-l!ck3r	strength=medium	type=sexual
-assl!ck3r	strength=medium	type=sexual
-ass l!ckers	plural=true	strength=medium	type=sexual
-ass-l!ckers	plural=true	strength=medium	type=sexual
-assl!ckers	plural=true	strength=medium	type=sexual
-ass l!cker	strength=medium	type=sexual
-ass-l!cker	strength=medium	type=sexual
-assl!cker	strength=medium	type=sexual
-ass l!cks	plural=true	strength=medium	type=sexual
-ass-l!cks	plural=true	strength=medium	type=sexual
-assl!cks	plural=true	strength=medium	type=sexual
-ass l!ck	strength=medium	type=sexual
-ass-l!ck	strength=medium	type=sexual
-assl!ck	strength=medium	type=sexual
-ass lick3rs	plural=true	strength=medium	type=sexual
-ass-lick3rs	plural=true	strength=medium	type=sexual
-asslick3rs	plural=true	strength=medium	type=sexual
-ass lick3r	strength=medium	type=sexual
-ass-lick3r	strength=medium	type=sexual
-asslick3r	strength=medium	type=sexual
-ass lickers	plural=true	strength=medium	type=sexual
-ass-lickers	plural=true	strength=medium	type=sexual
-asslickers	plural=true	strength=medium	type=sexual
-ass licker	strength=medium	type=sexual
-ass-licker	strength=medium	type=sexual
-asslicker	strength=medium	type=sexual
-ass licks	plural=true	strength=medium	type=sexual
-ass-licks	plural=true	strength=medium	type=sexual
-asslicks	plural=true	strength=medium	type=sexual
-ass lick	strength=medium	type=sexual
-ass-lick	strength=medium	type=sexual
-asslick	strength=medium	type=sexual
+ass l!ck3r	strength=medium	type=sexist	original=sexual
+ass-l!ck3r	strength=medium	type=sexist	original=sexual
+assl!ck3r	strength=medium	type=sexist	original=sexual
+ass l!ckers	plural=true	strength=medium	type=sexist	original=sexual
+ass-l!ckers	plural=true	strength=medium	type=sexist	original=sexual
+assl!ckers	plural=true	strength=medium	type=sexist	original=sexual
+ass l!cker	strength=medium	type=sexist	original=sexual
+ass-l!cker	strength=medium	type=sexist	original=sexual
+assl!cker	strength=medium	type=sexist	original=sexual
+ass l!cks	plural=true	strength=medium	type=sexist	original=sexual
+ass-l!cks	plural=true	strength=medium	type=sexist	original=sexual
+assl!cks	plural=true	strength=medium	type=sexist	original=sexual
+ass l!ck	strength=medium	type=sexist	original=sexual
+ass-l!ck	strength=medium	type=sexist	original=sexual
+assl!ck	strength=medium	type=sexist	original=sexual
+ass lick3rs	plural=true	strength=medium	type=sexist	original=sexual
+ass-lick3rs	plural=true	strength=medium	type=sexist	original=sexual
+asslick3rs	plural=true	strength=medium	type=sexist	original=sexual
+ass lick3r	strength=medium	type=sexist	original=sexual
+ass-lick3r	strength=medium	type=sexist	original=sexual
+asslick3r	strength=medium	type=sexist	original=sexual
+ass lickers	plural=true	strength=medium	type=sexist	original=sexual
+ass-lickers	plural=true	strength=medium	type=sexist	original=sexual
+asslickers	plural=true	strength=medium	type=sexist	original=sexual
+ass licker	strength=medium	type=sexist	original=sexual
+ass-licker	strength=medium	type=sexist	original=sexual
+asslicker	strength=medium	type=sexist	original=sexual
+ass licks	plural=true	strength=medium	type=sexist	original=sexual
+ass-licks	plural=true	strength=medium	type=sexist	original=sexual
+asslicks	plural=true	strength=medium	type=sexist	original=sexual
+ass lick	strength=medium	type=sexist	original=sexual
+ass-lick	strength=medium	type=sexist	original=sexual
+asslick	strength=medium	type=sexist	original=sexual
 ass m0nk3ys	plural=true	type=homophobic	community=men
 ass-m0nk3ys	plural=true	type=homophobic	community=men
 assm0nk3ys	plural=true	type=homophobic	community=men
@@ -2504,24 +2504,24 @@ asssuckers	plural=true	type=homophobic	community=men
 ass sucker	type=homophobic	community=men
 ass-sucker	type=homophobic	community=men
 asssucker	type=homophobic	community=men
-ass w1pe	type=sexual
-ass-w1pe	type=sexual
-assw1pe	type=sexual
-ass w1pes	plural=true	type=sexual
-ass-w1pes	plural=true	type=sexual
-assw1pes	plural=true	type=sexual
-ass w4d	type=sexual
-ass-w4d	type=sexual
-assw4d	type=sexual
-ass w4ds	plural=true	type=sexual
-ass-w4ds	plural=true	type=sexual
-assw4ds	plural=true	type=sexual
+ass w1pe	type=sexist	original=sexual
+ass-w1pe	type=sexist	original=sexual
+assw1pe	type=sexist	original=sexual
+ass w1pes	plural=true	type=sexist	original=sexual
+ass-w1pes	plural=true	type=sexist	original=sexual
+assw1pes	plural=true	type=sexist	original=sexual
+ass w4d	type=sexist	original=sexual
+ass-w4d	type=sexist	original=sexual
+assw4d	type=sexist	original=sexual
+ass w4ds	plural=true	type=sexist	original=sexual
+ass-w4ds	plural=true	type=sexist	original=sexual
+assw4ds	plural=true	type=sexist	original=sexual
 ass wad	type=racist
 ass-wad	type=racist
 asswad	type=racist
-ass wads	plural=true	type=sexual
-ass-wads	plural=true	type=sexual
-asswads	plural=true	type=sexual
+ass wads	plural=true	type=sexist	original=sexual
+ass-wads	plural=true	type=sexist	original=sexual
+asswads	plural=true	type=sexist	original=sexual
 ass wh0res	plural=true	type=homophobic	origin=farrell	community=men
 ass-wh0res	plural=true	type=homophobic	origin=farrell	community=men
 asswh0res	plural=true	type=homophobic	origin=farrell	community=men
@@ -2534,40 +2534,40 @@ asswhores	plural=true	type=homophobic	origin=farrell	community=men
 ass whore	type=homophobic	origin=farrell	community=men
 ass-whore	type=homophobic	origin=farrell	community=men
 asswhore	type=homophobic	origin=farrell	community=men
-ass wipe	type=sexual
-ass-wipe	type=sexual
-asswipe	type=sexual
-ass wipes	plural=true	type=sexual
-ass-wipes	plural=true	type=sexual
-asswipes	plural=true	type=sexual
-ass w!pe	type=sexual
-ass-w!pe	type=sexual
-assw!pe	type=sexual
-ass w!pes	plural=true	type=sexual
-ass-w!pes	plural=true	type=sexual
-assw!pes	plural=true	type=sexual
+ass wipe	type=sexist	original=sexual
+ass-wipe	type=sexist	original=sexual
+asswipe	type=sexist	original=sexual
+ass wipes	plural=true	type=sexist	original=sexual
+ass-wipes	plural=true	type=sexist	original=sexual
+asswipes	plural=true	type=sexist	original=sexual
+ass w!pe	type=sexist	original=sexual
+ass-w!pe	type=sexist	original=sexual
+assw!pe	type=sexist	original=sexual
+ass w!pes	plural=true	type=sexist	original=sexual
+ass-w!pes	plural=true	type=sexist	original=sexual
+assw!pes	plural=true	type=sexist	original=sexual
 aw4lt	origin=farrell	type=sexist
 aw4lts	plural=true	origin=farrell	type=sexist
 awalt	origin=farrell	type=sexist
 awalts	plural=true	origin=farrell	type=sexist
-axe w0und	community=women	type=sexual
-axe-w0und	community=women	type=sexual
-axew0und	community=women	type=sexual
-axe w0unds	plural=true	community=women	type=sexual
-axe-w0unds	plural=true	community=women	type=sexual
-axew0unds	plural=true	community=women	type=sexual
-axe wound	community=women	type=sexual
-axe-wound	community=women	type=sexual
-axewound	community=women	type=sexual
-axe wounds	plural=true	community=women	type=sexual
-axe-wounds	plural=true	community=women	type=sexual
-axewounds	plural=true	community=women	type=sexual
-b07tom feeder	origin=farrell	type=sexual
-b07tom-feeder	origin=farrell	type=sexual
-b07tomfeeder	origin=farrell	type=sexual
-b07tom feeders	plural=true	origin=farrell	type=sexual
-b07tom-feeders	plural=true	origin=farrell	type=sexual
-b07tomfeeders	plural=true	origin=farrell	type=sexual
+axe w0und	community=women	type=sexist	original=sexual
+axe-w0und	community=women	type=sexist	original=sexual
+axew0und	community=women	type=sexist	original=sexual
+axe w0unds	plural=true	community=women	type=sexist	original=sexual
+axe-w0unds	plural=true	community=women	type=sexist	original=sexual
+axew0unds	plural=true	community=women	type=sexist	original=sexual
+axe wound	community=women	type=sexist	original=sexual
+axe-wound	community=women	type=sexist	original=sexual
+axewound	community=women	type=sexist	original=sexual
+axe wounds	plural=true	community=women	type=sexist	original=sexual
+axe-wounds	plural=true	community=women	type=sexist	original=sexual
+axewounds	plural=true	community=women	type=sexist	original=sexual
+b07tom feeder	origin=farrell	type=sexist	original=sexual
+b07tom-feeder	origin=farrell	type=sexist	original=sexual
+b07tomfeeder	origin=farrell	type=sexist	original=sexual
+b07tom feeders	plural=true	origin=farrell	type=sexist	original=sexual
+b07tom-feeders	plural=true	origin=farrell	type=sexist	original=sexual
+b07tomfeeders	plural=true	origin=farrell	type=sexist	original=sexual
 b0ang	origin=farrell	type=general
 b0angs	plural=true	origin=farrell	type=general
 b0gan	origin=farrell	type=general
@@ -3188,18 +3188,18 @@ b1atchs	plural=true	type=sexist	community=women
 b1atch	type=sexist	community=women
 b1+cher	origin=farrell	community=women	type=sexist
 b1+chers	plural=true	origin=farrell	type=sexist	community=women
-b1g asses	plural=true	origin=farrell	type=sexual
-b1g-asses	plural=true	origin=farrell	type=sexual
-b1gasses	plural=true	origin=farrell	type=sexual
-b1g ass	origin=farrell	type=sexual
-b1g-ass	origin=farrell	type=sexual
-b1gass	origin=farrell	type=sexual
-b1g butt	origin=farrell	type=sexual
-b1g-butt	origin=farrell	type=sexual
-b1gbutt	origin=farrell	type=sexual
-b1g butts	plural=true	origin=farrell	type=sexual
-b1g-butts	plural=true	origin=farrell	type=sexual
-b1gbutts	plural=true	origin=farrell	type=sexual
+b1g asses	plural=true	origin=farrell	type=sexist	original=sexual
+b1g-asses	plural=true	origin=farrell	type=sexist	original=sexual
+b1gasses	plural=true	origin=farrell	type=sexist	original=sexual
+b1g ass	origin=farrell	type=sexist	original=sexual
+b1g-ass	origin=farrell	type=sexist	original=sexual
+b1gass	origin=farrell	type=sexist	original=sexual
+b1g butt	origin=farrell	type=sexist	original=sexual
+b1g-butt	origin=farrell	type=sexist	original=sexual
+b1gbutt	origin=farrell	type=sexist	original=sexual
+b1g butts	plural=true	origin=farrell	type=sexist	original=sexual
+b1g-butts	plural=true	origin=farrell	type=sexist	original=sexual
+b1gbutts	plural=true	origin=farrell	type=sexist	original=sexual
 b1nts	plural=true	type=sexist	community=women
 b1nt	type=sexist	community=women
 b1tch3r	origin=farrell	type=sexist	community=women
@@ -3512,12 +3512,12 @@ b3aner-shnitzel	type=racist	origin=farrell
 b3anershnitzel	type=racist	origin=farrell
 b3aners	plural=true	type=racist
 b3aner	type=racist
-b3ll ends	plural=true	strength=strong	type=sexual	anatomy=male
-b3ll-ends	plural=true	strength=strong	type=sexual	anatomy=male
-b3llends	plural=true	strength=strong	type=sexual	anatomy=male
-b3ll end	strength=strong	type=sexual	anatomy=male
-b3ll-end	strength=strong	type=sexual	anatomy=male
-b3llend	strength=strong	type=sexual	anatomy=male
+b3ll ends	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+b3ll-ends	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+b3llends	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+b3ll end	strength=strong	type=sexist	original=sexual	anatomy=male
+b3ll-end	strength=strong	type=sexist	original=sexual	anatomy=male
+b3llend	strength=strong	type=sexist	original=sexual	anatomy=male
 b3rk	type=general
 b3rks	plural=true	type=general
 b45tards	plural=true	strength=strong	type=general
@@ -3530,70 +3530,70 @@ b4ckdoormans	plural=true	type=homophobic	origin=farrell	community=men
 b4ck door man	type=homophobic	origin=farrell	community=men
 b4ck-door-man	type=homophobic	origin=farrell	community=men
 b4ckdoorman	type=homophobic	origin=farrell	community=men
-b4d f@ck	origin=farrell	type=sexual
-b4d f*ck	origin=farrell	type=sexual
-b4d f#ck	origin=farrell	type=sexual
-b4d-f@ck	origin=farrell	type=sexual
-b4d-f*ck	origin=farrell	type=sexual
-b4d-f#ck	origin=farrell	type=sexual
-b4df@ck	origin=farrell	type=sexual
-b4df*ck	origin=farrell	type=sexual
-b4df#ck	origin=farrell	type=sexual
-b4d f@cks	plural=true	origin=farrell	type=sexual
-b4d f*cks	plural=true	origin=farrell	type=sexual
-b4d f#cks	plural=true	origin=farrell	type=sexual
-b4d-f@cks	plural=true	origin=farrell	type=sexual
-b4d-f*cks	plural=true	origin=farrell	type=sexual
-b4d-f#cks	plural=true	origin=farrell	type=sexual
-b4df@cks	plural=true	origin=farrell	type=sexual
-b4df*cks	plural=true	origin=farrell	type=sexual
-b4df#cks	plural=true	origin=farrell	type=sexual
-b4d f@*k	origin=farrell	type=sexual
-b4d f**k	origin=farrell	type=sexual
-b4d f#*k	origin=farrell	type=sexual
-b4d-f@*k	origin=farrell	type=sexual
-b4d-f**k	origin=farrell	type=sexual
-b4d-f#*k	origin=farrell	type=sexual
-b4df@*k	origin=farrell	type=sexual
-b4df**k	origin=farrell	type=sexual
-b4df#*k	origin=farrell	type=sexual
-b4d f@*ks	plural=true	origin=farrell	type=sexual
-b4d f**ks	plural=true	origin=farrell	type=sexual
-b4d f#*ks	plural=true	origin=farrell	type=sexual
-b4d-f@*ks	plural=true	origin=farrell	type=sexual
-b4d-f**ks	plural=true	origin=farrell	type=sexual
-b4d-f#*ks	plural=true	origin=farrell	type=sexual
-b4df@*ks	plural=true	origin=farrell	type=sexual
-b4df**ks	plural=true	origin=farrell	type=sexual
-b4df#*ks	plural=true	origin=farrell	type=sexual
-b4d f u c k	origin=farrell	type=sexual
-b4d fuck	origin=farrell	type=sexual
-b4d-f-u-c-k	origin=farrell	type=sexual
-b4d-fuck	origin=farrell	type=sexual
-b4dfuck	origin=farrell	type=sexual
-b4d f u c ks	plural=true	origin=farrell	type=sexual
-b4d fucks	plural=true	origin=farrell	type=sexual
-b4d-f-u-c-ks	plural=true	origin=farrell	type=sexual
-b4d-fucks	plural=true	origin=farrell	type=sexual
-b4dfucks	plural=true	origin=farrell	type=sexual
-b4d fu*k	origin=farrell	type=sexual
-b4d-fu*k	origin=farrell	type=sexual
-b4dfu*k	origin=farrell	type=sexual
-b4d fu*ks	plural=true	origin=farrell	type=sexual
-b4d-fu*ks	plural=true	origin=farrell	type=sexual
-b4dfu*ks	plural=true	origin=farrell	type=sexual
+b4d f@ck	origin=farrell	type=sexist	original=sexual
+b4d f*ck	origin=farrell	type=sexist	original=sexual
+b4d f#ck	origin=farrell	type=sexist	original=sexual
+b4d-f@ck	origin=farrell	type=sexist	original=sexual
+b4d-f*ck	origin=farrell	type=sexist	original=sexual
+b4d-f#ck	origin=farrell	type=sexist	original=sexual
+b4df@ck	origin=farrell	type=sexist	original=sexual
+b4df*ck	origin=farrell	type=sexist	original=sexual
+b4df#ck	origin=farrell	type=sexist	original=sexual
+b4d f@cks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d f*cks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d f#cks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d-f@cks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d-f*cks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d-f#cks	plural=true	origin=farrell	type=sexist	original=sexual
+b4df@cks	plural=true	origin=farrell	type=sexist	original=sexual
+b4df*cks	plural=true	origin=farrell	type=sexist	original=sexual
+b4df#cks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d f@*k	origin=farrell	type=sexist	original=sexual
+b4d f**k	origin=farrell	type=sexist	original=sexual
+b4d f#*k	origin=farrell	type=sexist	original=sexual
+b4d-f@*k	origin=farrell	type=sexist	original=sexual
+b4d-f**k	origin=farrell	type=sexist	original=sexual
+b4d-f#*k	origin=farrell	type=sexist	original=sexual
+b4df@*k	origin=farrell	type=sexist	original=sexual
+b4df**k	origin=farrell	type=sexist	original=sexual
+b4df#*k	origin=farrell	type=sexist	original=sexual
+b4d f@*ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d f**ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d f#*ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d-f@*ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d-f**ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d-f#*ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4df@*ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4df**ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4df#*ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d f u c k	origin=farrell	type=sexist	original=sexual
+b4d fuck	origin=farrell	type=sexist	original=sexual
+b4d-f-u-c-k	origin=farrell	type=sexist	original=sexual
+b4d-fuck	origin=farrell	type=sexist	original=sexual
+b4dfuck	origin=farrell	type=sexist	original=sexual
+b4d f u c ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d fucks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d-f-u-c-ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d-fucks	plural=true	origin=farrell	type=sexist	original=sexual
+b4dfucks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d fu*k	origin=farrell	type=sexist	original=sexual
+b4d-fu*k	origin=farrell	type=sexist	original=sexual
+b4dfu*k	origin=farrell	type=sexist	original=sexual
+b4d fu*ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4d-fu*ks	plural=true	origin=farrell	type=sexist	original=sexual
+b4dfu*ks	plural=true	origin=farrell	type=sexist	original=sexual
 b4ll lickers	plural=true	type=homophobic	origin=farrell	community=men
 b4ll-lickers	plural=true	type=homophobic	origin=farrell	community=men
 b4lllickers	plural=true	type=homophobic	origin=farrell	community=men
 b4ll licker	type=homophobic	origin=farrell	community=men
 b4ll-licker	type=homophobic	origin=farrell	community=men
 b4lllicker	type=homophobic	origin=farrell	community=men
-b4ll sack	type=sexual
-b4ll-sack	type=sexual
-b4llsack	type=sexual
-b4ll sacks	plural=true	type=sexual
-b4ll-sacks	plural=true	type=sexual
-b4llsacks	plural=true	type=sexual
+b4ll sack	type=sexist	original=sexual
+b4ll-sack	type=sexist	original=sexual
+b4llsack	type=sexist	original=sexual
+b4ll sacks	plural=true	type=sexist	original=sexual
+b4ll-sacks	plural=true	type=sexist	original=sexual
+b4llsacks	plural=true	type=sexist	original=sexual
 b4mb0o coons	plural=true	type=racist	origin=farrell
 b4mb0o-coons	plural=true	type=racist	origin=farrell
 b4mb0ocoons	plural=true	type=racist	origin=farrell
@@ -3732,7 +3732,7 @@ backdoormans	plural=true	type=homophobic	origin=farrell	community=men
 back door man	type=homophobic	origin=farrell	community=men
 back-door-man	type=homophobic	origin=farrell	community=men
 backdoorman	type=homophobic	origin=farrell	community=men
-bad f@ck	origin=farrell	type=sexual
+bad f@ck	origin=farrell	type=sexist	original=sexual
 bad f*ck	origin=farrell	type=general
 bad f#ck	origin=farrell	type=general
 bad-f@ck	origin=farrell	type=general
@@ -3820,18 +3820,18 @@ balllickers	plural=true	type=homophobic	origin=farrell	community=men
 ball licker	type=homophobic	origin=farrell	community=men
 ball-licker	type=homophobic	origin=farrell	community=men
 balllicker	type=homophobic	origin=farrell	community=men
-ball s4ck	type=sexual
-ball-s4ck	type=sexual
-balls4ck	type=sexual
-ball s4cks	plural=true	type=sexual
-ball-s4cks	plural=true	type=sexual
-balls4cks	plural=true	type=sexual
-ball sack	type=sexual
-ball-sack	type=sexual
-ballsack	type=sexual
-ball sacks	plural=true	type=sexual
-ball-sacks	plural=true	type=sexual
-ballsacks	plural=true	type=sexual
+ball s4ck	type=sexist	original=sexual
+ball-s4ck	type=sexist	original=sexual
+balls4ck	type=sexist	original=sexual
+ball s4cks	plural=true	type=sexist	original=sexual
+ball-s4cks	plural=true	type=sexist	original=sexual
+balls4cks	plural=true	type=sexist	original=sexual
+ball sack	type=sexist	original=sexual
+ball-sack	type=sexist	original=sexual
+ballsack	type=sexist	original=sexual
+ball sacks	plural=true	type=sexist	original=sexual
+ball-sacks	plural=true	type=sexist	original=sexual
+ballsacks	plural=true	type=sexist	original=sexual
 bamb0o coons	plural=true	type=racist	origin=farrell
 bamb0o-coons	plural=true	type=racist	origin=farrell
 bamb0ocoons	plural=true	type=racist	origin=farrell
@@ -5204,12 +5204,12 @@ beaner-shn!+zel	type=racist	origin=farrell
 beanershn!+zel	type=racist	origin=farrell
 beaners	plural=true	type=racist
 beaner	type=racist
-bell ends	plural=true	strength=strong	type=sexual	anatomy=male
-bell-ends	plural=true	strength=strong	type=sexual	anatomy=male
-bellends	plural=true	strength=strong	type=sexual	anatomy=male
-bell end	strength=strong	type=sexual	anatomy=male
-bell-end	strength=strong	type=sexual	anatomy=male
-bellend	strength=strong	type=sexual	anatomy=male
+bell ends	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+bell-ends	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+bellends	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+bell end	strength=strong	type=sexist	original=sexual	anatomy=male
+bell-end	strength=strong	type=sexist	original=sexual	anatomy=male
+bellend	strength=strong	type=sexist	original=sexual	anatomy=male
 berk	type=general
 berks	plural=true	type=general
 b!g asses	plural=true	origin=farrell
@@ -7807,12 +7807,12 @@ c0ckwaffles	plural=true	strength=strong
 c0ck waffle	strength=strong
 c0ck-waffle	strength=strong
 c0ckwaffle	strength=strong
-c0ckwomble	type=sexual	anatomy=male
-c0ck womble	type=sexual	anatomy=male
-c0ck-womble	type=sexual	anatomy=male
-c0ckwombles	type=sexual	anatomy=male
-c0ck wombles	type=sexual	anatomy=male	plural=true
-c0ck-wombles	type=sexual	anatomy=male	plural=true
+c0ckwomble	type=sexist	original=sexual	anatomy=male
+c0ck womble	type=sexist	original=sexual	anatomy=male
+c0ck-womble	type=sexist	original=sexual	anatomy=male
+c0ckwombles	type=sexist	original=sexual	anatomy=male
+c0ck wombles	type=sexist	original=sexual	anatomy=male	plural=true
+c0ck-wombles	type=sexist	original=sexual	anatomy=male	plural=true
 c0dg3r
 c0dg3rs	plural=true
 c0dger
@@ -11546,12 +11546,12 @@ c*ntslut	strength=strongest
 c#nt slut	strength=strongest
 c#nt-slut	strength=strongest
 c#ntslut	strength=strongest
-c@nts	plural=true	strength=strongest	type=sexual	anatomy=female
-c*nts	plural=true	strength=strongest	type=sexual	anatomy=female
-c#nts	plural=true	strength=strongest	type=sexual	anatomy=female
-c@nt	strength=strongest	type=sexual	anatomy=female
-c*nt	strength=strongest	type=sexual	anatomy=female
-c#nt	strength=strongest	type=sexual	anatomy=female
+c@nts	plural=true	strength=strongest	type=sexist	original=sexual	anatomy=female
+c*nts	plural=true	strength=strongest	type=sexist	original=sexual	anatomy=female
+c#nts	plural=true	strength=strongest	type=sexist	original=sexual	anatomy=female
+c@nt	strength=strongest	type=sexist	original=sexual	anatomy=female
+c*nt	strength=strongest	type=sexist	original=sexual	anatomy=female
+c#nt	strength=strongest	type=sexist	original=sexual	anatomy=female
 co07er
 co07ers	plural=true
 co0ch1e
@@ -12343,12 +12343,12 @@ cockwaffles	plural=true	strength=strong
 cock waffle	strength=strong
 cock-waffle	strength=strong
 cockwaffle	strength=strong
-cockwomble	type=sexual	anatomy=male
-cock womble	type=sexual	anatomy=male
-cock-womble	type=sexual	anatomy=male
-cockwombles	type=sexual	anatomy=male	plural=true
-cock wombles	type=sexual	anatomy=male	plural=true
-cock-wombles	type=sexual	anatomy=male	plural=true
+cockwomble	type=sexist	original=sexual	anatomy=male
+cock womble	type=sexist	original=sexual	anatomy=male
+cock-womble	type=sexist	original=sexual	anatomy=male
+cockwombles	type=sexist	original=sexual	anatomy=male	plural=true
+cock wombles	type=sexist	original=sexual	anatomy=male	plural=true
+cock-wombles	type=sexist	original=sexual	anatomy=male	plural=true
 codg3r
 codg3rs	plural=true
 codger
@@ -13156,12 +13156,12 @@ c**tslut	strength=strongest
 c#*t slut	strength=strongest
 c#*t-slut	strength=strongest
 c#*tslut	strength=strongest
-c@*ts	plural=true	strength=strongest	type=sexual	anatomy=female
-c**ts	plural=true	strength=strongest	type=sexual	anatomy=female
-c#*ts	plural=true	strength=strongest	type=sexual	anatomy=female
-c@*t	strength=strongest	type=sexual	anatomy=female
-c**t	strength=strongest	type=sexual	anatomy=female
-c#*t	strength=strongest	type=sexual	anatomy=female
+c@*ts	plural=true	strength=strongest	type=sexist	original=sexual	anatomy=female
+c**ts	plural=true	strength=strongest	type=sexist	original=sexual	anatomy=female
+c#*ts	plural=true	strength=strongest	type=sexist	original=sexual	anatomy=female
+c@*t	strength=strongest	type=sexist	original=sexual	anatomy=female
+c**t	strength=strongest	type=sexist	original=sexual	anatomy=female
+c#*t	strength=strongest	type=sexist	original=sexual	anatomy=female
 cu5h1tes	plural=true	type=racist	origin=farrell
 cu5h1te	type=racist	origin=farrell
 cu5hi7es	plural=true	type=racist	origin=farrell
@@ -13684,12 +13684,12 @@ c-u-n-t-slut	strength=strongest
 cunt slut	strength=strongest
 cunt-slut	strength=strongest
 cuntslut	strength=strongest
-c u n ts	plural=true	strength=strongest	type=sexual	anatomy=female
-c-u-n-ts	plural=true	strength=strongest	type=sexual	anatomy=female
-cunts	plural=true	strength=strongest	type=sexual	anatomy=female
-c u n t	strength=strongest	type=sexual	anatomy=female
-c-u-n-t	strength=strongest	type=sexual	anatomy=female
-cunt	strength=strongest	type=sexual	anatomy=female
+c u n ts	plural=true	strength=strongest	type=sexist	original=sexual	anatomy=female
+c-u-n-ts	plural=true	strength=strongest	type=sexist	original=sexual	anatomy=female
+cunts	plural=true	strength=strongest	type=sexist	original=sexual	anatomy=female
+c u n t	strength=strongest	type=sexist	original=sexual	anatomy=female
+c-u-n-t	strength=strongest	type=sexist	original=sexual	anatomy=female
+cunt	strength=strongest	type=sexist	original=sexual	anatomy=female
 curry s+1nkers	plural=true	type=racist	origin=farrell
 curry-s+1nkers	plural=true	type=racist	origin=farrell
 currys+1nkers	plural=true	type=racist	origin=farrell
@@ -14144,12 +14144,12 @@ d1ckfu*ks	plural=true	strength=strongest
 d1ck fu*k	strength=strongest
 d1ck-fu*k	strength=strongest
 d1ckfu*k	strength=strongest
-d1ck heads	plural=true	strength=strong	type=sexual	anatomy=male
-d1ck-heads	plural=true	strength=strong	type=sexual	anatomy=male
-d1ckheads	plural=true	strength=strong	type=sexual	anatomy=male
-d1ck head	strength=strong	type=sexual	anatomy=male
-d1ck-head	strength=strong	type=sexual	anatomy=male
-d1ckhead	strength=strong	type=sexual	anatomy=male
+d1ck heads	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+d1ck-heads	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+d1ckheads	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+d1ck head	strength=strong	type=sexist	original=sexual	anatomy=male
+d1ck-head	strength=strong	type=sexist	original=sexual	anatomy=male
+d1ckhead	strength=strong	type=sexist	original=sexual	anatomy=male
 d1ck holes	plural=true	strength=strong
 d1ck-holes	plural=true	strength=strong
 d1ckholes	plural=true	strength=strong
@@ -14234,8 +14234,8 @@ d1ckwods	plural=true	strength=strong	origin=farrell
 d1ck wod	strength=strong	origin=farrell
 d1ck-wod	strength=strong	origin=farrell
 d1ckwod	strength=strong	origin=farrell
-d1ldos	plural=true	strength=strong	type=sexual
-d1ldo	strength=strong	type=sexual
+d1ldos	plural=true	strength=strong	type=sexist	original=sexual
+d1ldo	strength=strong	type=sexist	original=sexual
 d1m wit	type=reputation
 d1m-wit	type=reputation
 d1mwit	type=reputation
@@ -14809,24 +14809,24 @@ dickh0les	plural=true	strength=strong
 dick h0le	strength=strong
 dick-h0le	strength=strong
 dickh0le	strength=strong
-dick h3ads	plural=true	strength=strong	type=sexual	anatomy=male
-dick-h3ads	plural=true	strength=strong	type=sexual	anatomy=male
-dickh3ads	plural=true	strength=strong	type=sexual	anatomy=male
-dick h3ad	strength=strong	type=sexual	anatomy=male
-dick-h3ad	strength=strong	type=sexual	anatomy=male
-dickh3ad	strength=strong	type=sexual	anatomy=male
-dick he4ds	plural=true	strength=strong	type=sexual	anatomy=male
-dick-he4ds	plural=true	strength=strong	type=sexual	anatomy=male
-dickhe4ds	plural=true	strength=strong	type=sexual	anatomy=male
-dick he4d	strength=strong	type=sexual	anatomy=male
-dick-he4d	strength=strong	type=sexual	anatomy=male
-dickhe4d	strength=strong	type=sexual	anatomy=male
-dick heads	plural=true	strength=strong	type=sexual	anatomy=male
-dick-heads	plural=true	strength=strong	type=sexual	anatomy=male
-dickheads	plural=true	strength=strong	type=sexual	anatomy=male
-dick head	strength=strong	type=sexual	anatomy=male
-dick-head	strength=strong	type=sexual	anatomy=male
-dickhead	strength=strong	type=sexual	anatomy=male
+dick h3ads	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+dick-h3ads	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+dickh3ads	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+dick h3ad	strength=strong	type=sexist	original=sexual	anatomy=male
+dick-h3ad	strength=strong	type=sexist	original=sexual	anatomy=male
+dickh3ad	strength=strong	type=sexist	original=sexual	anatomy=male
+dick he4ds	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+dick-he4ds	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+dickhe4ds	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+dick he4d	strength=strong	type=sexist	original=sexual	anatomy=male
+dick-he4d	strength=strong	type=sexist	original=sexual	anatomy=male
+dickhe4d	strength=strong	type=sexist	original=sexual	anatomy=male
+dick heads	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+dick-heads	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+dickheads	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+dick head	strength=strong	type=sexist	original=sexual	anatomy=male
+dick-head	strength=strong	type=sexist	original=sexual	anatomy=male
+dickhead	strength=strong	type=sexist	original=sexual	anatomy=male
 dick holes	plural=true	strength=strong
 dick-holes	plural=true	strength=strong
 dickholes	plural=true	strength=strong
@@ -15139,8 +15139,8 @@ dickwods	plural=true	strength=strong	origin=farrell
 dick wod	strength=strong	origin=farrell
 dick-wod	strength=strong	origin=farrell
 dickwod	strength=strong	origin=farrell
-dildos	plural=true	strength=strong	type=sexual
-dildo	strength=strong	type=sexual
+dildos	plural=true	strength=strong	type=sexist	original=sexual
+dildo	strength=strong	type=sexist	original=sexual
 dim w1t	type=reputation
 dim-w1t	type=reputation
 dimw1t	type=reputation
@@ -15305,8 +15305,8 @@ dips#!ts	plural=true	type=reputation
 dips#*ts	plural=true	type=reputation
 divvies	plural=true	strength=mild
 divvy	strength=mild
-d!ldos	plural=true	strength=strong	type=sexual
-d!ldo	strength=strong	type=sexual
+d!ldos	plural=true	strength=strong	type=sexist	original=sexual
+d!ldo	strength=strong	type=sexist	original=sexual
 d!m wit	type=reputation
 d!m-wit	type=reputation
 d!mwit	type=reputation
@@ -17057,7 +17057,7 @@ fagt4rds	plural=true	type=homophobic	community=men
 fagt4rd	type=homophobic	community=men
 fagtards	plural=true	type=homophobic	community=men
 fagtard	type=homophobic	community=men
-fannies	plural=true	strength=strong	type=sexual	anatomy=female
+fannies	plural=true	strength=strong	type=sexist	original=sexual	anatomy=female
 fanny fuck3r	origin=farrell
 fanny-fuck3r	origin=farrell
 fannyfuck3r	origin=farrell
@@ -17070,7 +17070,7 @@ fannyfucker	origin=farrell
 fanny fuckers	plural=true	origin=farrell
 fanny-fuckers	plural=true	origin=farrell
 fannyfuckers	plural=true	origin=farrell
-fanny	strength=strong	type=sexual	anatomy=female
+fanny	strength=strong	type=sexist	original=sexual	anatomy=female
 fast f@ck	origin=farrell
 fast f*ck	origin=farrell
 fast f#ck	origin=farrell
@@ -21517,8 +21517,8 @@ f-u-c-k-stick	strength=strongest
 fuck stick	strength=strongest
 fuck-stick	strength=strongest
 fuckstick	strength=strongest
-fuckt4rds	plural=true	strength=strongest	type=reputation	subtype=sexual
-fuckt4rd	strength=strongest	type=reputation	subtype=sexual
+fuckt4rds	plural=true	strength=strongest	type=reputation	subtype=sexist	original=sexual
+fuckt4rd	strength=strongest	type=reputation	subtype=sexist	original=sexual
 f u c k t4rts	plural=true	strength=strongest
 f-u-c-k-t4rts	plural=true	strength=strongest
 fuck t4rts	plural=true	strength=strongest
@@ -21529,8 +21529,8 @@ f-u-c-k-t4rt	strength=strongest
 fuck t4rt	strength=strongest
 fuck-t4rt	strength=strongest
 fuckt4rt	strength=strongest
-fucktards	plural=true	strength=strongest	type=reputation	subtype=sexual
-fucktard	strength=strongest	type=reputation	subtype=sexual
+fucktards	plural=true	strength=strongest	type=reputation	subtype=sexist	original=sexual
+fucktard	strength=strongest	type=reputation	subtype=sexist	original=sexual
 f u c k tarts	plural=true	strength=strongest
 f-u-c-k-tarts	plural=true	strength=strongest
 fuck tarts	plural=true	strength=strongest
@@ -26268,12 +26268,12 @@ k!kesbergs	plural=true	type=religious	community=jewish
 k!kesberg	type=religious	community=jewish
 k!kes	plural=true	type=religious	community=jewish
 k!ke	type=religious	community=jewish
-kn0b head	type=sexual	anatomy=male
-kn0b-head	type=sexual	anatomy=male
-kn0bhead	type=sexual	anatomy=male
-kn0b heads	plural=true	type=sexual	anatomy=male
-kn0b-heads	plural=true	type=sexual	anatomy=male
-kn0bheads	plural=true	type=sexual	anatomy=male
+kn0b head	type=sexist	original=sexual	anatomy=male
+kn0b-head	type=sexist	original=sexual	anatomy=male
+kn0bhead	type=sexist	original=sexual	anatomy=male
+kn0b heads	plural=true	type=sexist	original=sexual	anatomy=male
+kn0b-heads	plural=true	type=sexist	original=sexual	anatomy=male
+kn0bheads	plural=true	type=sexist	original=sexual	anatomy=male
 kn0b jockeys	plural=true	type=homophobic	origin=farrell	community=men
 kn0b-jockeys	plural=true	type=homophobic	origin=farrell	community=men
 kn0bjockeys	plural=true	type=homophobic	origin=farrell	community=men
@@ -26292,24 +26292,24 @@ kn0bjokeys	plural=true	type=homophobic	origin=farrell	community=men
 kn0b jokey	type=homophobic	origin=farrell	community=men
 kn0b-jokey	type=homophobic	origin=farrell	community=men
 kn0bjokey	type=homophobic	origin=farrell	community=men
-knob h3ad	type=sexual	anatomy=male
-knob-h3ad	type=sexual	anatomy=male
-knobh3ad	type=sexual	anatomy=male
-knob h3ads	plural=true	type=sexual	anatomy=male
-knob-h3ads	plural=true	type=sexual	anatomy=male
-knobh3ads	plural=true	type=sexual	anatomy=male
-knob he4d	type=sexual	anatomy=male
-knob-he4d	type=sexual	anatomy=male
-knobhe4d	type=sexual	anatomy=male
-knob he4ds	plural=true	type=sexual	anatomy=male
-knob-he4ds	plural=true	type=sexual	anatomy=male
-knobhe4ds	plural=true	type=sexual	anatomy=male
-knob head	type=sexual	anatomy=male
-knob-head	type=sexual	anatomy=male
-knobhead	type=sexual	anatomy=male
-knob heads	plural=true	type=sexual	anatomy=male
-knob-heads	plural=true	type=sexual	anatomy=male
-knobheads	plural=true	type=sexual	anatomy=male
+knob h3ad	type=sexist	original=sexual	anatomy=male
+knob-h3ad	type=sexist	original=sexual	anatomy=male
+knobh3ad	type=sexist	original=sexual	anatomy=male
+knob h3ads	plural=true	type=sexist	original=sexual	anatomy=male
+knob-h3ads	plural=true	type=sexist	original=sexual	anatomy=male
+knobh3ads	plural=true	type=sexist	original=sexual	anatomy=male
+knob he4d	type=sexist	original=sexual	anatomy=male
+knob-he4d	type=sexist	original=sexual	anatomy=male
+knobhe4d	type=sexist	original=sexual	anatomy=male
+knob he4ds	plural=true	type=sexist	original=sexual	anatomy=male
+knob-he4ds	plural=true	type=sexist	original=sexual	anatomy=male
+knobhe4ds	plural=true	type=sexist	original=sexual	anatomy=male
+knob head	type=sexist	original=sexual	anatomy=male
+knob-head	type=sexist	original=sexual	anatomy=male
+knobhead	type=sexist	original=sexual	anatomy=male
+knob heads	plural=true	type=sexist	original=sexual	anatomy=male
+knob-heads	plural=true	type=sexist	original=sexual	anatomy=male
+knobheads	plural=true	type=sexist	original=sexual	anatomy=male
 knob j0ck3ys	plural=true	type=homophobic	origin=farrell	community=men
 knob-j0ck3ys	plural=true	type=homophobic	origin=farrell	community=men
 knobj0ck3ys	plural=true	type=homophobic	origin=farrell	community=men
@@ -28475,24 +28475,24 @@ nitch!e	type=racist	origin=farrell
 nitchies	plural=true	type=racist	origin=farrell
 nitchie	type=racist	origin=farrell
 nitchy	type=racist	origin=farrell
-nob h3ad	type=sexual	anatomy=male
-nob-h3ad	type=sexual	anatomy=male
-nobh3ad	type=sexual	anatomy=male
-nob h3ads	plural=true	type=sexual	anatomy=male
-nob-h3ads	plural=true	type=sexual	anatomy=male
-nobh3ads	plural=true	type=sexual	anatomy=male
-nob he4d	type=sexual	anatomy=male
-nob-he4d	type=sexual	anatomy=male
-nobhe4d	type=sexual	anatomy=male
-nob he4ds	plural=true	type=sexual	anatomy=male
-nob-he4ds	plural=true	type=sexual	anatomy=male
-nobhe4ds	plural=true	type=sexual	anatomy=male
-nob head	type=sexual	anatomy=male
-nob-head	type=sexual	anatomy=male
-nobhead	type=sexual	anatomy=male
-nob heads	plural=true	type=sexual	anatomy=male
-nob-heads	plural=true	type=sexual	anatomy=male
-nobheads	plural=true	type=sexual	anatomy=male
+nob h3ad	type=sexist	original=sexual	anatomy=male
+nob-h3ad	type=sexist	original=sexual	anatomy=male
+nobh3ad	type=sexist	original=sexual	anatomy=male
+nob h3ads	plural=true	type=sexist	original=sexual	anatomy=male
+nob-h3ads	plural=true	type=sexist	original=sexual	anatomy=male
+nobh3ads	plural=true	type=sexist	original=sexual	anatomy=male
+nob he4d	type=sexist	original=sexual	anatomy=male
+nob-he4d	type=sexist	original=sexual	anatomy=male
+nobhe4d	type=sexist	original=sexual	anatomy=male
+nob he4ds	plural=true	type=sexist	original=sexual	anatomy=male
+nob-he4ds	plural=true	type=sexist	original=sexual	anatomy=male
+nobhe4ds	plural=true	type=sexist	original=sexual	anatomy=male
+nob head	type=sexist	original=sexual	anatomy=male
+nob-head	type=sexist	original=sexual	anatomy=male
+nobhead	type=sexist	original=sexual	anatomy=male
+nob heads	plural=true	type=sexist	original=sexual	anatomy=male
+nob-heads	plural=true	type=sexist	original=sexual	anatomy=male
+nobheads	plural=true	type=sexist	original=sexual	anatomy=male
 nob j0ck3ys	plural=true	type=homophobic	origin=farrell	community=men
 nob-j0ck3ys	plural=true	type=homophobic	origin=farrell	community=men
 nobj0ck3ys	plural=true	type=homophobic	origin=farrell	community=men
@@ -39591,24 +39591,24 @@ pus5ypounder	origin=farrell
 pus5y pounders	plural=true	origin=farrell
 pus5y-pounders	plural=true	origin=farrell
 pus5ypounders	plural=true	origin=farrell
-pus5y	strength=strong	type=sexual	anatomy=female
-pusies	plural=true	origin=farrell	type=sexual	anatomy=female
-pu@sies	plural=true	strength=strong	type=sexual	anatomy=female
-pu*sies	plural=true	strength=strong	type=sexual	anatomy=female
-pu#sies	plural=true	strength=strong	type=sexual	anatomy=female
-pus*ies	plural=true	strength=strong	type=sexual	anatomy=female
-puss1e	origin=farrell	type=sexual	anatomy=female
-puss1es	plural=true	origin=farrell	type=sexual	anatomy=female
-puss!e	origin=farrell	type=sexual	anatomy=female
-pusse	origin=farrell	type=sexual	anatomy=female
-puss!es	plural=true	origin=farrell	type=sexual	anatomy=female
-pusses	plural=true	origin=farrell	type=sexual	anatomy=female
-pussie	origin=farrell	type=sexual	anatomy=female
-p u s s ies	plural=true	strength=strong	type=sexual	anatomy=female
-p-u-s-s-ies	plural=true	strength=strong	type=sexual	anatomy=female
-pussies	plural=true	strength=strong	origin=farrell	type=sexual	anatomy=female
-pussi	origin=farrell	type=sexual	anatomy=female
-pussis	plural=true	origin=farrell	type=sexual	anatomy=female
+pus5y	strength=strong	type=sexist	original=sexual	anatomy=female
+pusies	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+pu@sies	plural=true	strength=strong	type=sexist	original=sexual	anatomy=female
+pu*sies	plural=true	strength=strong	type=sexist	original=sexual	anatomy=female
+pu#sies	plural=true	strength=strong	type=sexist	original=sexual	anatomy=female
+pus*ies	plural=true	strength=strong	type=sexist	original=sexual	anatomy=female
+puss1e	origin=farrell	type=sexist	original=sexual	anatomy=female
+puss1es	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+puss!e	origin=farrell	type=sexist	original=sexual	anatomy=female
+pusse	origin=farrell	type=sexist	original=sexual	anatomy=female
+puss!es	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+pusses	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+pussie	origin=farrell	type=sexist	original=sexual	anatomy=female
+p u s s ies	plural=true	strength=strong	type=sexist	original=sexual	anatomy=female
+p-u-s-s-ies	plural=true	strength=strong	type=sexist	original=sexual	anatomy=female
+pussies	plural=true	strength=strong	origin=farrell	type=sexist	original=sexual	anatomy=female
+pussi	origin=farrell	type=sexist	original=sexual	anatomy=female
+pussis	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
 p u s s y e4ter	origin=farrell	type=homophobic	community=women
 p-u-s-s-y-e4ter	origin=farrell	type=homophobic	community=women
 pussy e4ter	origin=farrell	type=homophobic	community=women
@@ -39899,9 +39899,9 @@ p-u-s-s-y-pounders	plural=true	origin=farrell
 pussy pounders	plural=true	origin=farrell
 pussy-pounders	plural=true	origin=farrell
 pussypounders	plural=true	origin=farrell
-p u s s y	strength=strong	type=sexual	anatomy=female
-p-u-s-s-y	strength=strong	type=sexual	anatomy=female
-pussy	strength=strong	type=sexual	anatomy=female
+p u s s y	strength=strong	type=sexist	original=sexual	anatomy=female
+p-u-s-s-y	strength=strong	type=sexist	original=sexual	anatomy=female
+pussy	strength=strong	type=sexist	original=sexual	anatomy=female
 pu@sy e4ter	origin=farrell	type=homophobic	community=women
 pu@sy-e4ter	origin=farrell	type=homophobic	community=women
 pu@sye4ter	origin=farrell	type=homophobic	community=women
@@ -40599,10 +40599,10 @@ pu#sypounders	plural=true	origin=farrell
 pus*y pounders	plural=true	origin=farrell
 pus*y-pounders	plural=true	origin=farrell
 pus*ypounders	plural=true	origin=farrell
-pu@sy	strength=strong	type=sexual	anatomy=female
-pu*sy	strength=strong	type=sexual	anatomy=female
-pu#sy	strength=strong	type=sexual	anatomy=female
-pus*y	strength=strong	type=sexual	anatomy=female
+pu@sy	strength=strong	type=sexist	original=sexual	anatomy=female
+pu*sy	strength=strong	type=sexist	original=sexual	anatomy=female
+pu#sy	strength=strong	type=sexist	original=sexual	anatomy=female
+pus*y	strength=strong	type=sexist	original=sexual	anatomy=female
 puto
 putos	plural=true
 pu@*y e4ter	origin=farrell	type=homophobic	community=women
@@ -41127,9 +41127,9 @@ pu**ypounders	plural=true	origin=farrell
 pu#*y pounders	plural=true	origin=farrell
 pu#*y-pounders	plural=true	origin=farrell
 pu#*ypounders	plural=true	origin=farrell
-pu@*y	strength=strong	type=sexual	anatomy=female
-pu**y	strength=strong	type=sexual	anatomy=female
-pu#*y	strength=strong	type=sexual	anatomy=female
+pu@*y	strength=strong	type=sexist	original=sexual	anatomy=female
+pu**y	strength=strong	type=sexist	original=sexual	anatomy=female
+pu#*y	strength=strong	type=sexist	original=sexual	anatomy=female
 p@@*y e4ter	origin=farrell	type=homophobic	community=women
 p@@*y-e4ter	origin=farrell	type=homophobic	community=women
 p@@*ye4ter	origin=farrell	type=homophobic	community=women
@@ -41652,9 +41652,9 @@ p***ypounders	plural=true	origin=farrell
 p##*y pounders	plural=true	origin=farrell
 p##*y-pounders	plural=true	origin=farrell
 p##*ypounders	plural=true	origin=farrell
-p@@*y	strength=strong	type=sexual	anatomy=female
-p***y	strength=strong	type=sexual	anatomy=female
-p##*y	strength=strong	type=sexual	anatomy=female
+p@@*y	strength=strong	type=sexist	original=sexual	anatomy=female
+p***y	strength=strong	type=sexist	original=sexual	anatomy=female
+p##*y	strength=strong	type=sexist	original=sexual	anatomy=female
 qu3ef
 qu3efs	plural=true
 qu3er baits	plural=true	type=homophobic
@@ -48915,10 +48915,10 @@ sl0peheads	plural=true	type=racist	origin=farrell
 sl0pe head	type=racist	origin=farrell
 sl0pe-head	type=racist	origin=farrell
 sl0pehead	type=racist	origin=farrell
-sl1t	origin=farrell	type=sexual	anatomy=female
-sl1ts	plural=true	origin=farrell	type=sexual	anatomy=female
-sl4g	origin=farrell	type=sexual	anatomy=female
-sl4gs	plural=true	origin=farrell	type=sexual	anatomy=female
+sl1t	origin=farrell	type=sexist	original=sexual	anatomy=female
+sl1ts	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+sl4g	origin=farrell	type=sexist	original=sexual	anatomy=female
+sl4gs	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
 sl4nt eyes	plural=true	type=racist	origin=farrell
 sl4nt-eyes	plural=true	type=racist	origin=farrell
 sl4nteyes	plural=true	type=racist	origin=farrell
@@ -48929,8 +48929,8 @@ sl4pp3rs	plural=true	type=sexist	community=women
 sl4pp3r	type=sexist	community=women
 sl4ppers	plural=true	type=sexist	community=women
 sl4pper	type=sexist	community=women
-slag	origin=farrell	type=sexual	anatomy=female
-slags	plural=true	origin=farrell	type=sexual	anatomy=female
+slag	origin=farrell	type=sexist	original=sexual	anatomy=female
+slags	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
 slant eyes	plural=true	type=racist	origin=farrell
 slant-eyes	plural=true	type=racist	origin=farrell
 slanteyes	plural=true	type=racist	origin=farrell
@@ -48941,8 +48941,8 @@ slapp3rs	plural=true	type=sexist	community=women
 slapp3r	type=sexist	community=women
 slappers	plural=true	type=sexist	community=women
 slapper	type=sexist	community=women
-slit	origin=farrell	type=sexual	anatomy=female
-slits	plural=true	origin=farrell	type=sexual	anatomy=female
+slit	origin=farrell	type=sexist	original=sexual	anatomy=female
+slits	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
 slope h3ads	plural=true	type=racist	origin=farrell
 slope-h3ads	plural=true	type=racist	origin=farrell
 slopeh3ads	plural=true	type=racist	origin=farrell
@@ -48961,8 +48961,8 @@ slopeheads	plural=true	type=racist	origin=farrell
 slope head	type=racist	origin=farrell
 slope-head	type=racist	origin=farrell
 slopehead	type=racist	origin=farrell
-sl!t	origin=farrell	type=sexual	anatomy=female
-sl!ts	plural=true	origin=farrell	type=sexual	anatomy=female
+sl!t	origin=farrell	type=sexist	original=sexual	anatomy=female
+sl!ts	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
 slu77ies	plural=true	origin=farrell	type=sexist	community=women
 slu77ing	origin=farrell
 slu77ings	plural=true	origin=farrell
@@ -62485,8 +62485,8 @@ tw4t-heads	plural=true	origin=farrell
 tw4theads	plural=true	origin=farrell
 tw4+ties	plural=true	origin=farrell
 tw4t+ies	plural=true	origin=farrell
-tw4ts	plural=true	strength=strong	type=sexual	anatomy=female
-tw4t	strength=strong	type=sexual	anatomy=female
+tw4ts	plural=true	strength=strong	type=sexist	original=sexual	anatomy=female
+tw4t	strength=strong	type=sexist	original=sexual	anatomy=female
 tw4tties	plural=true	origin=farrell
 tw4tty	origin=farrell
 tw4t waffles	plural=true	strength=strong
@@ -62528,8 +62528,8 @@ twat-heads	plural=true	origin=farrell
 twatheads	plural=true	origin=farrell
 twa+ties	plural=true	origin=farrell
 twat+ies	plural=true	origin=farrell
-twats	plural=true	strength=strong	type=sexual	anatomy=female
-twat	strength=strong	type=sexual	anatomy=female
+twats	plural=true	strength=strong	type=sexist	original=sexual	anatomy=female
+twat	strength=strong	type=sexist	original=sexual	anatomy=female
 twatties	plural=true	origin=farrell
 twatty	origin=farrell
 twat w4ffles	plural=true	strength=strong
@@ -62573,20 +62573,20 @@ twob!twhore	origin=farrell
 two b!t whores	plural=true	origin=farrell
 two-b!t-whores	plural=true	origin=farrell
 twob!twhores	plural=true	origin=farrell
-twun+3r	origin=farrell	type=sexual	anatomy=female
-twun+3rs	plural=true	origin=farrell	type=sexual	anatomy=female
-twun73r	origin=farrell	type=sexual	anatomy=female
-twun73rs	plural=true	origin=farrell	type=sexual	anatomy=female
-twun7er	origin=farrell	type=sexual	anatomy=female
-twun7ers	plural=true	origin=farrell	type=sexual	anatomy=female
-twun+er	origin=farrell	type=sexual	anatomy=female
-twun+ers	plural=true	origin=farrell	type=sexual	anatomy=female
-twunt3r	origin=farrell	type=sexual	anatomy=female
-twunt3rs	plural=true	origin=farrell	type=sexual	anatomy=female
-twunter	origin=farrell	type=sexual	anatomy=female
-twunters	plural=true	origin=farrell	type=sexual	anatomy=female
-twunt	origin=farrell	type=sexual	anatomy=female
-twunts	plural=true	origin=farrell	type=sexual	anatomy=female
+twun+3r	origin=farrell	type=sexist	original=sexual	anatomy=female
+twun+3rs	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+twun73r	origin=farrell	type=sexist	original=sexual	anatomy=female
+twun73rs	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+twun7er	origin=farrell	type=sexist	original=sexual	anatomy=female
+twun7ers	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+twun+er	origin=farrell	type=sexist	original=sexual	anatomy=female
+twun+ers	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+twunt3r	origin=farrell	type=sexist	original=sexual	anatomy=female
+twunt3rs	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+twunter	origin=farrell	type=sexist	original=sexual	anatomy=female
+twunters	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
+twunt	origin=farrell	type=sexist	original=sexual	anatomy=female
+twunts	plural=true	origin=farrell	type=sexist	original=sexual	anatomy=female
 tyke
 tykes	plural=true
 tyn3k3res	plural=true	type=racist	origin=farrell
@@ -63009,10 +63009,10 @@ wagon-burner	type=racist	origin=farrell
 wagonburner	type=racist	origin=farrell
 wallies	plural=true	type=general
 wally	type=general
-wank3rs	plural=true	strength=strong	type=sexual	anatomy=male
-wank3r	strength=strong	type=sexual	anatomy=male
-wankers	plural=true	strength=strong	type=sexual	anatomy=male
-wanker	strength=strong	type=sexual	anatomy=male
+wank3rs	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+wank3r	strength=strong	type=sexist	original=sexual	anatomy=male
+wankers	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+wanker	strength=strong	type=sexist	original=sexual	anatomy=male
 wank j0b
 wank-j0b
 wankj0b
@@ -63025,8 +63025,8 @@ wankjob
 wank jobs	plural=true
 wank-jobs	plural=true
 wankjobs	plural=true
-wanks	plural=true	strength=strong	type=sexual	anatomy=male
-wank	strength=strong	type=sexual	anatomy=male
+wanks	plural=true	strength=strong	type=sexist	original=sexual	anatomy=male
+wank	strength=strong	type=sexist	original=sexual	anatomy=male
 was50ck
 was50cks	plural=true
 was54ck

@@ -1,22 +1,22 @@
-анал	english=anal	category=adjective	type=sexual
-анальный	english=anal	category=adjective	type=sexual
-анус	english=anus	strength=mild	type=sexual
-жопа	english=arse	strength=mild	type=sexual
-заниматься ерундой	english=arsing	category=adjective	strength=mild	type=sexual
-задница	english=ass	strength=mild	type=sexual
-жопа	english=ass	strength=mild	type=sexual
-тряпка	english=bitch ass	category=adjective	type=sexual
-сука измученная	english=bitch ass	category=adjective	type=sexual
-сучья жопа	english=bitchass	category=adjective	type=sexual
+анал	english=anal	category=adjective	type=sexist	original=sexual
+анальный	english=anal	category=adjective	type=sexist	original=sexual
+анус	english=anus	strength=mild	type=sexist	original=sexual
+жопа	english=arse	strength=mild	type=sexist	original=sexual
+заниматься ерундой	english=arsing	category=adjective	strength=mild	type=sexist	original=sexual
+задница	english=ass	strength=mild	type=sexist	original=sexual
+жопа	english=ass	strength=mild	type=sexist	original=sexual
+тряпка	english=bitch ass	category=adjective	type=sexist	original=sexual
+сука измученная	english=bitch ass	category=adjective	type=sexist	original=sexual
+сучья жопа	english=bitchass	category=adjective	type=sexist	original=sexual
 проклятый	english=blasted	category=adjective	strength=mild	type=general
 чертова	english=bloody	strength=mild	type=general
 проклятый	english=bloody	strength=mild	type=general
 проклятое	english=blooming	category=adjective	strength=mild	type=general
-чушь	english=bollocks	strength=medium	type=sexual
-ерунда	english=bollocks	strength=medium	type=sexual
-чушь	english=bollox	strength=medium	type=sexual
-ерунда	english=bollox	strength=medium	type=sexual
-стояк	english=boner	type=sexual
+чушь	english=bollocks	strength=medium	type=sexist	original=sexual
+ерунда	english=bollocks	strength=medium	type=sexist	original=sexual
+чушь	english=bollox	strength=medium	type=sexist	original=sexual
+ерунда	english=bollox	strength=medium	type=sexist	original=sexual
+стояк	english=boner	type=sexist	original=sexual
 сисечки	english=boobies	type=sexist	origin=farrell
 дойки	english=boobies	type=sexist	origin=farrell
 бидоны	english=boobies	type=sexist	origin=farrell
@@ -46,13 +46,13 @@
 ерунда	english=bullshit	strength=medium	type=general
 чушь	english=bullshit	strength=medium	type=general
 дыра	english=bumblefuck	type=general
-бродяга	english=bum	strength=mild	type=sexual
-бездомный	english=bum	strength=mild	type=sexual
-бомж	english=bum	strength=mild	type=sexual
-жопа	english=butt	strength=mild	type=sexual
-задница	english=butt	strength=mild	type=sexual
-член	english=cock	strength=strong	type=sexual
-Хуй	english=cock	strength=strong	type=sexual
+бродяга	english=bum	strength=mild	type=sexist	original=sexual
+бездомный	english=bum	strength=mild	type=sexist	original=sexual
+бомж	english=bum	strength=mild	type=sexist	original=sexual
+жопа	english=butt	strength=mild	type=sexist	original=sexual
+задница	english=butt	strength=mild	type=sexist	original=sexual
+член	english=cock	strength=strong	type=sexist	original=sexual
+Хуй	english=cock	strength=strong	type=sexist	original=sexual
 трусливый	english=cowardly	category=adjective	type=general
 дерьмовые	english=crappy	category=adjective	strength=mild
 дерьмовый	english=crappy	category=adjective	strength=mild
@@ -64,10 +64,10 @@
 глупый	english=daft	type=reputation
 чертов	english=damn	category=adjective	strength=mild	type=general
 проклятый	english=damn	category=adjective	strength=mild	type=general
-член	english=dick	type=sexual
-Хуй	english=dick	type=sexual
-Хуй	english=dicks	type=sexual
-сосание члена	english=dicksucking	category=adjective strength=strong	type=sexual
+член	english=dick	type=sexist	original=sexual
+Хуй	english=dick	type=sexist	original=sexual
+Хуй	english=dicks	type=sexist	original=sexual
+сосание члена	english=dicksucking	category=adjective strength=strong	type=sexist	original=sexual
 грязный	english=dirty	type=general
 сонный	english=dozy	category=adjective	strength=mild	type=general
 глупо	english=dumb	category=adjective	type=reputation
@@ -88,10 +88,10 @@
 отвратительный	english=minging	category=adjective	strength=strong	type=general
 глупый	english=moronic	category=adjective	type=reputation
 жалкий	english=pathetic	category=adjective	type=general
-хуй	english=penis	type=sexual
-член	english=penis	type=sexual
-пенис	english=penis	type=sexual
-елдак	english=penis	type=sexual
+хуй	english=penis	type=sexist	original=sexual
+член	english=penis	type=sexist	original=sexual
+пенис	english=penis	type=sexist	original=sexual
+елдак	english=penis	type=sexist	original=sexual
 черт возьми	english=phriggin	category=adjective	type=general
 чертовски	english=phriggin	category=adjective	type=general
 чертовски	english=phrigging	category=adjective	type=general
@@ -102,10 +102,10 @@
 серьезный	english=po-faced	category=adjective	type=general
 болезненный	english=poxy	category=adjective	type=general
 неважный	english=poxy	category=adjective	type=general
-дебил	english=prick	type=sexual
-урод	english=prick	type=sexual
-уроды	english=pricks	type=sexual
-дебилы	english=pricks	type=sexual
+дебил	english=prick	type=sexist	original=sexual
+урод	english=prick	type=sexist	original=sexual
+уроды	english=pricks	type=sexist	original=sexual
+дебилы	english=pricks	type=sexist	original=sexual
 рвота	english=puke	type=general
 блевота	english=puke	type=general
 завали ебало	english=shut up	type=general

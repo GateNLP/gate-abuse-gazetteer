@@ -1,16 +1,16 @@
-anal	category=adjective	type=sexual
-anus	strength=mild	type=sexual
-arse	strength=mild	type=sexual
-arsing	category=adjective	strength=mild	type=sexual
-ass	strength=mild	type=sexual
-bitch ass	category=adjective	type=sexual
-bitchass	category=adjective	type=sexual
+anal	category=adjective	type=sexist	original=sexual
+anus	strength=mild	type=sexist	original=sexual
+arse	strength=mild	type=sexist	original=sexual
+arsing	category=adjective	strength=mild	type=sexist	original=sexual
+ass	strength=mild	type=sexist	original=sexual
+bitch ass	category=adjective	type=sexist	original=sexual
+bitchass	category=adjective	type=sexist	original=sexual
 blasted	category=adjective	strength=mild	type=general
 bloody	strength=mild	type=general
 blooming	category=adjective	strength=mild	type=general
-bollocks	strength=medium	type=sexual
-bollox	strength=medium	type=sexual
-boner	type=sexual
+bollocks	strength=medium	type=sexist	original=sexual
+bollox	strength=medium	type=sexist	original=sexual
+boner	type=sexist	original=sexual
 boobies	type=sexist	origin=farrell
 boobs	type=sexist	origin=farrell
 boob	type=sexist
@@ -27,18 +27,18 @@ braindead	category=adjective	type=reputation
 bugger 	strength=mild	type=general
 bullshit	strength=medium	type=general
 bumblefuck	type=general
-bum	strength=mild	type=sexual
-butt	strength=mild	type=sexual
-cock	strength=strong	type=sexual
+bum	strength=mild	type=sexist	original=sexual
+butt	strength=mild	type=sexist	original=sexual
+cock	strength=strong	type=sexist	original=sexual
 cowardly	category=adjective	type=general
 crappy	category=adjective	strength=mild
 crap	strength=mild	type=general
 cretinous	category=adjective	type=reputation
 daft	type=reputation
 damn	category=adjective	strength=mild	type=general
-dick	type=sexual
-dicks	type=sexual
-dicksucking	category=adjective strength=strong	type=sexual
+dick	type=sexist	original=sexual
+dicks	type=sexist	original=sexual
+dicksucking	category=adjective strength=strong	type=sexist	original=sexual
 dirty	type=general
 dozy	category=adjective	strength=mild	type=general
 dumb	category=adjective	type=reputation
@@ -89,7 +89,7 @@ motherfuckin	category=adjective	type=general
 motherfucking	category=adjective	strength=strong	type=general
 munging	category=adjective	strength=strong	type=general
 pathetic	category=adjective	type=general
-penis	type=sexual
+penis	type=sexist	original=sexual
 phriggin	category=adjective	type=general
 phrigging	category=adjective	type=general
 phucken	category=adjective	type=general
@@ -97,10 +97,10 @@ phuckin	category=adjective	type=general
 phucking	category=adjective	type=general
 po-faced	category=adjective	type=general
 poxy	category=adjective	type=general
-prick	type=sexual
-pricks	type=sexual
+prick	type=sexist	original=sexual
+pricks	type=sexist	original=sexual
 puke	type=general
-shag	strength=medium	type=sexual
+shag	strength=medium	type=sexist	original=sexual
 sheister	origin=farrell	type=general
 shite	strength=medium	type=general
 shit	strength=medium	type=general

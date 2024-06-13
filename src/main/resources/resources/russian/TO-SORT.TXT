@@ -38,7 +38,7 @@ offensive_words.lst
 	english=motherfuckin	category=adjective	type=general
 	english=motherfucking	category=adjective	strength=strong	type=general
 	english=munging	category=adjective	strength=strong	type=general
-	english=shag	strength=medium	type=sexual
+	english=shag	strength=medium	type=sexist	original=sexual
 	english=sheister	origin=farrell	type=general
 	english=shite	strength=medium	type=general
 	english=shit	strength=medium	type=general

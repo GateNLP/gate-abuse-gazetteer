@@ -20,7 +20,7 @@
 	<!-- The Maven coordinates of this plugin -->
 	<groupId>uk.ac.gate.plugins</groupId>
 	<artifactId>abuse-gazetteer</artifactId>
-	<version>0.1-SNAPSHOT</version>
+	<version>0.2-SNAPSHOT</version>
 
 	<!-- Information about this plugin. This will be used when the plugin is 
 		shown in the GATE plugin manager -->
