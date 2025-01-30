@@ -8,3 +8,4 @@ sexual-threat-phrases.lst:threat:::OffensiveLookup
 reputation.lst:offensive:::OffensiveLookup
 reputation-journalist-slurs.lst:abuse:slur::SlurLookup
 you-are-phrases.lst:you-are-phrase:::YouAreLookup
+not-abuse-by-language.lst:notabuse:::NotAbuseByLanguage
